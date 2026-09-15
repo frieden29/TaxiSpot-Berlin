@@ -6,57 +6,90 @@ on:
     branches:
       - main
 
+permissions:
+  contents: read
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Download project
-        uses: actions/checkout@v4
+      - name: Checkout source
+        uses: actions/checkout@v5
 
-      - name: Install Java
-        uses: actions/setup-java@v4
+      - name: Setup Java
+        uses: actions/setup-java@v5
         with:
           distribution: temurin
           java-version: "17"
 
-      - name: Install Flutter
+      - name: Setup Flutter
         uses: subosito/flutter-action@v2
         with:
           channel: stable
+          cache: true
 
-      - name: Create Flutter project files
+      - name: Show Flutter version
+        run: flutter --version
+
+      - name: Create clean Android project
         run: |
           cp lib/main.dart /tmp/main.dart
           cp pubspec.yaml /tmp/pubspec.yaml
+
           rm -rf android
-          flutter create --platforms=android --org com.taxispot .
+
+          flutter create \
+            --platforms=android \
+            --org com.taxispot \
+            --project-name taxispot_berlin \
+            .
+
           cp /tmp/main.dart lib/main.dart
           cp /tmp/pubspec.yaml pubspec.yaml
-
-      - name: Install packages
-        run: flutter pub get
 
       - name: Add Android permissions
         run: |
           python3 - <<'PY'
-          p = "android/app/src/main/AndroidManifest.xml"
-          s = open(p).read()
-          s = s.replace(
-              '<manifest xmlns:android="http://schemas.android.com/apk/res/android">',
-              '<manifest xmlns:android="http://schemas.android.com/apk/res/android">\n'
-              '    <uses-permission android:name="android.permission.INTERNET"/>\n'
-              '    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>\n'
-              '    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>'
-          )
-          open(p, "w").write(s)
+          from pathlib import Path
+
+          path = Path("android/app/src/main/AndroidManifest.xml")
+          text = path.read_text()
+
+          marker = '<manifest xmlns:android="http://schemas.android.com/apk/res/android">'
+
+          permissions = '''
+              <uses-permission android:name="android.permission.INTERNET"/>
+              <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+              <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+          '''
+
+          if "android.permission.ACCESS_FINE_LOCATION" not in text:
+              text = text.replace(marker, marker + permissions)
+
+          path.write_text(text)
           PY
 
-      - name: Build APK
+      - name: Install dependencies
+        run: flutter pub get
+
+      - name: Analyze project
+        run: flutter analyze
+
+      - name: Build release APK
         run: flutter build apk --release
+
+      - name: Calculate APK SHA-256
+        run: |
+          sha256sum build/app/outputs/flutter-apk/app-release.apk
+          sha256sum build/app/outputs/flutter-apk/app-release.apk > APK-SHA256.txt
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
-          name: TaxiSpot-Berlin-APK
-          path: build/app/outputs/flutter-apk/app-release.apk
+          name: TaxiSpot-Berlin-v0.1
+          path: |
+            build/app/outputs/flutter-apk/app-release.apk
+            APK-SHA256.txt
+          if-no-files-found: error
+          retention-days: 7
