@@ -2,6 +2,8 @@ import 'dart:convert';
 import 'dart:async';
 import 'dart:ui' as ui;
 import 'package:http/http.dart' as http;
+import 'package:firebase_core/firebase_core.dart';
+import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:flutter_map_marker_cluster/flutter_map_marker_cluster.dart';
@@ -12,7 +14,26 @@ import 'package:url_launcher/url_launcher.dart';
 import 'taxi_spots.dart';
 import 'berlin_places.dart';
 
-void main() => runApp(const TaxiSpotApp());
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+
+  await Firebase.initializeApp(
+    options: const FirebaseOptions(
+      apiKey: 'AIzaSyDryCyRT5biLr1EF9q2hYxJi-jRD380YW4',
+      authDomain: 'taxispot-berlin.firebaseapp.com',
+      projectId: 'taxispot-berlin',
+      storageBucket: 'taxispot-berlin.firebasestorage.app',
+      messagingSenderId: '331677000836',
+      appId: '1:331677000836:web:9218311a71134d8fdf0ed1',
+      measurementId: 'G-GB9KGZZ7DD',
+    ),
+  );
+
+  // Analytics remains disabled until consent and platform setup are implemented.
+  await FirebaseAnalytics.instance.setAnalyticsCollectionEnabled(false);
+
+  runApp(const TaxiSpotApp());
+}
 
 class TaxiSpot {
   final String name;
