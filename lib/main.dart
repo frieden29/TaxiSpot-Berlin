@@ -1,3 +1,6 @@
+import 'dart:convert';
+
+import 'package:http/http.dart' as http;
 import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:flutter_map_marker_cluster/flutter_map_marker_cluster.dart';
@@ -93,11 +96,55 @@ class _MapScreenState extends State<MapScreen> {
 
   bool _loading = true;
   String? _loadError;
+  double? _temperature;
+  double? _precipitation;
+  String? _berlinTime;
+  String? _weatherError;
+  bool _weatherLoading = true;
 
   @override
   void initState() {
     super.initState();
     _loadAllSpots();
+    _loadWeather();
+  }
+
+  Future<void> _loadWeather() async {
+    if (mounted) {
+      setState(() {
+        _weatherLoading = true;
+        _weatherError = null;
+      });
+    }
+    try {
+      final uri = Uri.https('api.open-meteo.com', '/v1/forecast', {
+        'latitude': '52.52',
+        'longitude': '13.405',
+        'current': 'temperature_2m,precipitation',
+        'timezone': 'Europe/Berlin',
+      });
+      final response = await http.get(uri).timeout(const Duration(seconds: 15));
+      if (response.statusCode != 200) {
+        throw Exception('Weather HTTP ${response.statusCode}');
+      }
+      final data = jsonDecode(response.body) as Map<String, dynamic>;
+      final current = data['current'] as Map<String, dynamic>;
+      final time = DateTime.parse(current['time'] as String);
+      if (!mounted) return;
+      setState(() {
+        _temperature = (current['temperature_2m'] as num).toDouble();
+        _precipitation = (current['precipitation'] as num).toDouble();
+        _berlinTime = '${time.hour.toString().padLeft(2, '0')}:${time.minute.toString().padLeft(2, '0')}';
+        _weatherLoading = false;
+      });
+    } catch (e) {
+      debugPrint('Weather error: $e');
+      if (!mounted) return;
+      setState(() {
+        _weatherLoading = false;
+        _weatherError = 'تعذر تحميل الطقس';
+      });
+    }
   }
 
   Future<void> _loadAllSpots() async {
@@ -265,6 +312,27 @@ class _MapScreenState extends State<MapScreen> {
     }).toList();
   }
 
+  Widget _weatherBanner() {
+    if (_weatherLoading) {
+      return const Text('جارٍ تحميل طقس برلين...');
+    }
+    if (_weatherError != null) {
+      return Text(_weatherError!);
+    }
+    final rain = _precipitation == null
+        ? 'المطر غير متاح'
+        : _precipitation! > 0
+            ? 'هطول ${_precipitation!.toStringAsFixed(1)} مم'
+            : 'لا هطول مسجل';
+    return Text(
+      'برلين ${_berlinTime ?? '--:--'}  •  '
+      '${_temperature?.toStringAsFixed(1) ?? '--'}°C  •  $rain',
+      style: const TextStyle(fontSize: 12),
+      maxLines: 2,
+      overflow: TextOverflow.ellipsis,
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     final demoSpots = _allSpots
@@ -292,6 +360,7 @@ class _MapScreenState extends State<MapScreen> {
                   : '${_allSpots.length} موقع على الخريطة',
               style: const TextStyle(fontSize: 12),
             ),
+            _weatherBanner(),
           ],
         ),
       ),
