@@ -960,3 +960,5 @@ class _DemandCornersPainter extends CustomPainter {
       strokeWidth != oldDelegate.strokeWidth ||
       cornerLength != oldDelegate.cornerLength;
 }
+
+>>>>>>> 9e71b61744e5098cb6b516e9a57888ece267100d
