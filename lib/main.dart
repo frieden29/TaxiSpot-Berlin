@@ -12,7 +12,6 @@ import 'package:flutter_map_marker_cluster/flutter_map_marker_cluster.dart';
 import 'package:latlong2/latlong.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 
 import 'taxi_spots.dart';
 import 'berlin_places.dart';
@@ -41,7 +40,7 @@ try {
   debugPrint('Anonymous authentication failed: $e');
 }
 
-  // Analytics remains disabled until consent and platform setup are implemented.
+  // Analytics collection is enabled in this build.
   await FirebaseAnalytics.instance.setAnalyticsCollectionEnabled(true);
 
   runApp(const TaxiSpotApp());
@@ -145,6 +144,7 @@ class _MapScreenState extends State<MapScreen> {
   bool _weatherLoading = true;
   Timer? _refreshTimer;
   int _refreshTicks = 0;
+  late DateTime _lastDemandRefresh;
 
   int? _totalVisits;
   int? _uniqueVisitors;
@@ -274,13 +274,16 @@ class _MapScreenState extends State<MapScreen> {
   @override
   void initState() {
     super.initState();
+    _lastDemandRefresh = _berlinNow();
     _startCounters();
     _loadAllSpots();
     _loadPlaces();
     _loadWeather();
     _refreshTimer = Timer.periodic(const Duration(minutes: 5), (_) {
       if (!mounted) return;
-      setState(() {}); // Recalculate using the current Berlin hour.
+      setState(() {
+        _lastDemandRefresh = _berlinNow(); // Recalculate using current time.
+      });
       _refreshTicks++;
       if (_refreshTicks % 3 == 0) _loadWeather();
     });
@@ -667,6 +670,17 @@ class _MapScreenState extends State<MapScreen> {
     }).toList();
   }
 
+  Widget _demandRefreshBanner() {
+    final hour = _lastDemandRefresh.hour.toString().padLeft(2, '0');
+    final minute = _lastDemandRefresh.minute.toString().padLeft(2, '0');
+    return Text(
+      'Nachfrage-Index aktualisiert: $hour:$minute Uhr · alle 5 Min. · Schätzung',
+      style: const TextStyle(fontSize: 11),
+      maxLines: 1,
+      overflow: TextOverflow.ellipsis,
+    );
+  }
+
   Widget _weatherBanner() {
     if (_weatherLoading) {
       return const Text('Berliner Wetter wird geladen ...');
@@ -699,7 +713,7 @@ class _MapScreenState extends State<MapScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        toolbarHeight: 88,
+        toolbarHeight: 106,
         backgroundColor: Colors.amber,
         title: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
@@ -717,6 +731,7 @@ class _MapScreenState extends State<MapScreen> {
               style: const TextStyle(fontSize: 12),
             ),
             _weatherBanner(),
+            _demandRefreshBanner(),
             _counterBanner(),
           ],
         ),
