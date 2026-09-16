@@ -862,7 +862,7 @@ class _MapScreenState extends State<MapScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        toolbarHeight: 106,
+        toolbarHeight: 145,
         backgroundColor: Colors.amber,
         title: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
@@ -882,6 +882,35 @@ class _MapScreenState extends State<MapScreen> {
             _weatherBanner(),
             _demandRefreshBanner(),
             _counterBanner(),
+            const SizedBox(height: 4),
+Row(
+  mainAxisSize: MainAxisSize.min,
+  children: [
+    for (final filter in ['all', 'today', 'tomorrow'])
+      Padding(
+        padding: const EdgeInsets.only(right: 6),
+        child: ChoiceChip(
+          label: Text(
+            filter == 'all'
+                ? 'Alle'
+                : filter == 'today'
+                    ? 'Heute'
+                    : 'Morgen',
+            style: const TextStyle(fontSize: 11),
+          ),
+          selected: _eventFilter == filter,
+          onSelected: (_) {
+            setState(() {
+              _eventFilter = filter;
+              _selectedEvent = null;
+            });
+          },
+          visualDensity: VisualDensity.compact,
+          materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
+        ),
+      ),
+  ],
+),
           ],
         ),
       ),
