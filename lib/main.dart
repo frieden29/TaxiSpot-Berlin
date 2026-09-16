@@ -210,11 +210,14 @@ class _MapScreenState extends State<MapScreen> {
 
   Widget _counterBanner() {
     final text = _counterError ??
-      //  'Besuche: ${_totalVisits?.toString() ?? "…"}  •  '
-        'Besucher: ${_uniqueVisitors?.toString() ?? "…"}  •  '
-      //  'Hotel & Events: ${_placeViews?.toString() ?? "…"}';
-    return Text(text, style: const TextStyle(fontSize: 11),
-        maxLines: 1, overflow: TextOverflow.ellipsis);
+  'Besucher: ${_uniqueVisitors?.toString() ?? "…"}';
+
+         return Text(
+    text,
+    style: const TextStyle(fontSize: 11),
+    maxLines: 1,
+    overflow: TextOverflow.ellipsis,
+  );
   }
 
 
