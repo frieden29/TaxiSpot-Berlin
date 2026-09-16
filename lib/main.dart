@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'dart:async';
-
+import 'dart:ui' as ui;
 import 'package:http/http.dart' as http;
 import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
@@ -939,7 +939,7 @@ class _DemandCornersPainter extends CustomPainter {
     final top = inset;
     final right = size.width - inset;
     final bottom = size.height - inset;
-    final path = Path()
+    final path = ui.Path()
       ..moveTo(left, top + cornerLength)
       ..lineTo(left, top)
       ..lineTo(left + cornerLength, top)
