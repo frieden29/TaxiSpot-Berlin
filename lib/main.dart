@@ -9,6 +9,7 @@ import 'package:geolocator/geolocator.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import 'taxi_spots.dart';
+import 'berlin_places.dart';
 
 void main() => runApp(const TaxiSpotApp());
 
@@ -91,6 +92,11 @@ class _MapScreenState extends State<MapScreen> {
 
   LatLng? _driver;
   TaxiSpot? _selected = spots.first;
+  BerlinPlace? _selectedPlace;
+  List<BerlinPlace> _places = [];
+  bool _placesLoading = true;
+  String? _placesError;
+  bool _showPlaces = true;
 
   List<TaxiSpot> _allSpots = List.of(spots);
 
@@ -106,7 +112,106 @@ class _MapScreenState extends State<MapScreen> {
   void initState() {
     super.initState();
     _loadAllSpots();
+    _loadPlaces();
     _loadWeather();
+  }
+
+  Future<void> _loadPlaces() async {
+    try {
+      final places = await BerlinPlacesLoader.load();
+      if (!mounted) return;
+      setState(() {
+        _places = places;
+        _placesLoading = false;
+        _placesError = null;
+      });
+    } catch (e) {
+      debugPrint('Error loading Berlin places: $e');
+      if (!mounted) return;
+      setState(() {
+        _placesLoading = false;
+        _placesError = 'Orte konnten nicht geladen werden';
+      });
+    }
+  }
+
+  Color _placeColor(BerlinPlaceType type) {
+    switch (type) {
+      case BerlinPlaceType.hotel:
+        return Colors.deepPurple;
+      case BerlinPlaceType.event:
+        return Colors.deepOrange;
+      case BerlinPlaceType.theatre:
+        return Colors.pink;
+      case BerlinPlaceType.conference:
+        return Colors.teal;
+    }
+  }
+
+  IconData _placeIcon(BerlinPlaceType type) {
+    switch (type) {
+      case BerlinPlaceType.hotel:
+        return Icons.hotel;
+      case BerlinPlaceType.event:
+        return Icons.celebration;
+      case BerlinPlaceType.theatre:
+        return Icons.music_note;
+      case BerlinPlaceType.conference:
+        return Icons.groups;
+    }
+  }
+
+  String _placeLabel(BerlinPlaceType type) {
+    switch (type) {
+      case BerlinPlaceType.hotel:
+        return 'Hotel / Hostel';
+      case BerlinPlaceType.event:
+        return 'Veranstaltungsort';
+      case BerlinPlaceType.theatre:
+        return 'Theater / Musik / Kultur';
+      case BerlinPlaceType.conference:
+        return 'Konferenzzentrum';
+    }
+  }
+
+  List<Marker> _buildPlaceMarkers() {
+    return _places.map((place) {
+      return Marker(
+        point: place.location,
+        width: 40,
+        height: 40,
+        child: GestureDetector(
+          onTap: () => setState(() {
+            _selectedPlace = place;
+            _selected = null;
+          }),
+          child: Container(
+            alignment: Alignment.center,
+            decoration: BoxDecoration(
+              color: _placeColor(place.type),
+              shape: BoxShape.circle,
+              border: Border.all(color: Colors.white, width: 2),
+              boxShadow: const [BoxShadow(blurRadius: 4, color: Colors.black26)],
+            ),
+            child: Icon(_placeIcon(place.type), color: Colors.white, size: 21),
+          ),
+        ),
+      );
+    }).toList();
+  }
+
+  Future<void> _navigateToPoint(LatLng point) async {
+    final uri = Uri.https('www.google.com', '/maps/dir/', {
+      'api': '1',
+      'destination': '${point.latitude},${point.longitude}',
+    });
+    try {
+      final opened = await launchUrl(uri, mode: LaunchMode.externalApplication);
+      if (!opened) _showMessage('Navigation konnte nicht geöffnet werden');
+    } catch (e) {
+      debugPrint('Navigation error: $e');
+      _showMessage('Navigation konnte nicht geöffnet werden');
+    }
   }
 
   Future<void> _loadWeather() async {
@@ -275,6 +380,7 @@ class _MapScreenState extends State<MapScreen> {
           onTap: () {
             setState(() {
               _selected = spot;
+              _selectedPlace = null;
             });
           },
           child: Container(
@@ -357,7 +463,7 @@ class _MapScreenState extends State<MapScreen> {
             Text(
               _loading
                   ? 'Taxistände werden geladen ...'
-                  : '${_allSpots.length} Standorte auf der Karte',
+                  : '${_allSpots.length} Taxistände · ${_places.length} Orte',
               style: const TextStyle(fontSize: 12),
             ),
             _weatherBanner(),
@@ -415,6 +521,28 @@ class _MapScreenState extends State<MapScreen> {
                 ),
               ),
 
+              // POIs use their own cluster layer and distinct icons.
+              if (_showPlaces)
+                MarkerClusterLayerWidget(
+                  options: MarkerClusterLayerOptions(
+                    maxClusterRadius: 55,
+                    size: const Size(46, 46),
+                    markers: _buildPlaceMarkers(),
+                    builder: (context, markers) => Container(
+                      alignment: Alignment.center,
+                      decoration: BoxDecoration(
+                        color: Colors.deepPurple.shade100,
+                        shape: BoxShape.circle,
+                        border: Border.all(color: Colors.deepPurple, width: 2),
+                      ),
+                      child: Text(
+                        '${markers.length}',
+                        style: const TextStyle(fontWeight: FontWeight.bold),
+                      ),
+                    ),
+                  ),
+                ),
+
               // Driver location marker is separate from taxi stand clusters.
               if (_driver != null)
                 MarkerLayer(
@@ -445,6 +573,36 @@ class _MapScreenState extends State<MapScreen> {
             ),
           ),
 
+          Positioned(
+            right: 14,
+            top: 72,
+            child: FloatingActionButton.small(
+              heroTag: 'places',
+              tooltip: _showPlaces ? 'Orte ausblenden' : 'Orte anzeigen',
+              backgroundColor: Colors.white,
+              onPressed: () => setState(() {
+                _showPlaces = !_showPlaces;
+                if (!_showPlaces) _selectedPlace = null;
+              }),
+              child: Icon(
+                _showPlaces ? Icons.layers : Icons.layers_clear,
+                color: Colors.deepPurple,
+              ),
+            ),
+          ),
+          if (_placesLoading)
+            const Positioned(
+              left: 14,
+              top: 66,
+              child: Chip(label: Text('Orte werden geladen ...')),
+            ),
+          if (_placesError != null)
+            Positioned(
+              left: 14,
+              top: 66,
+              child: Chip(label: Text(_placesError!)),
+            ),
+
           if (_loading)
             const Positioned(
               left: 14,
@@ -460,6 +618,56 @@ class _MapScreenState extends State<MapScreen> {
               top: 14,
               child: Chip(
                 label: Text(_loadError!),
+              ),
+            ),
+
+          if (_selectedPlace != null && _showPlaces)
+            Positioned(
+              left: 12,
+              right: 12,
+              bottom: 12,
+              child: Card(
+                elevation: 8,
+                child: Padding(
+                  padding: const EdgeInsets.all(14),
+                  child: Column(
+                    mainAxisSize: MainAxisSize.min,
+                    crossAxisAlignment: CrossAxisAlignment.stretch,
+                    children: [
+                      Row(
+                        children: [
+                          Icon(
+                            _placeIcon(_selectedPlace!.type),
+                            color: _placeColor(_selectedPlace!.type),
+                          ),
+                          const SizedBox(width: 8),
+                          Expanded(
+                            child: Text(
+                              _selectedPlace!.name,
+                              style: const TextStyle(
+                                fontSize: 18,
+                                fontWeight: FontWeight.bold,
+                              ),
+                            ),
+                          ),
+                          IconButton(
+                            onPressed: () => setState(() => _selectedPlace = null),
+                            icon: const Icon(Icons.close),
+                          ),
+                        ],
+                      ),
+                      Text(_placeLabel(_selectedPlace!.type)),
+                      const SizedBox(height: 4),
+                      const Text('Nachfrage unbekannt · Keine Live-Fahrgastdaten'),
+                      const SizedBox(height: 10),
+                      FilledButton.icon(
+                        onPressed: () => _navigateToPoint(_selectedPlace!.location),
+                        icon: const Icon(Icons.navigation),
+                        label: const Text('Route starten'),
+                      ),
+                    ],
+                  ),
+                ),
               ),
             ),
 
