@@ -26,4 +26,5 @@ flutter:
 
   assets:
     - lib/export.geojson
+    - lib/export2.geojson
 
