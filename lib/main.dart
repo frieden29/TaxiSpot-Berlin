@@ -343,6 +343,7 @@ class _MapScreenState extends State<MapScreen> {
       if (raw is! List) throw const FormatException('Invalid events list');
       final events = raw.whereType<Map<String, dynamic>>()
           .map(BerlinEvent.fromJson).whereType<BerlinEvent>().toList();
+      debugPrint('EVENTS CHECK: JSON=${raw.length}, VALID=${events.length}');
       if (!mounted) return;
       setState(() {
         _events = events;
