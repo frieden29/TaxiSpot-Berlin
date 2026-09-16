@@ -56,8 +56,8 @@ class _MapScreenState extends State<MapScreen> {
       permission = await Geolocator.requestPermission();
     }
     if (permission == LocationPermission.denied ||
-        permission == LocationPermission.deniedForever) return;
-
+    permission == LocationPermission.deniedForever) {  return;
+    }
     final p = await Geolocator.getCurrentPosition();
     final point = LatLng(p.latitude, p.longitude);
     setState(() => _driver = point);
