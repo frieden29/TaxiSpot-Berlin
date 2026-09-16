@@ -98,7 +98,8 @@ class _MapScreenState extends State<MapScreen> {
   bool _placesLoading = true;
   String? _placesError;
   bool _showPlaces = true;
-  bool _highDemandOnly = false;
+  bool _showTaxiStands = true;
+  int _demandFilter = 0; // 0: all, 1: 90-100, 2: 80-89, 3: 60-79
 
   List<TaxiSpot> _allSpots = List.of(spots);
 
@@ -291,9 +292,35 @@ class _MapScreenState extends State<MapScreen> {
     );
   }
 
+  bool _matchesDemandFilter(BerlinPlace place) {
+    final score = _demandIndex(place.type);
+    switch (_demandFilter) {
+      case 1:
+        return score >= 90;
+      case 2:
+        return score >= 80 && score < 90;
+      case 3:
+        return score >= 60 && score < 80;
+      default:
+        return true;
+    }
+  }
+
+  String _demandFilterLabel() {
+    switch (_demandFilter) {
+      case 1:
+        return '90–100';
+      case 2:
+        return '80–89';
+      case 3:
+        return '60–79';
+      default:
+        return 'Alle Orte';
+    }
+  }
+
   List<Marker> _buildPlaceMarkers() {
-    return _places.where((place) =>
-        !_highDemandOnly || _demandIndex(place.type) >= 80).map((place) {
+    return _places.where(_matchesDemandFilter).map((place) {
       final score = _demandIndex(place.type);
       final size = score >= 90 ? 76.0 : score >= 80 ? 64.0 : 40.0;
       return Marker(
@@ -597,7 +624,8 @@ class _MapScreenState extends State<MapScreen> {
               ),
 
               // Group nearby taxi stands into clusters.
-              MarkerClusterLayerWidget(
+              if (_showTaxiStands)
+                MarkerClusterLayerWidget(
                 options: MarkerClusterLayerOptions(
                   maxClusterRadius: 60,
                   size: const Size(48, 48),
@@ -705,29 +733,57 @@ class _MapScreenState extends State<MapScreen> {
             right: 14,
             top: 130,
             child: FloatingActionButton.small(
-              heroTag: 'highDemand',
-              tooltip: _highDemandOnly
-                  ? 'Alle Orte anzeigen'
-                  : 'Nur Orte mit Index ab 80 anzeigen',
-              backgroundColor: _highDemandOnly ? Colors.black : Colors.white,
+              heroTag: 'taxiVisibility',
+              tooltip: _showTaxiStands
+                  ? 'Taxistände ausblenden'
+                  : 'Taxistände anzeigen',
+              backgroundColor: _showTaxiStands ? Colors.white : Colors.black,
               onPressed: () => setState(() {
-                _highDemandOnly = !_highDemandOnly;
-                if (_highDemandOnly && _selectedPlace != null &&
-                    _demandIndex(_selectedPlace!.type) < 80) {
-                  _selectedPlace = null;
-                }
+                _showTaxiStands = !_showTaxiStands;
+                if (!_showTaxiStands) _selected = null;
               }),
-              child: Icon(Icons.filter_alt,
-                  color: _highDemandOnly ? Colors.white : Colors.black),
+              child: Icon(
+                _showTaxiStands ? Icons.local_taxi : Icons.local_taxi_outlined,
+                color: _showTaxiStands ? Colors.blue : Colors.white,
+              ),
             ),
           ),
-          if (_highDemandOnly && _showPlaces &&
-              !_placesLoading &&
-              !_places.any((place) => _demandIndex(place.type) >= 80))
-            const Positioned(
+          Positioned(
+            right: 14,
+            top: 188,
+            child: Material(
+              color: _demandFilter == 0 ? Colors.white : Colors.black,
+              shape: const CircleBorder(),
+              elevation: 5,
+              child: PopupMenuButton<int>(
+                tooltip: 'Nachfrage-Index filtern',
+                initialValue: _demandFilter,
+                icon: Icon(Icons.filter_alt,
+                    color: _demandFilter == 0 ? Colors.black : Colors.white),
+                onSelected: (value) => setState(() {
+                  _demandFilter = value;
+                  if (_selectedPlace != null &&
+                      !_matchesDemandFilter(_selectedPlace!)) {
+                    _selectedPlace = null;
+                  }
+                }),
+                itemBuilder: (context) => const [
+                  PopupMenuItem(value: 0, child: Text('Alle Orte')),
+                  PopupMenuItem(value: 1, child: Text('Index 90–100')),
+                  PopupMenuItem(value: 2, child: Text('Index 80–89')),
+                  PopupMenuItem(value: 3, child: Text('Index 60–79')),
+                ],
+              ),
+            ),
+          ),
+          if (_demandFilter != 0 && _showPlaces && !_placesLoading)
+            Positioned(
               left: 14,
               top: 120,
-              child: Chip(label: Text('Keine Orte mit Index ab 80')),
+              child: Chip(
+                label: Text('${_demandFilterLabel()}: '
+                    '${_places.where(_matchesDemandFilter).length} Orte'),
+              ),
             ),
           if (_placesLoading)
             const Positioned(
@@ -796,6 +852,8 @@ class _MapScreenState extends State<MapScreen> {
                         ],
                       ),
                       Text(_placeLabel(_selectedPlace!.type)),
+                      const Text('Besucherzahl: keine verlässlichen Daten verfügbar',
+                          style: TextStyle(fontSize: 12)),
                       const SizedBox(height: 4),
                       Text('Experimenteller Nachfrage-Index: '
                           '${_demandIndex(_selectedPlace!.type)}/100'),
@@ -817,7 +875,7 @@ class _MapScreenState extends State<MapScreen> {
               ),
             ),
 
-          if (_selected != null)
+          if (_selected != null && _showTaxiStands)
             Positioned(
               left: 12,
               right: 12,
