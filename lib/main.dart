@@ -31,7 +31,7 @@ Future<void> main() async {
   );
 
   // Analytics remains disabled until consent and platform setup are implemented.
-  await FirebaseAnalytics.instance.setAnalyticsCollectionEnabled(false);
+  await FirebaseAnalytics.instance.setAnalyticsCollectionEnabled(true);
 
   runApp(const TaxiSpotApp());
 }
