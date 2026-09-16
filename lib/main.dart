@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'dart:async';
 
 import 'package:http/http.dart' as http;
 import 'package:flutter/material.dart';
@@ -107,6 +108,59 @@ class _MapScreenState extends State<MapScreen> {
   String? _berlinTime;
   String? _weatherError;
   bool _weatherLoading = true;
+  Timer? _refreshTimer;
+  int _refreshTicks = 0;
+
+  // Berlin local time, including European daylight saving time.
+  DateTime _berlinNow() {
+    final utc = DateTime.now().toUtc();
+    DateTime lastSunday(int month) {
+      final last = DateTime.utc(utc.year, month + 1, 0);
+      return DateTime.utc(utc.year, month, last.day - last.weekday % 7, 1);
+    }
+    final summer = !utc.isBefore(lastSunday(3)) && utc.isBefore(lastSunday(10));
+    return utc.add(Duration(hours: summer ? 2 : 1));
+  }
+
+  // Experimental 0–100 index, NOT a probability or observed passenger demand.
+  // No event bonus is awarded without a verified event schedule.
+  int _demandIndex(BerlinPlaceType type) {
+    final now = _berlinNow();
+    final hour = now.hour;
+    final weekend = now.weekday >= 6;
+    int base;
+    int time;
+    switch (type) {
+      case BerlinPlaceType.hotel:
+        base = 30;
+        time = hour >= 6 && hour < 11 ? 30 : hour >= 17 && hour < 22 ? 20 : 7;
+        break;
+      case BerlinPlaceType.event:
+        base = 25;
+        time = hour >= 20 || hour < 2 ? 22 : hour >= 16 ? 14 : 5;
+        break;
+      case BerlinPlaceType.theatre:
+        base = 25;
+        time = hour >= 21 || hour < 1 ? 25 : hour >= 17 ? 14 : 4;
+        break;
+      case BerlinPlaceType.conference:
+        base = 25;
+        time = !weekend && hour >= 16 && hour < 20 ? 27 :
+            !weekend && hour >= 8 && hour < 11 ? 15 : 4;
+        break;
+    }
+    final weather = _precipitation == null ? 0 :
+        _precipitation! >= 2 ? 15 : _precipitation! > 0 ? 9 : 0;
+    final cold = _temperature != null && _temperature! < 3 ? 4 : 0;
+    return (base + time + weather + cold).clamp(0, 100).toInt();
+  }
+
+  @override
+  void dispose() {
+    _refreshTimer?.cancel();
+    _mapController.dispose();
+    super.dispose();
+  }
 
   @override
   void initState() {
@@ -114,6 +168,12 @@ class _MapScreenState extends State<MapScreen> {
     _loadAllSpots();
     _loadPlaces();
     _loadWeather();
+    _refreshTimer = Timer.periodic(const Duration(minutes: 5), (_) {
+      if (!mounted) return;
+      setState(() {}); // Recalculate using the current Berlin hour.
+      _refreshTicks++;
+      if (_refreshTicks % 3 == 0) _loadWeather();
+    });
   }
 
   Future<void> _loadPlaces() async {
@@ -193,7 +253,22 @@ class _MapScreenState extends State<MapScreen> {
               border: Border.all(color: Colors.white, width: 2),
               boxShadow: const [BoxShadow(blurRadius: 4, color: Colors.black26)],
             ),
-            child: Icon(_placeIcon(place.type), color: Colors.white, size: 21),
+            child: Stack(
+              alignment: Alignment.center,
+              children: [
+                Icon(_placeIcon(place.type), color: Colors.white, size: 21),
+                Positioned(
+                  right: 0,
+                  bottom: 0,
+                  child: Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 2),
+                    color: Colors.black87,
+                    child: Text('${_demandIndex(place.type)}',
+                      style: const TextStyle(color: Colors.white, fontSize: 9)),
+                  ),
+                ),
+              ],
+            ),
           ),
         ),
       );
@@ -658,7 +733,14 @@ class _MapScreenState extends State<MapScreen> {
                       ),
                       Text(_placeLabel(_selectedPlace!.type)),
                       const SizedBox(height: 4),
-                      const Text('Nachfrage unbekannt · Keine Live-Fahrgastdaten'),
+                      Text('Experimenteller Nachfrage-Index: '
+                          '${_demandIndex(_selectedPlace!.type)}/100'),
+                      const Text(
+                        'Schätzung nach Ortstyp, Berliner Uhrzeit und Wetter. '
+                        'Keine Wahrscheinlichkeit, keine Live-Fahrgastdaten. '
+                        'Veranstaltungstermine noch nicht berücksichtigt.',
+                        style: TextStyle(fontSize: 12),
+                      ),
                       const SizedBox(height: 10),
                       FilledButton.icon(
                         onPressed: () => _navigateToPoint(_selectedPlace!.location),
