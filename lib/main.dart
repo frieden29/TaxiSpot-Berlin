@@ -156,6 +156,7 @@ class _MapScreenState extends State<MapScreen> {
     try {
       final auth = FirebaseAuth.instance;
       final user = auth.currentUser ?? (await auth.signInAnonymously()).user;
+      debugPrint('Counter auth UID: ${user?.uid}');
       if (user == null) throw StateError('Anonymous sign-in failed');
 
       final db = FirebaseFirestore.instance;
