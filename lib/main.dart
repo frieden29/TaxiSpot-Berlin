@@ -98,6 +98,7 @@ class _MapScreenState extends State<MapScreen> {
   bool _placesLoading = true;
   String? _placesError;
   bool _showPlaces = true;
+  bool _highDemandOnly = false;
 
   List<TaxiSpot> _allSpots = List.of(spots);
 
@@ -132,21 +133,21 @@ class _MapScreenState extends State<MapScreen> {
     int time;
     switch (type) {
       case BerlinPlaceType.hotel:
-        base = 30;
-        time = hour >= 6 && hour < 11 ? 30 : hour >= 17 && hour < 22 ? 20 : 7;
+        base = 40;
+        time = hour >= 6 && hour < 11 ? 42 : hour >= 17 && hour < 22 ? 25 : 7;
         break;
       case BerlinPlaceType.event:
-        base = 25;
-        time = hour >= 20 || hour < 2 ? 22 : hour >= 16 ? 14 : 5;
+        base = 30;
+        time = hour >= 20 || hour < 2 ? 48 : hour >= 16 ? 20 : 5;
         break;
       case BerlinPlaceType.theatre:
-        base = 25;
-        time = hour >= 21 || hour < 1 ? 25 : hour >= 17 ? 14 : 4;
+        base = 30;
+        time = hour >= 21 || hour < 1 ? 48 : hour >= 17 ? 20 : 4;
         break;
       case BerlinPlaceType.conference:
-        base = 25;
-        time = !weekend && hour >= 16 && hour < 20 ? 27 :
-            !weekend && hour >= 8 && hour < 11 ? 15 : 4;
+        base = 35;
+        time = !weekend && hour >= 16 && hour < 20 ? 45 :
+            !weekend && hour >= 8 && hour < 11 ? 25 : 4;
         break;
     }
     final weather = _precipitation == null ? 0 :
@@ -234,42 +235,77 @@ class _MapScreenState extends State<MapScreen> {
     }
   }
 
-  List<Marker> _buildPlaceMarkers() {
-    return _places.map((place) {
-      return Marker(
-        point: place.location,
-        width: 40,
-        height: 40,
-        child: GestureDetector(
-          onTap: () => setState(() {
-            _selectedPlace = place;
-            _selected = null;
-          }),
-          child: Container(
-            alignment: Alignment.center,
+  // Black corner brackets indicate experimental index bands, not probabilities.
+  Widget _placeMarker(BerlinPlace place, int score) {
+    final veryHigh = score >= 90;
+    final high = score >= 80;
+    final markerSize = veryHigh ? 76.0 : high ? 64.0 : 40.0;
+    final circleSize = veryHigh ? 58.0 : high ? 49.0 : 40.0;
+    return SizedBox(
+      width: markerSize,
+      height: markerSize,
+      child: Stack(
+        alignment: Alignment.center,
+        children: [
+          if (high)
+            Positioned.fill(
+              child: CustomPaint(
+                painter: _DemandCornersPainter(
+                  strokeWidth: veryHigh ? 5 : 3.5,
+                  cornerLength: veryHigh ? 19 : 15,
+                ),
+              ),
+            ),
+          Container(
+            width: circleSize,
+            height: circleSize,
             decoration: BoxDecoration(
               color: _placeColor(place.type),
               shape: BoxShape.circle,
               border: Border.all(color: Colors.white, width: 2),
               boxShadow: const [BoxShadow(blurRadius: 4, color: Colors.black26)],
             ),
-            child: Stack(
-              alignment: Alignment.center,
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                Icon(_placeIcon(place.type), color: Colors.white, size: 21),
-                Positioned(
-                  right: 0,
-                  bottom: 0,
-                  child: Container(
-                    padding: const EdgeInsets.symmetric(horizontal: 2),
+                Icon(_placeIcon(place.type), color: Colors.white,
+                    size: veryHigh ? 24 : high ? 20 : 16),
+                Container(
+                  padding: const EdgeInsets.symmetric(horizontal: 3),
+                  decoration: BoxDecoration(
                     color: Colors.black87,
-                    child: Text('${_demandIndex(place.type)}',
-                      style: const TextStyle(color: Colors.white, fontSize: 9)),
+                    borderRadius: BorderRadius.circular(7),
                   ),
+                  child: Text('$score', style: TextStyle(
+                    color: Colors.white,
+                    fontSize: veryHigh ? 14 : high ? 12 : 10,
+                    fontWeight: FontWeight.bold,
+                    height: 1.1,
+                  )),
                 ),
               ],
             ),
           ),
+        ],
+      ),
+    );
+  }
+
+  List<Marker> _buildPlaceMarkers() {
+    return _places.where((place) =>
+        !_highDemandOnly || _demandIndex(place.type) >= 80).map((place) {
+      final score = _demandIndex(place.type);
+      final size = score >= 90 ? 76.0 : score >= 80 ? 64.0 : 40.0;
+      return Marker(
+        point: place.location,
+        width: size,
+        height: size,
+        child: GestureDetector(
+          onTap: () => setState(() {
+            _selectedPlace = place;
+            _selected = null;
+          }),
+          child: _placeMarker(place, score),
         ),
       );
     }).toList();
@@ -665,6 +701,34 @@ class _MapScreenState extends State<MapScreen> {
               ),
             ),
           ),
+          Positioned(
+            right: 14,
+            top: 130,
+            child: FloatingActionButton.small(
+              heroTag: 'highDemand',
+              tooltip: _highDemandOnly
+                  ? 'Alle Orte anzeigen'
+                  : 'Nur Orte mit Index ab 80 anzeigen',
+              backgroundColor: _highDemandOnly ? Colors.black : Colors.white,
+              onPressed: () => setState(() {
+                _highDemandOnly = !_highDemandOnly;
+                if (_highDemandOnly && _selectedPlace != null &&
+                    _demandIndex(_selectedPlace!.type) < 80) {
+                  _selectedPlace = null;
+                }
+              }),
+              child: Icon(Icons.filter_alt,
+                  color: _highDemandOnly ? Colors.white : Colors.black),
+            ),
+          ),
+          if (_highDemandOnly && _showPlaces &&
+              !_placesLoading &&
+              !_places.any((place) => _demandIndex(place.type) >= 80))
+            const Positioned(
+              left: 14,
+              top: 120,
+              child: Chip(label: Text('Keine Orte mit Index ab 80')),
+            ),
           if (_placesLoading)
             const Positioned(
               left: 14,
@@ -736,7 +800,7 @@ class _MapScreenState extends State<MapScreen> {
                       Text('Experimenteller Nachfrage-Index: '
                           '${_demandIndex(_selectedPlace!.type)}/100'),
                       const Text(
-                        'Schätzung nach Ortstyp, Berliner Uhrzeit und Wetter. '
+                        'Heuristische Schätzung nach Ortstyp, Berliner Uhrzeit und Wetter. '
                         'Keine Wahrscheinlichkeit, keine Live-Fahrgastdaten. '
                         'Veranstaltungstermine noch nicht berücksichtigt.',
                         style: TextStyle(fontSize: 12),
@@ -851,4 +915,48 @@ class _MapScreenState extends State<MapScreen> {
       ),
     );
   }
+}
+// Four separate L-shaped corners, keeping the place icon visible.
+class _DemandCornersPainter extends CustomPainter {
+  final double strokeWidth;
+  final double cornerLength;
+
+  const _DemandCornersPainter({
+    required this.strokeWidth,
+    required this.cornerLength,
+  });
+
+  @override
+  void paint(Canvas canvas, Size size) {
+    final paint = Paint()
+      ..color = Colors.black
+      ..style = PaintingStyle.stroke
+      ..strokeWidth = strokeWidth
+      ..strokeCap = StrokeCap.round
+      ..strokeJoin = StrokeJoin.round;
+    final inset = strokeWidth / 2 + 2;
+    final left = inset;
+    final top = inset;
+    final right = size.width - inset;
+    final bottom = size.height - inset;
+    final path = Path()
+      ..moveTo(left, top + cornerLength)
+      ..lineTo(left, top)
+      ..lineTo(left + cornerLength, top)
+      ..moveTo(right - cornerLength, top)
+      ..lineTo(right, top)
+      ..lineTo(right, top + cornerLength)
+      ..moveTo(left, bottom - cornerLength)
+      ..lineTo(left, bottom)
+      ..lineTo(left + cornerLength, bottom)
+      ..moveTo(right - cornerLength, bottom)
+      ..lineTo(right, bottom)
+      ..lineTo(right, bottom - cornerLength);
+    canvas.drawPath(path, paint);
+  }
+
+  @override
+  bool shouldRepaint(covariant _DemandCornersPainter oldDelegate) =>
+      strokeWidth != oldDelegate.strokeWidth ||
+      cornerLength != oldDelegate.cornerLength;
 }
