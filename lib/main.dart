@@ -4,7 +4,8 @@ import 'dart:ui' as ui;
 import 'package:http/http.dart' as http;
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_analytics/firebase_analytics.dart';
-//import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:flutter_map_marker_cluster/flutter_map_marker_cluster.dart';
@@ -135,6 +136,79 @@ class _MapScreenState extends State<MapScreen> {
   Timer? _refreshTimer;
   int _refreshTicks = 0;
 
+  int? _totalVisits;
+  int? _uniqueVisitors;
+  int? _placeViews;
+  String? _counterError;
+  StreamSubscription<DocumentSnapshot<Map<String, dynamic>>>? _counterSubscription;
+
+  Future<void> _startCounters() async {
+    try {
+      final auth = FirebaseAuth.instance;
+      final user = auth.currentUser ?? (await auth.signInAnonymously()).user;
+      if (user == null) throw StateError('Anonymous sign-in failed');
+
+      final db = FirebaseFirestore.instance;
+      final stats = db.collection('public_stats').doc('global');
+      final visitor = db.collection('visitors').doc(user.uid);
+      // A single atomic transaction records one app launch and, for a new
+      // anonymous account, one unique visitor. This counts installations/accounts,
+      // not provably unique humans; clearing browser storage creates a new ID.
+      await db.runTransaction((transaction) async {
+        final previous = await transaction.get(visitor);
+        transaction.set(visitor, {
+          'createdAt': previous.exists
+              ? previous.data()?['createdAt'] ?? FieldValue.serverTimestamp()
+              : FieldValue.serverTimestamp(),
+          'lastOpenedAt': FieldValue.serverTimestamp(),
+        }, SetOptions(merge: true));
+        transaction.set(stats, {
+          'visits': FieldValue.increment(1),
+          if (!previous.exists) 'uniqueVisitors': FieldValue.increment(1),
+          'updatedAt': FieldValue.serverTimestamp(),
+        }, SetOptions(merge: true));
+      });
+
+      _counterSubscription = stats.snapshots().listen((snapshot) {
+        if (!mounted) return;
+        final data = snapshot.data();
+        setState(() {
+          _totalVisits = (data?['visits'] as num?)?.toInt();
+          _uniqueVisitors = (data?['uniqueVisitors'] as num?)?.toInt();
+          _placeViews = (data?['placeViews'] as num?)?.toInt();
+          _counterError = null;
+        });
+      }, onError: (Object error) {
+        debugPrint('Counter stream error: $error');
+        if (mounted) setState(() => _counterError = 'Statistik nicht verfügbar');
+      });
+    } catch (error) {
+      debugPrint('Counter setup error: $error');
+      if (mounted) setState(() => _counterError = 'Statistik nicht verfügbar');
+    }
+  }
+
+  Future<void> _recordPlaceView() async {
+    try {
+      await FirebaseFirestore.instance.collection('public_stats').doc('global').set({
+        'placeViews': FieldValue.increment(1),
+        'updatedAt': FieldValue.serverTimestamp(),
+      }, SetOptions(merge: true));
+    } catch (error) {
+      debugPrint('Place view count error: $error');
+    }
+  }
+
+  Widget _counterBanner() {
+    final text = _counterError ??
+        'Besuche: ${_totalVisits?.toString() ?? "…"}  •  '
+        'Besucher: ${_uniqueVisitors?.toString() ?? "…"}  •  '
+        'Hotel & Events: ${_placeViews?.toString() ?? "…"}';
+    return Text(text, style: const TextStyle(fontSize: 11),
+        maxLines: 1, overflow: TextOverflow.ellipsis);
+  }
+
+
   // Berlin local time, including European daylight saving time.
   DateTime _berlinNow() {
     final utc = DateTime.now().toUtc();
@@ -181,6 +255,7 @@ class _MapScreenState extends State<MapScreen> {
 
   @override
   void dispose() {
+    _counterSubscription?.cancel();
     _refreshTimer?.cancel();
     _mapController.dispose();
     super.dispose();
@@ -189,6 +264,7 @@ class _MapScreenState extends State<MapScreen> {
   @override
   void initState() {
     super.initState();
+    _startCounters();
     _loadAllSpots();
     _loadPlaces();
     _loadWeather();
@@ -350,10 +426,13 @@ class _MapScreenState extends State<MapScreen> {
         width: size,
         height: size,
         child: GestureDetector(
-          onTap: () => setState(() {
-            _selectedPlace = place;
-            _selected = null;
-          }),
+          onTap: () {
+            setState(() {
+              _selectedPlace = place;
+              _selected = null;
+            });
+            _recordPlaceView();
+          },
           child: _placeMarker(place, score),
         ),
       );
@@ -610,6 +689,7 @@ class _MapScreenState extends State<MapScreen> {
 
     return Scaffold(
       appBar: AppBar(
+        toolbarHeight: 88,
         backgroundColor: Colors.amber,
         title: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
@@ -627,6 +707,7 @@ class _MapScreenState extends State<MapScreen> {
               style: const TextStyle(fontSize: 12),
             ),
             _weatherBanner(),
+            _counterBanner(),
           ],
         ),
       ),
