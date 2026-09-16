@@ -168,6 +168,7 @@ class _MapScreenState extends State<MapScreen> {
   BerlinPlace? _selectedPlace;
   BerlinEvent? _selectedEvent;
   List<BerlinEvent> _events = [];
+  // ignore: prefer_final_fields
   String _eventFilter = 'all'; // all, today, tomorrow
   bool _eventsLoading = true;
   String? _eventsError;
