@@ -939,7 +939,7 @@ class _DemandCornersPainter extends CustomPainter {
     final top = inset;
     final right = size.width - inset;
     final bottom = size.height - inset;
-    final path = ui.Path();
+    final path = ui.Path()
       ..moveTo(left, top + cornerLength)
       ..lineTo(left, top)
       ..lineTo(left + cornerLength, top)
@@ -961,4 +961,3 @@ class _DemandCornersPainter extends CustomPainter {
       cornerLength != oldDelegate.cornerLength;
 }
 
->>>>>>> 9e71b61744e5098cb6b516e9a57888ece267100d
