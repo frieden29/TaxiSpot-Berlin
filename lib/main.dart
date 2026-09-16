@@ -168,6 +168,7 @@ class _MapScreenState extends State<MapScreen> {
   BerlinPlace? _selectedPlace;
   BerlinEvent? _selectedEvent;
   List<BerlinEvent> _events = [];
+  String _eventFilter = 'all'; // all, today, tomorrow
   bool _eventsLoading = true;
   String? _eventsError;
   bool _showEvents = true;
@@ -361,29 +362,62 @@ class _MapScreenState extends State<MapScreen> {
     }
   }
 
-  List<Marker> _buildEventMarkers() {
-    return _events.map((event) => Marker(
-      point: event.location,
-      width: 44,
-      height: 44,
-      child: GestureDetector(
-        onTap: () => setState(() {
-          _selectedEvent = event;
-          _selectedPlace = null;
-          _selected = null;
-        }),
-        child: Container(
-          decoration: BoxDecoration(
-            color: Colors.green.shade700,
-            shape: BoxShape.circle,
-            border: Border.all(color: Colors.white, width: 2),
-            boxShadow: const [BoxShadow(blurRadius: 4, color: Colors.black26)],
+    List<Marker> _buildEventMarkers() {
+  final now = _berlinNow();
+  final today = DateTime(now.year, now.month, now.day);
+
+  final filteredEvents = _events.where((event) {
+    if (_eventFilter == 'all') {
+      return true;
+    }
+
+    final eventDate = DateTime.tryParse(event.date);
+    if (eventDate == null) {
+      return false;
+    }
+
+    final targetDate = _eventFilter == 'today'
+        ? today
+        : today.add(const Duration(days: 1));
+
+    return eventDate.year == targetDate.year &&
+        eventDate.month == targetDate.month &&
+        eventDate.day == targetDate.day;
+  });
+
+  return filteredEvents.map((event) => Marker(
+    point: event.location,
+    width: 44,
+    height: 44,
+    child: GestureDetector(
+      onTap: () => setState(() {
+        _selectedEvent = event;
+        _selectedPlace = null;
+        _selected = null;
+      }),
+      child: Container(
+        decoration: BoxDecoration(
+          color: Colors.green.shade700,
+          shape: BoxShape.circle,
+          border: Border.all(
+            color: Colors.white,
+            width: 2,
           ),
-          child: const Icon(Icons.event, color: Colors.white),
+          boxShadow: const [
+            BoxShadow(
+              blurRadius: 4,
+              color: Colors.black26,
+            ),
+          ],
+        ),
+        child: const Icon(
+          Icons.event,
+          color: Colors.white,
         ),
       ),
-    )).toList();
-  }
+    ),
+  )).toList();
+}
 
   Future<void> _openEventUrl(String url) async {
     final uri = Uri.tryParse(url);
@@ -1258,24 +1292,8 @@ class _MapScreenState extends State<MapScreen> {
                             ),
                           ),
 
-                          const SizedBox(width: 8),
-
-                          Expanded(
-                            child: OutlinedButton.icon(
-                              onPressed: () {
-                                _showMessage(
-                                  'Fahrgast bei ${_selected!.name} erfasst',
-                                );
-                              },
-                              icon: const Icon(
-                                Icons.check_circle,
-                              ),
-                              label: const Text(
-                                'Fahrgast aufgenommen',
-                              ),
-                            ),
-                          ),
-                        ],
+                          
+                          ],
                       ),
 
                       if (demoSpots.isNotEmpty) ...[
