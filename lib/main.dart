@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
+import 'package:flutter_map_marker_cluster/flutter_map_marker_cluster.dart';
 import 'package:latlong2/latlong.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:url_launcher/url_launcher.dart';
@@ -22,7 +23,7 @@ class TaxiSpot {
   );
 }
 
-// مواقع تجريبية. درجاتها ليست بيانات طلب مباشرة.
+// هذه المواقع الخمسة تجريبية، ودرجاتها ليست بيانات طلب مباشرة.
 const spots = <TaxiSpot>[
   TaxiSpot(
     'Berlin Hauptbahnhof',
@@ -115,7 +116,6 @@ class _MapScreenState extends State<MapScreen> {
       }).toList();
 
       setState(() {
-        // المواقف المستوردة + المواقع التجريبية الخمسة.
         _allSpots = [
           ...importedSpots,
           ...spots,
@@ -207,9 +207,7 @@ class _MapScreenState extends State<MapScreen> {
     if (!mounted) return;
 
     ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(
-        content: Text(message),
-      ),
+      SnackBar(content: Text(message)),
     );
   }
 
@@ -218,6 +216,53 @@ class _MapScreenState extends State<MapScreen> {
     if (score >= 85) return Colors.green;
     if (score >= 70) return Colors.orange;
     return Colors.red;
+  }
+
+  List<Marker> _buildTaxiMarkers() {
+    return _allSpots.map((spot) {
+      return Marker(
+        point: spot.point,
+        width: 46,
+        height: 46,
+        child: GestureDetector(
+          onTap: () {
+            setState(() {
+              _selected = spot;
+            });
+          },
+          child: Container(
+            decoration: BoxDecoration(
+              color: _scoreColor(spot.score),
+              shape: BoxShape.circle,
+              border: Border.all(
+                color: Colors.white,
+                width: 2,
+              ),
+              boxShadow: const [
+                BoxShadow(
+                  blurRadius: 4,
+                  color: Colors.black26,
+                ),
+              ],
+            ),
+            alignment: Alignment.center,
+            child: spot.score == null
+                ? const Icon(
+                    Icons.local_taxi,
+                    color: Colors.white,
+                    size: 23,
+                  )
+                : Text(
+                    '${spot.score}',
+                    style: const TextStyle(
+                      color: Colors.white,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+          ),
+        ),
+      );
+    }).toList();
   }
 
   @override
@@ -255,10 +300,7 @@ class _MapScreenState extends State<MapScreen> {
           FlutterMap(
             mapController: _mapController,
             options: const MapOptions(
-              initialCenter: LatLng(
-                52.5200,
-                13.4050,
-              ),
+              initialCenter: LatLng(52.5200, 13.4050),
               initialZoom: 11.5,
             ),
             children: [
@@ -268,54 +310,46 @@ class _MapScreenState extends State<MapScreen> {
                 userAgentPackageName: 'com.taxispot.berlin',
               ),
 
-              MarkerLayer(
-                markers: [
-                  ..._allSpots.map(
-                    (s) => Marker(
-                      point: s.point,
-                      width: 46,
-                      height: 46,
-                      child: GestureDetector(
-                        onTap: () {
-                          setState(() {
-                            _selected = s;
-                          });
-                        },
-                        child: Container(
-                          decoration: BoxDecoration(
-                            color: _scoreColor(s.score),
-                            shape: BoxShape.circle,
-                            border: Border.all(
-                              color: Colors.white,
-                              width: 2,
-                            ),
-                            boxShadow: const [
-                              BoxShadow(
-                                blurRadius: 4,
-                                color: Colors.black26,
-                              ),
-                            ],
+              // تجميع مواقف التاكسي المتقاربة.
+              MarkerClusterLayerWidget(
+                options: MarkerClusterLayerOptions(
+                  maxClusterRadius: 60,
+                  size: const Size(48, 48),
+                  markers: _buildTaxiMarkers(),
+                  builder: (context, markers) {
+                    return Container(
+                      decoration: BoxDecoration(
+                        color: Colors.amber,
+                        shape: BoxShape.circle,
+                        border: Border.all(
+                          color: Colors.white,
+                          width: 3,
+                        ),
+                        boxShadow: const [
+                          BoxShadow(
+                            blurRadius: 5,
+                            color: Colors.black26,
                           ),
-                          alignment: Alignment.center,
-                          child: s.score == null
-                              ? const Icon(
-                                  Icons.local_taxi,
-                                  color: Colors.white,
-                                  size: 23,
-                                )
-                              : Text(
-                                  '${s.score}',
-                                  style: const TextStyle(
-                                    color: Colors.white,
-                                    fontWeight: FontWeight.bold,
-                                  ),
-                                ),
+                        ],
+                      ),
+                      alignment: Alignment.center,
+                      child: Text(
+                        '${markers.length}',
+                        style: const TextStyle(
+                          color: Colors.black,
+                          fontWeight: FontWeight.bold,
+                          fontSize: 15,
                         ),
                       ),
-                    ),
-                  ),
+                    );
+                  },
+                ),
+              ),
 
-                  if (_driver != null)
+              // علامة موقع السائق مستقلة عن تجميع المواقف.
+              if (_driver != null)
+                MarkerLayer(
+                  markers: [
                     Marker(
                       point: _driver!,
                       width: 48,
@@ -326,8 +360,8 @@ class _MapScreenState extends State<MapScreen> {
                         size: 40,
                       ),
                     ),
-                ],
-              ),
+                  ],
+                ),
             ],
           ),
 
@@ -338,9 +372,7 @@ class _MapScreenState extends State<MapScreen> {
               heroTag: 'locate',
               onPressed: _locateMe,
               backgroundColor: Colors.white,
-              child: const Icon(
-                Icons.my_location,
-              ),
+              child: const Icon(Icons.my_location),
             ),
           ),
 
@@ -387,7 +419,6 @@ class _MapScreenState extends State<MapScreen> {
                               ),
                             ),
                           ),
-
                           Chip(
                             label: Text(
                               _selected!.score == null
@@ -442,7 +473,6 @@ class _MapScreenState extends State<MapScreen> {
 
                       if (demoSpots.isNotEmpty) ...[
                         const SizedBox(height: 6),
-
                         Text(
                           'أعلى تقييم تجريبي: '
                           '${demoSpots.first.name} '
