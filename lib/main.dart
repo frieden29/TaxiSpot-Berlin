@@ -109,9 +109,10 @@ class BerlinEvent {
     required this.location});
 
   static BerlinEvent? fromJson(Map<String, dynamic> json) {
-    final latitude = json['latitude'];
-    final longitude = json['longitude'];
-   if (latitude is! num ||
+    final latitude = num.tryParse(json['latitude'].toString());
+    final longitude = num.tryParse(json['longitude'].toString());
+    
+    if (latitude is! num ||
     longitude is! num ||
     latitude < -90 ||
     latitude > 90 ||
