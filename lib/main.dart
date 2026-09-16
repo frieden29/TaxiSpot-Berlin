@@ -31,6 +31,15 @@ Future<void> main() async {
       measurementId: 'G-GB9KGZZ7DD',
     ),
   );
+  // Sign in anonymously when the app starts.
+try {
+  if (FirebaseAuth.instance.currentUser == null) {
+    await FirebaseAuth.instance.signInAnonymously();
+  }
+  debugPrint('Anonymous authentication successful');
+} catch (e) {
+  debugPrint('Anonymous authentication failed: $e');
+}
 
   // Analytics remains disabled until consent and platform setup are implemented.
   await FirebaseAnalytics.instance.setAnalyticsCollectionEnabled(true);
