@@ -26,37 +26,37 @@ class TaxiSpot {
   );
 }
 
-// هذه المواقع الخمسة تجريبية، ودرجاتها ليست بيانات طلب مباشرة.
+// These five locations and their scores are examples, not live demand data.
 const spots = <TaxiSpot>[
   TaxiSpot(
     'Berlin Hauptbahnhof',
     LatLng(52.5251, 13.3694),
     92,
-    'محطة رئيسية • تقييم تجريبي',
+    'Hauptbahnhof • Beispielbewertung',
   ),
   TaxiSpot(
     'Alexanderplatz',
     LatLng(52.5219, 13.4132),
     84,
-    'سياحة • تقييم تجريبي',
+    'Tourismus • Beispielbewertung',
   ),
   TaxiSpot(
     'Zoologischer Garten',
     LatLng(52.5073, 13.3326),
     78,
-    'محطة قطارات • تقييم تجريبي',
+    'Bahnhof • Beispielbewertung',
   ),
   TaxiSpot(
     'Potsdamer Platz',
     LatLng(52.5096, 13.3760),
     73,
-    'فنادق • تقييم تجريبي',
+    'Hotels • Beispielbewertung',
   ),
   TaxiSpot(
     'BER Airport',
     LatLng(52.3667, 13.5033),
     88,
-    'مطار • تقييم تجريبي',
+    'Flughafen • Beispielbewertung',
   ),
 ];
 
@@ -142,7 +142,7 @@ class _MapScreenState extends State<MapScreen> {
       if (!mounted) return;
       setState(() {
         _weatherLoading = false;
-        _weatherError = 'تعذر تحميل الطقس';
+        _weatherError = 'Wetterdaten konnten nicht geladen werden';
       });
     }
   }
@@ -158,7 +158,7 @@ class _MapScreenState extends State<MapScreen> {
           spot.name,
           spot.point,
           null,
-          'موقف مسجل في OpenStreetMap • مستوى الطلب غير معروف',
+          'Taxistand in OpenStreetMap • Nachfrage unbekannt',
         );
       }).toList();
 
@@ -182,7 +182,7 @@ class _MapScreenState extends State<MapScreen> {
 
       setState(() {
         _loading = false;
-        _loadError = 'تعذر تحميل المواقف المستوردة';
+        _loadError = 'Importierte Taxistände konnten nicht geladen werden';
       });
     }
   }
@@ -193,7 +193,7 @@ class _MapScreenState extends State<MapScreen> {
           await Geolocator.isLocationServiceEnabled();
 
       if (!enabled) {
-        _showMessage('يرجى تفعيل خدمة تحديد الموقع GPS');
+        _showMessage('Bitte aktiviere die Standortdienste (GPS)');
         return;
       }
 
@@ -205,7 +205,7 @@ class _MapScreenState extends State<MapScreen> {
 
       if (permission == LocationPermission.denied ||
           permission == LocationPermission.deniedForever) {
-        _showMessage('لم يتم منح إذن تحديد الموقع');
+        _showMessage('Standortberechtigung wurde nicht erteilt');
         return;
       }
 
@@ -225,7 +225,7 @@ class _MapScreenState extends State<MapScreen> {
       _mapController.move(point, 14);
     } catch (e) {
       debugPrint('Location error: $e');
-      _showMessage('تعذر تحديد موقعك');
+      _showMessage('Dein Standort konnte nicht ermittelt werden');
     }
   }
 
@@ -242,11 +242,11 @@ class _MapScreenState extends State<MapScreen> {
       );
 
       if (!opened) {
-        _showMessage('تعذر فتح تطبيق الملاحة');
+        _showMessage('Navigation konnte nicht geöffnet werden');
       }
     } catch (e) {
       debugPrint('Navigation error: $e');
-      _showMessage('تعذر فتح تطبيق الملاحة');
+      _showMessage('Navigation konnte nicht geöffnet werden');
     }
   }
 
@@ -314,18 +314,18 @@ class _MapScreenState extends State<MapScreen> {
 
   Widget _weatherBanner() {
     if (_weatherLoading) {
-      return const Text('جارٍ تحميل طقس برلين...');
+      return const Text('Berliner Wetter wird geladen ...');
     }
     if (_weatherError != null) {
       return Text(_weatherError!);
     }
     final rain = _precipitation == null
-        ? 'المطر غير متاح'
+        ? 'Niederschlag nicht verfügbar'
         : _precipitation! > 0
-            ? 'هطول ${_precipitation!.toStringAsFixed(1)} مم'
-            : 'لا هطول مسجل';
+            ? 'Niederschlag: ${_precipitation!.toStringAsFixed(1)} mm'
+            : 'Kein Niederschlag gemeldet';
     return Text(
-      'برلين ${_berlinTime ?? '--:--'}  •  '
+      'Berlin · Wetterstand ${_berlinTime ?? '--:--'} Uhr  •  '
       '${_temperature?.toStringAsFixed(1) ?? '--'}°C  •  $rain',
       style: const TextStyle(fontSize: 12),
       maxLines: 2,
@@ -356,8 +356,8 @@ class _MapScreenState extends State<MapScreen> {
             ),
             Text(
               _loading
-                  ? 'جارٍ تحميل المواقف...'
-                  : '${_allSpots.length} موقع على الخريطة',
+                  ? 'Taxistände werden geladen ...'
+                  : '${_allSpots.length} Standorte auf der Karte',
               style: const TextStyle(fontSize: 12),
             ),
             _weatherBanner(),
@@ -379,7 +379,7 @@ class _MapScreenState extends State<MapScreen> {
                 userAgentPackageName: 'com.taxispot.berlin',
               ),
 
-              // تجميع مواقف التاكسي المتقاربة.
+              // Group nearby taxi stands into clusters.
               MarkerClusterLayerWidget(
                 options: MarkerClusterLayerOptions(
                   maxClusterRadius: 60,
@@ -415,7 +415,7 @@ class _MapScreenState extends State<MapScreen> {
                 ),
               ),
 
-              // علامة موقع السائق مستقلة عن تجميع المواقف.
+              // Driver location marker is separate from taxi stand clusters.
               if (_driver != null)
                 MarkerLayer(
                   markers: [
@@ -450,7 +450,7 @@ class _MapScreenState extends State<MapScreen> {
               left: 14,
               top: 14,
               child: Chip(
-                label: Text('جارٍ تحميل المواقف...'),
+                label: Text('Taxistände werden geladen ...'),
               ),
             ),
 
@@ -491,8 +491,8 @@ class _MapScreenState extends State<MapScreen> {
                           Chip(
                             label: Text(
                               _selected!.score == null
-                                  ? 'الطلب غير معروف'
-                                  : 'تجريبي ${_selected!.score}/100',
+                                  ? 'Nachfrage unbekannt'
+                                  : 'Beispielwert ${_selected!.score}/100',
                             ),
                           ),
                         ],
@@ -500,7 +500,7 @@ class _MapScreenState extends State<MapScreen> {
 
                       Text(
                         _selected!.note,
-                        textDirection: TextDirection.rtl,
+                        textDirection: TextDirection.ltr,
                       ),
 
                       const SizedBox(height: 10),
@@ -515,7 +515,7 @@ class _MapScreenState extends State<MapScreen> {
                                 Icons.navigation,
                               ),
                               label: const Text(
-                                'خذني إلى هناك',
+                                'Route starten',
                               ),
                             ),
                           ),
@@ -526,14 +526,14 @@ class _MapScreenState extends State<MapScreen> {
                             child: OutlinedButton.icon(
                               onPressed: () {
                                 _showMessage(
-                                  'تم تسجيل زبون في ${_selected!.name}',
+                                  'Fahrgast bei ${_selected!.name} erfasst',
                                 );
                               },
                               icon: const Icon(
                                 Icons.check_circle,
                               ),
                               label: const Text(
-                                'حصلت على زبون',
+                                'Fahrgast aufgenommen',
                               ),
                             ),
                           ),
@@ -543,10 +543,10 @@ class _MapScreenState extends State<MapScreen> {
                       if (demoSpots.isNotEmpty) ...[
                         const SizedBox(height: 6),
                         Text(
-                          'أعلى تقييم تجريبي: '
+                          'Höchster Beispielwert: '
                           '${demoSpots.first.name} '
                           '(${demoSpots.first.score})',
-                          textDirection: TextDirection.rtl,
+                          textDirection: TextDirection.ltr,
                           style: const TextStyle(
                             fontWeight: FontWeight.w600,
                           ),
