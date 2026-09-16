@@ -167,9 +167,7 @@ class _MapScreenState extends State<MapScreen> {
       await db.runTransaction((transaction) async {
         final previous = await transaction.get(visitor);
         transaction.set(visitor, {
-          'createdAt': previous.exists
-              ? previous.data()?['createdAt'] ?? FieldValue.serverTimestamp()
-              : FieldValue.serverTimestamp(),
+          if (!previous.exists) 'createdAt': FieldValue.serverTimestamp(),
           'lastOpenedAt': FieldValue.serverTimestamp(),
         }, SetOptions(merge: true));
         transaction.set(stats, {
