@@ -111,9 +111,14 @@ class BerlinEvent {
   static BerlinEvent? fromJson(Map<String, dynamic> json) {
     final latitude = json['latitude'];
     final longitude = json['longitude'];
-    if (latitude is! num || longitude is! num ||
-        latitude < -90 || latitude > 90 ||
-        longitude < -180 || longitude > 180) return null;
+   if (latitude is! num ||
+    longitude is! num ||
+    latitude < -90 ||
+    latitude > 90 ||
+    longitude < -180 ||
+    longitude > 180) {
+  return null;
+}
     final name = json['name'];
     if (name is! String || name.trim().isEmpty) return null;
     return BerlinEvent(
