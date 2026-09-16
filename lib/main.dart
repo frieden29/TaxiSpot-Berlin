@@ -146,9 +146,7 @@ class _MapScreenState extends State<MapScreen> {
   int _refreshTicks = 0;
   late DateTime _lastDemandRefresh;
 
-  int? _totalVisits;
   int? _uniqueVisitors;
-  int? _placeViews;
   String? _counterError;
   StreamSubscription<DocumentSnapshot<Map<String, dynamic>>>? _counterSubscription;
 
@@ -156,7 +154,6 @@ class _MapScreenState extends State<MapScreen> {
     try {
       final auth = FirebaseAuth.instance;
       final user = auth.currentUser ?? (await auth.signInAnonymously()).user;
-      debugPrint('Counter auth UID: ${user?.uid}');
       if (user == null) throw StateError('Anonymous sign-in failed');
 
       final db = FirebaseFirestore.instance;
@@ -182,9 +179,7 @@ class _MapScreenState extends State<MapScreen> {
         if (!mounted) return;
         final data = snapshot.data();
         setState(() {
-          _totalVisits = (data?['visits'] as num?)?.toInt();
           _uniqueVisitors = (data?['uniqueVisitors'] as num?)?.toInt();
-          _placeViews = (data?['placeViews'] as num?)?.toInt();
           _counterError = null;
         });
       }, onError: (Object error) {
@@ -210,14 +205,13 @@ class _MapScreenState extends State<MapScreen> {
 
   Widget _counterBanner() {
     final text = _counterError ??
-  'Besucher: ${_uniqueVisitors?.toString() ?? "…"}';
-
-         return Text(
-    text,
-    style: const TextStyle(fontSize: 11),
-    maxLines: 1,
-    overflow: TextOverflow.ellipsis,
-  );
+        'Besucher: ${_uniqueVisitors?.toString() ?? "…"}';
+    return Text(
+      text,
+      style: const TextStyle(fontSize: 11),
+      maxLines: 1,
+      overflow: TextOverflow.ellipsis,
+    );
   }
 
 
