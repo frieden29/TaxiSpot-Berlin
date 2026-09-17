@@ -13,7 +13,7 @@ OUTPUT = Path("web/events.json")
 events = []
 page = 0
 
-while page < 5:
+while page < 20:
     params = urllib.parse.urlencode({
         "apikey": API_KEY,
         "city": "Berlin",
