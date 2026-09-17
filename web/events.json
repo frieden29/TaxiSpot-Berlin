@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T04:56:41.998382+00:00",
+  "updatedAt": "2026-09-17T10:53:52.679364+00:00",
   "events": [
     {
       "id": "Z698xZC2Z16vJK8NoS",
@@ -580,16 +580,6 @@
       "latitude": "52.53818",
       "longitude": "13.41259",
       "url": "https://www.ticketmaster.de/event/vundabar--yot-club-tickets/1557826157?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vjKGVOs",
-      "name": "Masego - Fix Your Face Tour",
-      "date": "2026-09-30",
-      "time": "20:00:00",
-      "venue": "Uber Eats Music Hall",
-      "latitude": "52.50512",
-      "longitude": "13.44341",
-      "url": "https://www.ticketmaster.de/event/masego-fix-your-face-tour-tickets/1713334831?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kvYqefg",
@@ -6382,6 +6372,16 @@
       "url": "https://www.universe.com/events/saying-the-wrong-thing-english-stand-up-comedy-in-berlin-tickets-Z3TKFP?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z16v04JbaA",
+      "name": "Masego - Fix Your Face Tour",
+      "date": "2027-02-17",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.48684",
+      "longitude": "13.42145",
+      "url": "https://www.ticketmaster.de/event/masego-fix-your-face-tour-tickets/1915998245?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16v7vAIaE",
       "name": "KNOX - Midwest Best Tour",
       "date": "2027-02-18",
@@ -6610,6 +6610,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/hazel-brugger-good-evening-europe-%7C-box-seat-tickets/859452443?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vfb-MxA",
+      "name": "Jersey",
+      "date": "2027-03-04",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.49945",
+      "longitude": "13.42054",
+      "url": "https://www.ticketmaster.de/event/jersey-tickets/1518877885?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kxvqg03",
