@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-09-17T11:46:31.059199+00:00",
+  "updatedAt": "2026-09-17T17:03:00.740541+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z16vJK8NoS",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-09-17",
-      "time": "18:30:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1993423473?language=en-us"
-    },
     {
       "id": "Z698xZC2Z16v738SZS",
       "name": "Josh Levi  | M&G + Soundcheck Add-On (No Ticket Included)",
@@ -316,9 +306,9 @@
       "name": "Pi'erre Bourne - Made In Paris",
       "date": "2026-09-24",
       "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.4959",
-      "longitude": "13.38858",
+      "venue": "Mikropol",
+      "latitude": "52.49948",
+      "longitude": "13.35416",
       "url": "https://www.ticketmaster.de/event/pierre-bourne-made-in-paris-tickets/615793309?language=en-us"
     },
     {
@@ -910,16 +900,6 @@
       "latitude": "52.54291",
       "longitude": "13.42071",
       "url": "https://www.universe.com/events/lachkater-die-stand-up-comedy-show-tickets-0DY124?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16v_-_x_V",
-      "name": "Fimiguerrero - LOST CITY",
-      "date": "2026-10-06",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.46438",
-      "longitude": "13.43338",
-      "url": "https://www.ticketmaster.de/event/fimiguerrero-lost-city-tickets/1661662674?language=en-us"
     },
     {
       "id": "LvZ18QxkY2DCiXZZvGjxj",
@@ -6830,6 +6810,16 @@
       "latitude": "52.51092",
       "longitude": "13.46134",
       "url": "https://www.universe.com/events/saying-the-wrong-thing-english-stand-up-comedy-in-berlin-tickets-Z3TKFP?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16v_-_x_V",
+      "name": "Fimiguerrero - LOST CITY",
+      "date": "2027-03-18",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.51177",
+      "longitude": "13.42638",
+      "url": "https://www.ticketmaster.de/event/fimiguerrero-lost-city-tickets/1661662674?language=en-us"
     },
     {
       "id": "LvZ18QPITODlBe27RyIQa",
