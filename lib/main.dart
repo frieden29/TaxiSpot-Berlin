@@ -169,7 +169,7 @@ class _MapScreenState extends State<MapScreen> {
   BerlinEvent? _selectedEvent;
   List<BerlinEvent> _events = [];
   // ignore: prefer_final_fields
-  String _eventFilter = 'all'; // all, today, tomorrow
+  String _eventFilter = 'all'; // all, today, tomorrow, dayAfterTomorrow
   bool _eventsLoading = true;
   String? _eventsError;
   bool _showEvents = true;
@@ -379,7 +379,7 @@ class _MapScreenState extends State<MapScreen> {
 
     final targetDate = _eventFilter == 'today'
         ? today
-        : today.add(const Duration(days: 1));
+        : today.add(Duration(days: _eventFilter == 'dayAfterTomorrow' ? 2 : 1));
 
     return eventDate.year == targetDate.year &&
         eventDate.month == targetDate.month &&
@@ -882,35 +882,6 @@ class _MapScreenState extends State<MapScreen> {
             _weatherBanner(),
             _demandRefreshBanner(),
             _counterBanner(),
-            const SizedBox(height: 4),
-Row(
-  mainAxisSize: MainAxisSize.min,
-  children: [
-    for (final filter in ['all', 'today', 'tomorrow'])
-      Padding(
-        padding: const EdgeInsets.only(right: 6),
-        child: ChoiceChip(
-          label: Text(
-            filter == 'all'
-                ? 'Alle'
-                : filter == 'today'
-                    ? 'Heute'
-                    : 'Morgen',
-            style: const TextStyle(fontSize: 11),
-          ),
-          selected: _eventFilter == filter,
-          onSelected: (_) {
-            setState(() {
-              _eventFilter = filter;
-              _selectedEvent = null;
-            });
-          },
-          visualDensity: VisualDensity.compact,
-          materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
-        ),
-      ),
-  ],
-),
           ],
         ),
       ),
@@ -1105,16 +1076,55 @@ Row(
           Positioned(
             right: 14,
             top: 246,
-            child: FloatingActionButton.small(
-              heroTag: 'eventsVisibility',
-              tooltip: _showEvents ? 'Events ausblenden' : 'Events anzeigen',
-              backgroundColor: Colors.white,
-              onPressed: () => setState(() {
-                _showEvents = !_showEvents;
-                if (!_showEvents) _selectedEvent = null;
-              }),
-              child: Icon(_showEvents ? Icons.event : Icons.event_busy,
-                  color: Colors.green.shade800),
+            child: Material(
+              color: Colors.white,
+              shape: const CircleBorder(),
+              elevation: 5,
+              child: PopupMenuButton<String>(
+                tooltip: 'Events filtern',
+                icon: Icon(
+                  _showEvents ? Icons.event : Icons.event_busy,
+                  color: Colors.green.shade800,
+                ),
+                onSelected: (value) => setState(() {
+                  if (value == 'hide') {
+                    _showEvents = false;
+                  } else {
+                    _eventFilter = value;
+                    _showEvents = true;
+                  }
+                  _selectedEvent = null;
+                }),
+                itemBuilder: (context) => [
+                  for (final option in <(String, String)>[
+                    ('all', 'Alle Events'),
+                    ('today', 'Heutige Events'),
+                    ('tomorrow', 'Morgige Events'),
+                    ('dayAfterTomorrow', 'Events übermorgen'),
+                    ('hide', 'Events ausblenden'),
+                  ])
+                    PopupMenuItem<String>(
+                      value: option.$1,
+                      child: Row(
+                        children: [
+                          SizedBox(
+                            width: 28,
+                            child: Icon(
+                              option.$1 == 'hide'
+                                  ? Icons.visibility_off
+                                  : _showEvents && _eventFilter == option.$1
+                                      ? Icons.check
+                                      : Icons.event_note,
+                              size: 19,
+                              color: Colors.green.shade800,
+                            ),
+                          ),
+                          Text(option.$2),
+                        ],
+                      ),
+                    ),
+                ],
+              ),
             ),
           ),
           if (_eventsLoading)
