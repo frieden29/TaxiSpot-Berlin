@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-09-18T11:20:42.965978+00:00",
+  "updatedAt": "2026-09-18T16:27:37.962897+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z1kj7eaOo",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-09-18",
-      "time": "16:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/704089811?language=en-us"
-    },
     {
       "id": "LvZ18QbcdzSxMvYZ0iD4j",
       "name": "Tanz Dich glücklich! Friday Night Edition in Berlin",
@@ -1152,16 +1142,6 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/340998328?language=en-us"
     },
     {
-      "id": "LvZ18QJCaUFVEvFlJCZqu",
-      "name": "Chaos Comedy Club | Mannheim",
-      "date": "2026-10-11",
-      "time": "19:00:00",
-      "venue": "Anna Spree",
-      "latitude": "52.51986",
-      "longitude": "13.32693",
-      "url": "https://www.universe.com/events/chaos-comedy-club-mannheim-tickets-32VBW1?ref=ticketmaster"
-    },
-    {
       "id": "LvZ18QLFQhseijZZvsRmR",
       "name": "WIR ARBEITEN DRAN - Stand-up Comedy Berlin",
       "date": "2026-10-12",
@@ -1420,16 +1400,6 @@
       "latitude": "52.50814",
       "longitude": "13.45181",
       "url": "https://www.ticketmaster.de/event/james-blake-trying-times-tour-tickets/352305340?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kv-F-_4",
-      "name": "Harald Glööckler - Jede Frau ist eine Prinzessin",
-      "date": "2026-10-16",
-      "time": "20:00:00",
-      "venue": "PUNCH L!NE Club Berlin",
-      "latitude": "52.50738",
-      "longitude": "13.37218",
-      "url": "https://www.ticketmaster.de/event/harald-gloockler-jede-frau-ist-eine-prinzessin-tickets/61221655?language=en-us"
     },
     {
       "id": "LvZ18QxkmlR0HqZZvegei",
@@ -3232,16 +3202,6 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1244516641?language=en-us"
     },
     {
-      "id": "LvZ18QJ2f3ARG-Hjz75vR",
-      "name": "Chaos Comedy Club | Mannheim",
-      "date": "2026-11-15",
-      "time": "19:00:00",
-      "venue": "Anna Spree",
-      "latitude": "52.51986",
-      "longitude": "13.32693",
-      "url": "https://www.universe.com/events/chaos-comedy-club-mannheim-tickets-32VBW1?ref=ticketmaster"
-    },
-    {
       "id": "Z698xZC2Z16eZd7O_V",
       "name": "Eisbären Berlin - Schwenninger Wild Wings | Box-Seat",
       "date": "2026-11-15",
@@ -4920,16 +4880,6 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/424164648?language=en-us"
-    },
-    {
-      "id": "LvZ18QJCaU1TlhMCIgOFs",
-      "name": "Chaos Comedy Club | Mannheim",
-      "date": "2026-12-13",
-      "time": "19:00:00",
-      "venue": "Anna Spree",
-      "latitude": "52.51986",
-      "longitude": "13.32693",
-      "url": "https://www.universe.com/events/chaos-comedy-club-mannheim-tickets-32VBW1?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1k8zr6jK",
@@ -6672,6 +6622,16 @@
       "url": "https://www.universe.com/events/ultra-night-depeche-mode-party-berlin-tickets-BFYW1M?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z16v8zjSP8",
+      "name": "Tiny Habits - Keepers Tour",
+      "date": "2027-03-09",
+      "time": "20:00:00",
+      "venue": "Columbia Theater",
+      "latitude": "52.48461",
+      "longitude": "13.3915",
+      "url": "https://www.ticketmaster.de/event/tiny-habits-keepers-tour-tickets/1438733950?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kjfFV17",
       "name": "Delta Goodrem - PURE World Tour",
       "date": "2027-03-09",
@@ -7210,6 +7170,16 @@
       "latitude": "52.48684",
       "longitude": "13.42145",
       "url": "https://www.ticketmaster.de/event/cave-tour-de-porz-tickets/2011173234?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kv-F-_4",
+      "name": "Harald Glööckler - Jede Frau ist eine Prinzessin",
+      "date": "2027-04-23",
+      "time": "20:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/harald-gloockler-jede-frau-ist-eine-prinzessin-tickets/61221655?language=en-us"
     },
     {
       "id": "LvZ18QPITODlBe27RyIQC",
