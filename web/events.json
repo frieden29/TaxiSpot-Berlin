@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T16:27:37.962897+00:00",
+  "updatedAt": "2026-09-18T20:56:38.678961+00:00",
   "events": [
     {
       "id": "LvZ18QbcdzSxMvYZ0iD4j",
@@ -10,26 +10,6 @@
       "latitude": "52.50654",
       "longitude": "13.46255",
       "url": "https://www.universe.com/events/tanz-dich-glucklich-friday-night-edition-in-berlin-tickets-520ZRL?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z1AajAvy",
-      "name": "Ella Mai - Do You Still Love Me? 2026 Tour",
-      "date": "2026-09-18",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.48684",
-      "longitude": "13.42145",
-      "url": "https://www.ticketmaster.de/event/ella-mai-do-you-still-love-me-2026-tour-tickets/9705079?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1koe-6kZ",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-09-18",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/442847180?language=en-us"
     },
     {
       "id": "LvZ18QxkmlR0HqZZvegeI",
@@ -1400,6 +1380,16 @@
       "latitude": "52.50814",
       "longitude": "13.45181",
       "url": "https://www.ticketmaster.de/event/james-blake-trying-times-tour-tickets/352305340?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kv-F-_4",
+      "name": "Harald Glööckler - Jede Frau ist eine Prinzessin",
+      "date": "2026-10-16",
+      "time": "20:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/harald-gloockler-jede-frau-ist-eine-prinzessin-tickets/61221655?language=en-us"
     },
     {
       "id": "LvZ18QxkmlR0HqZZvegei",
@@ -7170,16 +7160,6 @@
       "latitude": "52.48684",
       "longitude": "13.42145",
       "url": "https://www.ticketmaster.de/event/cave-tour-de-porz-tickets/2011173234?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kv-F-_4",
-      "name": "Harald Glööckler - Jede Frau ist eine Prinzessin",
-      "date": "2027-04-23",
-      "time": "20:00:00",
-      "venue": "PUNCH L!NE Club Berlin",
-      "latitude": "52.50738",
-      "longitude": "13.37218",
-      "url": "https://www.ticketmaster.de/event/harald-gloockler-jede-frau-ist-eine-prinzessin-tickets/61221655?language=en-us"
     },
     {
       "id": "LvZ18QPITODlBe27RyIQC",
