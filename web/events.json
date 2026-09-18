@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T04:48:11.319304+00:00",
+  "updatedAt": "2026-09-18T11:20:42.965978+00:00",
   "events": [
     {
       "id": "Z698xZC2Z1kj7eaOo",
@@ -1150,6 +1150,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/340998328?language=en-us"
+    },
+    {
+      "id": "LvZ18QJCaUFVEvFlJCZqu",
+      "name": "Chaos Comedy Club | Mannheim",
+      "date": "2026-10-11",
+      "time": "19:00:00",
+      "venue": "Anna Spree",
+      "latitude": "52.51986",
+      "longitude": "13.32693",
+      "url": "https://www.universe.com/events/chaos-comedy-club-mannheim-tickets-32VBW1?ref=ticketmaster"
     },
     {
       "id": "LvZ18QLFQhseijZZvsRmR",
@@ -2862,6 +2872,16 @@
       "url": "https://www.ticketmaster.de/event/isaiah-falls-lvrs-paradise-side-b-tour-tickets/1918179390?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vP9k4G0",
+      "name": "Montell Fish - The Nest Tour",
+      "date": "2026-11-09",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.49955",
+      "longitude": "13.35052",
+      "url": "https://www.ticketmaster.de/event/montell-fish-the-nest-tour-tickets/1957195324?language=en-us"
+    },
+    {
       "id": "LvZ18QxiaY5gHC8ZvDxHu",
       "name": "Lachkater Die Stand Up Comedy Show",
       "date": "2026-11-10",
@@ -3210,6 +3230,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1244516641?language=en-us"
+    },
+    {
+      "id": "LvZ18QJ2f3ARG-Hjz75vR",
+      "name": "Chaos Comedy Club | Mannheim",
+      "date": "2026-11-15",
+      "time": "19:00:00",
+      "venue": "Anna Spree",
+      "latitude": "52.51986",
+      "longitude": "13.32693",
+      "url": "https://www.universe.com/events/chaos-comedy-club-mannheim-tickets-32VBW1?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16eZd7O_V",
@@ -4890,6 +4920,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/424164648?language=en-us"
+    },
+    {
+      "id": "LvZ18QJCaU1TlhMCIgOFs",
+      "name": "Chaos Comedy Club | Mannheim",
+      "date": "2026-12-13",
+      "time": "19:00:00",
+      "venue": "Anna Spree",
+      "latitude": "52.51986",
+      "longitude": "13.32693",
+      "url": "https://www.universe.com/events/chaos-comedy-club-mannheim-tickets-32VBW1?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1k8zr6jK",
@@ -6612,6 +6652,16 @@
       "url": "https://www.ticketmaster.de/event/bobby--max-der-mythos-des-goldenen-drachen-i-live-horspiel-tickets/1171475034?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16v4IZgoN",
+      "name": "ENHYPEN | Box seat in the Ticketmaster Suite",
+      "date": "2027-03-06",
+      "time": "20:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/enhypen-%7C-box-seat-in-the-ticketmaster-suite-tickets/1568035463?language=en-us"
+    },
+    {
       "id": "LvZ18QhJGwTXvK8ZV9uIZ",
       "name": "Ultra Night - Depeche Mode Party Berlin",
       "date": "2027-03-06",
@@ -7280,6 +7330,16 @@
       "latitude": "52.49955",
       "longitude": "13.35052",
       "url": "https://www.ticketmaster.de/event/angele-instinct-tour-tickets/38477406?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kp817ek",
+      "name": "Valley - Do You Need To Be Entertained? The Tour",
+      "date": "2027-05-05",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.51177",
+      "longitude": "13.42638",
+      "url": "https://www.ticketmaster.de/event/valley-do-you-need-to-be-entertained-the-tour-tickets/590284086?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vGZ_4uw",
