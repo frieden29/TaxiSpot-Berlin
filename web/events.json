@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-09-19T15:54:57.548088+00:00",
+  "updatedAt": "2026-09-19T20:44:24.060428+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z1ku_qoA0",
-      "name": "ALL THE FEELINGS TOUR with METRIC, BROKEN SOCIAL SCENE, AND STARS",
-      "date": "2026-09-19",
-      "time": "19:00:00",
-      "venue": null,
-      "latitude": "52.48461",
-      "longitude": "13.3914",
-      "url": "https://www.ticketmaster.de/event/all-the-feelings-tour-with-metric-broken-social-scene-and-stars-tickets/359751164?language=en-us"
-    },
     {
       "id": "LvZ18Q34E1_wFqZZvlNAp",
       "name": "A night with Sinatra in Berlin",
@@ -20,46 +10,6 @@
       "latitude": "52.50482",
       "longitude": "13.33901",
       "url": "https://www.universe.com/events/a-night-with-sinatra-in-berlin-tickets-F5DCYB?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z1kO9ZpPk",
-      "name": "Isabel van Gelder - EU & UK TOUR 2026",
-      "date": "2026-09-19",
-      "time": "19:30:00",
-      "venue": null,
-      "latitude": "52.49918",
-      "longitude": "13.44514",
-      "url": "https://www.ticketmaster.de/event/isabel-van-gelder-eu--uk-tour-2026-tickets/817016946?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vZgGI7k",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-09-19",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1035328106?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vb8q8qJ",
-      "name": "Zackavelli - MASI 2 TOUR",
-      "date": "2026-09-19",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.50814",
-      "longitude": "13.45181",
-      "url": "https://www.ticketmaster.de/event/zackavelli-masi-2-tour-tickets/1610750766?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1k74P6bs",
-      "name": "TJARK - auch wenn’s uns morgen nicht mehr gibt Tour 2026",
-      "date": "2026-09-19",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.48684",
-      "longitude": "13.42145",
-      "url": "https://www.ticketmaster.de/event/tjark-auch-wenns-uns-morgen-nicht-mehr-gibt-tour-2026-tickets/115947631?language=en-us"
     },
     {
       "id": "LvZ18Q0TqgTmG0DvgQ9o1",
