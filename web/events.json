@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-09-19T20:44:24.060428+00:00",
+  "updatedAt": "2026-09-20T04:57:24.270244+00:00",
   "events": [
-    {
-      "id": "LvZ18Q34E1_wFqZZvlNAp",
-      "name": "A night with Sinatra in Berlin",
-      "date": "2026-09-19",
-      "time": "19:30:00",
-      "venue": null,
-      "latitude": "52.50482",
-      "longitude": "13.33901",
-      "url": "https://www.universe.com/events/a-night-with-sinatra-in-berlin-tickets-F5DCYB?ref=ticketmaster"
-    },
-    {
-      "id": "LvZ18Q0TqgTmG0DvgQ9o1",
-      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
-      "date": "2026-09-19",
-      "time": "20:30:00",
-      "venue": "Monbijou Theater",
-      "latitude": "52.52304",
-      "longitude": "13.39521",
-      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
-    },
     {
       "id": "Z698xZC2Z1kobkAAN",
       "name": "Cirque du Soleil ALIZÉ",
