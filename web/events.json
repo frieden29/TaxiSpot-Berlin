@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-09-20T11:29:07.370738+00:00",
+  "updatedAt": "2026-09-20T16:10:54.228340+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z1kobkAAN",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-09-20",
-      "time": "13:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/458185163?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1k0yPV-g",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-09-20",
-      "time": "17:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/939974875?language=en-us"
-    },
     {
       "id": "LvZ18QLFQhseijZZvsRmi",
       "name": "WIR ARBEITEN DRAN - Stand-up Comedy Berlin",
