@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T12:53:53.172152+00:00",
+  "updatedAt": "2026-09-21T22:00:16.917521+00:00",
   "events": [
     {
       "id": "LvZ18QLFQhseijZZvsRmi",
@@ -10,26 +10,6 @@
       "latitude": "52.49017",
       "longitude": "13.42611",
       "url": "https://www.universe.com/events/wir-arbeiten-dran-stand-up-comedy-berlin-tickets-LF359S?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16vAe0tQ7",
-      "name": "Lilyisthatyou - THE FLOWERS HAVE FEELINGS TOUR",
-      "date": "2026-09-21",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.46438",
-      "longitude": "13.43338",
-      "url": "https://www.ticketmaster.de/event/lilyisthatyou-the-flowers-have-feelings-tour-tickets/1142929684?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kqxPvjf",
-      "name": "overpass - Elsewhere, Always Album Tour Europe",
-      "date": "2026-09-21",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.53839",
-      "longitude": "13.41299",
-      "url": "https://www.ticketmaster.de/event/overpass-elsewhere-always-album-tour-europe-tickets/762941714?language=en-us"
     },
     {
       "id": "LvZ18QxiaY5gHC8ZvDxHk",
@@ -3512,6 +3492,16 @@
       "url": "https://www.universe.com/events/wir-arbeiten-dran-stand-up-comedy-berlin-tickets-LF359S?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z1k0s44vy",
+      "name": "Nokia Angel - NECROMANCE TOUR",
+      "date": "2026-11-23",
+      "time": "20:00:00",
+      "venue": "LARK",
+      "latitude": "52.51314",
+      "longitude": "13.4228",
+      "url": "https://www.ticketmaster.de/event/nokia-angel-necromance-tour-tickets/931555079?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1k7ap6po",
       "name": "Tinie Tempah - THE NIGHT´S NOT DEAD TOUR",
       "date": "2026-11-23",
@@ -6222,6 +6212,16 @@
       "url": "https://www.ticketmaster.de/event/malcolm-todd-do-that-again-tour-tickets/1639793989?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vrkvYOK",
+      "name": "Hudson Freeman - EU/UK 2027",
+      "date": "2027-02-19",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.46438",
+      "longitude": "13.43338",
+      "url": "https://www.ticketmaster.de/event/hudson-freeman-eu-uk-2027-tickets/1786070813?language=en-us"
+    },
+    {
       "id": "LvZ18QPITODlBe27RyIQA",
       "name": "The Epic Comedy Showcase — English Stand-up Comedy in Berlin",
       "date": "2027-02-19",
@@ -7220,6 +7220,16 @@
       "latitude": "52.51635",
       "longitude": "13.38987",
       "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-dresden-tickets-38ZX7V?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z1kJkbzog",
+      "name": "James Marriott - World Tour 2027",
+      "date": "2027-05-08",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.53818",
+      "longitude": "13.41259",
+      "url": "https://www.ticketmaster.de/event/james-marriott-world-tour-2027-tickets/986638475?language=en-us"
     },
     {
       "id": "Z698xZC2Z1ka41_Ff",
