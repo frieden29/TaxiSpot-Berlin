@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T05:01:21.067429+00:00",
+  "updatedAt": "2026-09-21T12:53:53.172152+00:00",
   "events": [
     {
       "id": "LvZ18QLFQhseijZZvsRmi",
@@ -1262,16 +1262,6 @@
       "url": "https://www.ticketmaster.de/event/james-blake-trying-times-tour-tickets/352305340?language=en-us"
     },
     {
-      "id": "Z698xZC2Z1kv-F-_4",
-      "name": "Harald Glööckler - Jede Frau ist eine Prinzessin",
-      "date": "2026-10-16",
-      "time": "20:00:00",
-      "venue": "PUNCH L!NE Club Berlin",
-      "latitude": "52.50738",
-      "longitude": "13.37218",
-      "url": "https://www.ticketmaster.de/event/harald-gloockler-jede-frau-ist-eine-prinzessin-tickets/61221655?language=en-us"
-    },
-    {
       "id": "LvZ18QxkmlR0HqZZvegei",
       "name": "The Epic Comedy Showcase — English Stand-up Comedy in Berlin",
       "date": "2026-10-16",
@@ -1737,8 +1727,8 @@
       "date": "2026-10-24",
       "time": "20:00:00",
       "venue": null,
-      "latitude": "52.48749",
-      "longitude": "13.47783",
+      "latitude": "52.50763",
+      "longitude": "13.45436",
       "url": "https://www.ticketmaster.de/event/nathan-fake-tickets/142406861?language=en-us"
     },
     {
@@ -6262,6 +6252,16 @@
       "url": "https://www.ticketmaster.de/event/cameron-whitcomb-the-kingdom-of-fear-eu-uk-tour-2027-tickets/1418126935?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vZO8A8I",
+      "name": "Chase and Status Live - World Tour",
+      "date": "2027-02-20",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.53117",
+      "longitude": "13.45067",
+      "url": "https://www.ticketmaster.de/event/chase-and-status-live-world-tour-tickets/1020405428?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16v7MOIr8",
       "name": "Rush | Box seat in the Ticketmaster Suite",
       "date": "2027-02-21",
@@ -7040,6 +7040,16 @@
       "latitude": "52.48684",
       "longitude": "13.42145",
       "url": "https://www.ticketmaster.de/event/cave-tour-de-porz-tickets/2011173234?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kv-F-_4",
+      "name": "Harald Glööckler - Jede Frau ist eine Prinzessin",
+      "date": "2027-04-23",
+      "time": "20:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/harald-gloockler-jede-frau-ist-eine-prinzessin-tickets/61221655?language=en-us"
     },
     {
       "id": "LvZ18QPITODlBe27RyIQC",
