@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T05:02:03.909230+00:00",
+  "updatedAt": "2026-09-22T11:43:46.039496+00:00",
   "events": [
     {
       "id": "LvZ18QxiaY5gHC8ZvDxHk",
@@ -3273,13 +3273,13 @@
     },
     {
       "id": "LvZ18Q0KTMMpNbMbV1XaE",
-      "name": "The Velvet Creepers November 2026",
+      "name": "The Velvet Creepers present Maison Clit",
       "date": "2026-11-20",
       "time": "19:00:00",
       "venue": null,
       "latitude": "52.53224",
       "longitude": "13.38003",
-      "url": "https://www.universe.com/events/the-velvet-creepers-november-2026-tickets-1FKHS5?ref=ticketmaster"
+      "url": "https://www.universe.com/events/the-velvet-creepers-present-maison-clit-tickets-1FKHS5?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16v8eAzOo",
@@ -7090,6 +7090,16 @@
       "latitude": "52.51635",
       "longitude": "13.38987",
       "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-trier-tickets-BKY8J5?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16vG87YfJ",
+      "name": "Bill Bailey - Vaudevillean",
+      "date": "2027-04-27",
+      "time": "20:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/bill-bailey-vaudevillean-tickets/1310130526?language=en-us"
     },
     {
       "id": "LvZ18QPITyaos7lrlaLXq",
