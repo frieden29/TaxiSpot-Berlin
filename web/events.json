@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T04:49:06.644912+00:00",
+  "updatedAt": "2026-09-23T11:42:35.344377+00:00",
   "events": [
     {
       "id": "LvZ18QxkY2DCiXZZvGjxQ",
@@ -1477,8 +1477,8 @@
       "date": "2026-10-21",
       "time": "20:00:00",
       "venue": null,
-      "latitude": "52.53818",
-      "longitude": "13.41259",
+      "latitude": "52.46438",
+      "longitude": "13.43338",
       "url": "https://www.ticketmaster.de/event/ruel-kicking--screaming-uk--eu-tour-tickets/1869809521?language=en-us"
     },
     {
@@ -3100,6 +3100,16 @@
       "latitude": "52.54291",
       "longitude": "13.42071",
       "url": "https://www.universe.com/events/lachkater-die-stand-up-comedy-show-tickets-0DY124?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16v0_8yjU",
+      "name": "Swae Lee - Same Difference Tour Europe",
+      "date": "2026-11-17",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.50814",
+      "longitude": "13.45181",
+      "url": "https://www.ticketmaster.de/event/swae-lee-same-difference-tour-europe-tickets/1919439736?language=en-us"
     },
     {
       "id": "Z698xZC2Z16v4fG4uE",
@@ -6542,6 +6552,16 @@
       "url": "https://www.ticketmaster.de/event/bonobo-distance-in-static-live-tickets/149630910?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1kqfZtb9",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-12",
+      "time": "16:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/754029617?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kP3ZJ-t",
       "name": "DISNEY ON ICE - Mickys Magische Momente",
       "date": "2027-03-12",
@@ -6550,6 +6570,16 @@
       "latitude": "52.53117",
       "longitude": "13.45067",
       "url": "https://www.ticketmaster.de/event/disney-on-ice-mickys-magische-momente-tickets/952026869?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kvxAk03",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-12",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/62146912?language=en-us"
     },
     {
       "id": "LvZ18QPITODlBe27RyIQF",
@@ -6582,6 +6612,16 @@
       "url": "https://www.ticketmaster.de/event/disney-on-ice-mickys-magische-momente-tickets/1932127399?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vvSug_f",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-13",
+      "time": "16:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1073375654?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vodFtrp",
       "name": "DISNEY ON ICE - Mickys Magische Momente",
       "date": "2027-03-13",
@@ -6602,6 +6642,16 @@
       "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-dortmund-tickets-QWD7MS?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z16v7S_MAy",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-13",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1133677179?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vbFa8-N",
       "name": "DISNEY ON ICE - Mickys Magische Momente",
       "date": "2027-03-14",
@@ -6610,6 +6660,16 @@
       "latitude": "52.53117",
       "longitude": "13.45067",
       "url": "https://www.ticketmaster.de/event/disney-on-ice-mickys-magische-momente-tickets/1608250863?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kOIv-8p",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-14",
+      "time": "15:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/828061416?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kpAoxvP",
@@ -6622,6 +6682,16 @@
       "url": "https://www.ticketmaster.de/event/disney-on-ice-mickys-magische-momente-tickets/585462065?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vjgOI0M",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-14",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1735828937?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vZ8Cbk7",
       "name": "Loreena McKennitt: The Mask and Mirror - 30th Anniversary Tour",
       "date": "2027-03-16",
@@ -6630,6 +6700,16 @@
       "latitude": "52.50152",
       "longitude": "13.38175",
       "url": "https://www.ticketmaster.de/event/loreena-mckennitt-the-mask-and-mirror-30th-anniversary-tour-tickets/1010398184?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kP7QfF7",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-17",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/944694204?language=en-us"
     },
     {
       "id": "LvZ18QPITyaos7lrlaLX9",
@@ -6642,6 +6722,16 @@
       "url": "https://www.universe.com/events/saying-the-wrong-thing-english-stand-up-comedy-in-berlin-tickets-Z3TKFP?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z16v49O9av",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-18",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1557817241?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16v_-_x_V",
       "name": "Fimiguerrero - LOST CITY",
       "date": "2027-03-18",
@@ -6650,6 +6740,26 @@
       "latitude": "52.51177",
       "longitude": "13.42638",
       "url": "https://www.ticketmaster.de/event/fimiguerrero-lost-city-tickets/1661662674?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kOpF-Oy",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-19",
+      "time": "16:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/816221839?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vkepdkb",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-19",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1182583198?language=en-us"
     },
     {
       "id": "LvZ18QPITODlBe27RyIQa",
@@ -6662,6 +6772,26 @@
       "url": "https://www.universe.com/events/the-epic-comedy-showcase-english-stand-up-comedy-in-berlin-tickets-8XCKH7?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z16vk7C8A_",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-20",
+      "time": "16:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1184390159?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k0xQovs",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-20",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/922691071?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1k1vAwaS",
       "name": "James Blunt - Airplane Mode Tour | Box seat",
       "date": "2027-03-20",
@@ -6670,6 +6800,26 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/james-blunt-airplane-mode-tour-%7C-box-seat-tickets/281172273?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kvKOF_a",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-21",
+      "time": "15:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/53808649?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16ee4jMkF",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-21",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2095737188?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kjskZv4",
@@ -6692,6 +6842,16 @@
       "url": "https://www.ticketmaster.de/event/raed-pov-ladi-geht-auf-tour-tickets/41186551?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1kq9Zd_4",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-24",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/757003655?language=en-us"
+    },
+    {
       "id": "LvZ18QPITyaos7lrlaLXb",
       "name": "Saying the Wrong Thing — English Stand-up Comedy in Berlin",
       "date": "2027-03-24",
@@ -6712,6 +6872,36 @@
       "url": "https://www.ticketmaster.de/event/sienna-spiro-my-house-tour-tickets/1923129676?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vO9ZO8F",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-25",
+      "time": "16:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1817020408?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vv_AK16",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-25",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1059153287?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kAPa9ad",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-26",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/165257243?language=en-us"
+    },
+    {
       "id": "LvZ18QPITODlBe27RyIQ1",
       "name": "The Epic Comedy Showcase — English Stand-up Comedy in Berlin",
       "date": "2027-03-26",
@@ -6720,6 +6910,46 @@
       "latitude": "52.52601",
       "longitude": "13.39366",
       "url": "https://www.universe.com/events/the-epic-comedy-showcase-english-stand-up-comedy-in-berlin-tickets-8XCKH7?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16v16bFj8",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-27",
+      "time": "16:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1287608710?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vF88Nxd",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-27",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1210423883?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vPz-_vE",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-28",
+      "time": "15:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1978859067?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1koz44oS",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-28",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/478555473?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kO4_313",
@@ -6742,6 +6972,26 @@
       "url": "https://www.ticketmaster.de/event/kaleo-way-down-we-go-tour-tickets/364387407?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vpoj4Q9",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-30",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1591715697?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v_JOxko",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-03-31",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1666822191?language=en-us"
+    },
+    {
       "id": "LvZ18QPITyaos7lrlaLX_",
       "name": "Saying the Wrong Thing — English Stand-up Comedy in Berlin",
       "date": "2027-03-31",
@@ -6760,6 +7010,26 @@
       "latitude": "52.48768",
       "longitude": "13.48072",
       "url": "https://www.ticketmaster.de/event/ash-grunwald-european-tour-2027-tickets/1399915813?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kuZ8Up6",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-01",
+      "time": "16:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/340436587?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kANj_Oy",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-01",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/163719839?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kufFt0v",
@@ -6782,6 +7052,16 @@
       "url": "https://www.ticketmaster.de/event/clair-obscur-expedition-33-a-painted-symphony-%7C-box-seat-tickets/341837685?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1koA7-qM",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-02",
+      "time": "16:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/445121777?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vOI7pev",
       "name": "Gregor Meyle & Band - Unplugged - Das Wohnzimmerkonzert",
       "date": "2027-04-02",
@@ -6790,6 +7070,16 @@
       "latitude": "52.50738",
       "longitude": "13.37218",
       "url": "https://www.ticketmaster.de/event/gregor-meyle--band-unplugged-das-wohnzimmerkonzert-tickets/1828116081?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vowfUQa",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-02",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1472536689?language=en-us"
     },
     {
       "id": "LvZ18QPITODlBe27RyIQ5",
@@ -6802,6 +7092,16 @@
       "url": "https://www.universe.com/events/the-epic-comedy-showcase-english-stand-up-comedy-in-berlin-tickets-8XCKH7?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z1kr7-S7g",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-03",
+      "time": "16:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/784873135?language=en-us"
+    },
+    {
       "id": "LvZ18Qn8xK9qiI0qoMbds",
       "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Memmingen",
       "date": "2027-04-03",
@@ -6810,6 +7110,26 @@
       "latitude": "52.51635",
       "longitude": "13.38987",
       "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-memmingen-tickets-15YSWZ?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16vk7vkaJ",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-03",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1184046266?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vGz-toF",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-04",
+      "time": "15:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1338869448?language=en-us"
     },
     {
       "id": "LvZ18Qn80h62GA9Plz3BL",
@@ -6822,6 +7142,26 @@
       "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-konstanz-tickets-8D2WR5?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z1k1_4P-I",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-04",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/299565868?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vqOpaGF",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-07",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1760589308?language=en-us"
+    },
+    {
       "id": "LvZ18QPITyaos7lrlaLXQ",
       "name": "Saying the Wrong Thing — English Stand-up Comedy in Berlin",
       "date": "2027-04-07",
@@ -6830,6 +7170,16 @@
       "latitude": "52.51092",
       "longitude": "13.46134",
       "url": "https://www.universe.com/events/saying-the-wrong-thing-english-stand-up-comedy-in-berlin-tickets-Z3TKFP?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z1kPJjK7f",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-08",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/966713114?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vZsqVf-",
@@ -6842,6 +7192,16 @@
       "url": "https://www.ticketmaster.de/event/ian-hooper-on-tour-april-2027-tickets/1031774521?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vFe1_ko",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-09",
+      "time": "16:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1202299191?language=en-us"
+    },
+    {
       "id": "LvZ18Qn8PjOGSa1L4C3y9",
       "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Magdeburg",
       "date": "2027-04-09",
@@ -6850,6 +7210,16 @@
       "latitude": "52.51635",
       "longitude": "13.38987",
       "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-magdeburg-tickets-FV26NQ?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z1k4Y0oqM",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-09",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/570911777?language=en-us"
     },
     {
       "id": "LvZ18QPITODlBe27RyIQG",
@@ -6872,6 +7242,46 @@
       "url": "https://www.universe.com/events/udo-lindenberg-fantour-berlin-tickets-PZ8SJB?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z1kv_fyb8",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-10",
+      "time": "16:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/59539610?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kkFP_qk",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-10",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/188959746?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kq4qY7k",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-11",
+      "time": "15:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/755770106?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kvOAxJ6",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-11",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/60162987?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1k7A8ta0",
       "name": "Kellermensch",
       "date": "2027-04-13",
@@ -6880,6 +7290,16 @@
       "latitude": "52.53818",
       "longitude": "13.41259",
       "url": "https://www.ticketmaster.de/event/kellermensch-tickets/105429264?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v_6r9j3",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-14",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1647797712?language=en-us"
     },
     {
       "id": "LvZ18QPITyaos7lrlaLXh",
@@ -6892,6 +7312,16 @@
       "url": "https://www.universe.com/events/saying-the-wrong-thing-english-stand-up-comedy-in-berlin-tickets-Z3TKFP?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z16vAZ-a1d",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-15",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1140849283?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vv8aYFS",
       "name": "CHRIS NORMAN & BAND LIFELINES TOUR | Box seat",
       "date": "2027-04-15",
@@ -6902,6 +7332,16 @@
       "url": "https://www.ticketmaster.de/event/chris-norman--band-lifelines-tour-%7C-box-seat-tickets/1050270233?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1koz7YQ7",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-16",
+      "time": "16:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/478130684?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kvY1FqS",
       "name": "Morgan Jay - La Dolce Vita Tour",
       "date": "2027-04-16",
@@ -6910,6 +7350,16 @@
       "latitude": "52.50152",
       "longitude": "13.38175",
       "url": "https://www.ticketmaster.de/event/morgan-jay-la-dolce-vita-tour-tickets/70288773?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kfwPFxk",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-16",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/532948886?language=en-us"
     },
     {
       "id": "LvZ18QPITODlBe27RyIQu",
@@ -6932,6 +7382,16 @@
       "url": "https://www.universe.com/events/veggienale-berlin-17-18-april-2027-tickets-35SNGV?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z1AyvzjK",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-17",
+      "time": "16:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/39078713?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16eZsGFjv",
       "name": "MAFFAY +OERDING: NASHVILLE LIVE 2027 | Logen-Seat",
       "date": "2027-04-17",
@@ -6940,6 +7400,36 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/maffay-oerding-nashville-live-2027-%7C-logen-seat-tickets/2031308701?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vpk__J9",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-17",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1586659997?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v-baea8",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-18",
+      "time": "15:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1858242250?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v3b79Cb",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-18",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1498117398?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vAza-oa",
@@ -7012,6 +7502,16 @@
       "url": "https://www.universe.com/events/saying-the-wrong-thing-english-stand-up-comedy-in-berlin-tickets-Z3TKFP?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z1kutjb0_",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-22",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/369718919?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16eZoASFV",
       "name": "Cave - Tour de Porz",
       "date": "2027-04-22",
@@ -7020,6 +7520,26 @@
       "latitude": "52.48684",
       "longitude": "13.42145",
       "url": "https://www.ticketmaster.de/event/cave-tour-de-porz-tickets/2011173234?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k-yq40f",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-23",
+      "time": "16:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/879755914?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kP8ZaAN",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-23",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/950009163?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kv-F-_4",
@@ -7052,6 +7572,16 @@
       "url": "https://www.universe.com/events/rammtour-auf-den-spuren-von-rammstein-tickets-3YVNMR?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z1AfqVOZ",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-24",
+      "time": "16:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/14774800?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vASP7bw",
       "name": "Der Herr der Ringe – Die zwei Türme | Logen-Seat",
       "date": "2027-04-24",
@@ -7072,6 +7602,26 @@
       "url": "https://www.universe.com/events/moritz-hohl-musst-du-wissen-tickets-CYTZBG?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z16vvY8OO8",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-24",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1070420810?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kjE0ZJf",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-25",
+      "time": "15:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/727900994?language=en-us"
+    },
+    {
       "id": "LvZ18Qn8EqAa6oglrM9zy",
       "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Trier",
       "date": "2027-04-25",
@@ -7080,6 +7630,16 @@
       "latitude": "52.51635",
       "longitude": "13.38987",
       "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-trier-tickets-BKY8J5?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16vZfebea",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-25",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1014098089?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vG87YfJ",
@@ -7092,6 +7652,16 @@
       "url": "https://www.ticketmaster.de/event/bill-bailey-vaudevillean-tickets/1310130526?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16v_IZV_Z",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-28",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1668034640?language=en-us"
+    },
+    {
       "id": "LvZ18QPITyaos7lrlaLXq",
       "name": "Saying the Wrong Thing — English Stand-up Comedy in Berlin",
       "date": "2027-04-28",
@@ -7100,6 +7670,16 @@
       "latitude": "52.51092",
       "longitude": "13.46134",
       "url": "https://www.universe.com/events/saying-the-wrong-thing-english-stand-up-comedy-in-berlin-tickets-Z3TKFP?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z1k0gZpfk",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-29",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/935016506?language=en-us"
     },
     {
       "id": "LvZ18Qn8IPoqriLMRJHHK",
@@ -7112,6 +7692,26 @@
       "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-munster-tickets-D40BZS?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z1k-0C6pv",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-30",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/864387581?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vvok_Fx",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-04-30",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1051199222?language=en-us"
+    },
+    {
       "id": "LvZ18QPITODlBe27RyIQ2",
       "name": "The Epic Comedy Showcase — English Stand-up Comedy in Berlin",
       "date": "2027-04-30",
@@ -7120,6 +7720,16 @@
       "latitude": "52.52601",
       "longitude": "13.39366",
       "url": "https://www.universe.com/events/the-epic-comedy-showcase-english-stand-up-comedy-in-berlin-tickets-8XCKH7?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16ev3bM0P",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-01",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2052637925?language=en-us"
     },
     {
       "id": "Z698xZC2Z1ASp_ZY",
@@ -7132,6 +7742,26 @@
       "url": "https://www.ticketmaster.de/event/cindy-aus-marzahn-%7C-box-seat-in-the-ticketmaster-suite-tickets/33599030?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1kp8707N",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-01",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/590124123?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kAOqz17",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-02",
+      "time": "15:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/160778284?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vq3AV4g",
       "name": "LEA - Sieben Monde Arena Tour 2027",
       "date": "2027-05-02",
@@ -7142,6 +7772,16 @@
       "url": "https://www.ticketmaster.de/event/lea-sieben-monde-arena-tour-2027-tickets/1752174575?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1k4V7zGb",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-02",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/574138318?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kbtre0z",
       "name": "LEA - Sieben Monde Arena Tour 2027 | Box seat",
       "date": "2027-05-02",
@@ -7150,6 +7790,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/lea-sieben-monde-arena-tour-2027-%7C-box-seat-tickets/629782938?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vqJPz_V",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-05",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1766978674?language=en-us"
     },
     {
       "id": "Z698xZC2Z1AzoM8k",
@@ -7172,6 +7822,16 @@
       "url": "https://www.ticketmaster.de/event/valley-do-you-need-to-be-entertained-the-tour-tickets/590284086?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vOs-d0p",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-06",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1831843916?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vGZ_4uw",
       "name": "ROLAND KAISER: ARENA TOUR 2027 | Logen-Seat",
       "date": "2027-05-06",
@@ -7192,6 +7852,16 @@
       "url": "https://www.ticketmaster.de/event/parshad--live-comedy-tour-emotional-sein-vadder-tickets/1407303428?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vQZ_YFI",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-07",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1680670228?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vfyuyay",
       "name": "ROLAND KAISER: ARENA TOUR 2027 | Logen-Seat",
       "date": "2027-05-07",
@@ -7202,6 +7872,26 @@
       "url": "https://www.ticketmaster.de/event/roland-kaiser-arena-tour-2027-%7C-logen-seat-tickets/1539379279?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1kGAPIQA",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-07",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/305968685?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vO0-P1F",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-08",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1824865288?language=en-us"
+    },
+    {
       "id": "LvZ18Qn8tUaCTSScf9Gr4",
       "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Dresden",
       "date": "2027-05-08",
@@ -7210,6 +7900,16 @@
       "latitude": "52.51635",
       "longitude": "13.38987",
       "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-dresden-tickets-38ZX7V?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16vOguba3",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-08",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1835358252?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kJkbzog",
@@ -7230,6 +7930,36 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/torsten-strater-%7C-logen-seat-tickets/255299214?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kjpkFf6",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-09",
+      "time": "15:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/716188507?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v00C9CF",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-09",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1924397388?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vqb1dbO",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-12",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1758283620?language=en-us"
     },
     {
       "id": "LvZ18Qn8l90959UOHzKBH",
@@ -7262,6 +7992,16 @@
       "url": "https://www.ticketmaster.de/event/gracie-abrams-the-look-at-my-life-tour-%7C-premium-packages-tickets/210550398?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vk4xk8_",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-13",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1195886419?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16v33bsfo",
       "name": "Gracie Abrams: The Look at My Life Tour | Logen-Seat",
       "date": "2027-05-13",
@@ -7292,6 +8032,16 @@
       "url": "https://www.ticketmaster.de/event/gracie-abrams-the-look-at-my-life-tour-%7C-premium-packages-tickets/1225032278?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vb3kFoO",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-14",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1612188460?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1k0k37Gs",
       "name": "ABBAMANIA: 50 JAHRE THANK YOU FOR THE MUSIC| Box-Seat",
       "date": "2027-05-14",
@@ -7300,6 +8050,56 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/abbamania-50-jahre-thank-you-for-the-music%7C-box-seat-tickets/906484331?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kowaAON",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-14",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/472245823?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k-J83jt",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-15",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/866412729?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v788bPK",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-15",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1110418953?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kJbb6qF",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-16",
+      "time": "15:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/998607748?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vbd4wvF",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-16",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1603572048?language=en-us"
     },
     {
       "id": "Z698xZC2Z1AkrZ8F",
@@ -7332,6 +8132,16 @@
       "url": "https://www.ticketmaster.de/event/sombr-you-are-the-reason-tour-berlin-%7C-box-seat-tickets/956272095?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1kjepv1_",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-19",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/702581299?language=en-us"
+    },
+    {
       "id": "LvZ18Qn8yYfaFKtLTSYez",
       "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Bonn",
       "date": "2027-05-19",
@@ -7362,6 +8172,16 @@
       "url": "https://www.ticketmaster.de/event/loreen-the-wildfire-tour-%7C-vip-sound-check-party-ticket-tickets/1409133603?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16eZ-a6Ge",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-20",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2021247302?language=en-us"
+    },
+    {
       "id": "LvZ18Qn8BsJDFAH5hYjL6",
       "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Erfurt",
       "date": "2027-05-20",
@@ -7370,6 +8190,26 @@
       "latitude": "52.51635",
       "longitude": "13.38987",
       "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-erfurt-tickets-5DPJ38?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z1k0b0sQZ",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-21",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/918931680?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vovGN7P",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-21",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1441323125?language=en-us"
     },
     {
       "id": "LvZ18QQbtb51AEOZ0O156",
@@ -7390,6 +8230,16 @@
       "latitude": "52.53198",
       "longitude": "13.41407",
       "url": "https://www.universe.com/events/lachkater-waffeln-comedy-tickets-Z5C91L?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z1kPKoE-F",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-22",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/953467848?language=en-us"
     },
     {
       "id": "LvZ18Q0y5CIocjC-xJoZ8",
@@ -7432,6 +8282,56 @@
       "url": "https://www.ticketmaster.de/event/night-of-the-jumps-freestyle-mx-world-championship-%7C-premium-package-tickets/132675699?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1kv7ZOvU",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-22",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/44020076?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kq7oS1e",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-23",
+      "time": "15:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/744473282?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kA7_I7z",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-23",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/144668138?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vje33_g",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-26",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1702492675?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kuFj-fg",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-27",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/348721535?language=en-us"
+    },
+    {
       "id": "LvZ18Qn8D01IlOBZcznUo",
       "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Hannover",
       "date": "2027-05-27",
@@ -7440,6 +8340,26 @@
       "latitude": "52.51635",
       "longitude": "13.38987",
       "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-hannover-tickets-VD6MNF?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16v-feKek",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-28",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1854093086?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vpo-zF-",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-28",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1591878221?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kA9-kPN",
@@ -7462,6 +8382,46 @@
       "url": "https://www.universe.com/events/depeche-mode-fantour-berlin-tickets-V94XQ8?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z1kvI7v7b",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-29",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/68101118?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vee-dpA",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-29",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1082843585?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kj04dFY",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-30",
+      "time": "15:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/724543230?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k7kb0b4",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-05-30",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/106624615?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1AzbkGZ",
       "name": "Omar76 - Tour 2026 - Tour 2026 | Premium Upgrade (no Ticket included)",
       "date": "2027-05-30",
@@ -7482,6 +8442,96 @@
       "url": "https://www.ticketmaster.de/event/jorja-smith-10-years-of-jorja-smith-tickets/724624554?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vZ737va",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-03",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1004484049?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kF9_Yof",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-04",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/217670454?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vfg8-rf",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-04",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1535421794?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v_V7e78",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-05",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1674102110?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16ve7A9q-",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-05",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1084157761?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vC61puY",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-06",
+      "time": "15:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1387296370?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1ke97bjN",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-06",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/97118723?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k8wZsAf",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-09",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/432031154?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vaejdQ8",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-10",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1242703690?language=en-us"
+    },
+    {
       "id": "LvZ18Qn8H0QF7_ux_digd",
       "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Lübeck",
       "date": "2027-06-10",
@@ -7492,6 +8542,56 @@
       "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-lubeck-tickets-FKHWM9?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z16v_7kAJ_",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-11",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1644185999?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kOvoVuw",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-11",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/801474372?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v-YF6aO",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-12",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1870207260?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kvwab73",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-12",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/72258112?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k40-3FN",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-13",
+      "time": "15:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/564852223?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kbgQeA6",
       "name": "Delil & Avie - 2ORTAKS TOUR 2027 | Premium Package",
       "date": "2027-06-13",
@@ -7500,6 +8600,76 @@
       "latitude": "52.48684",
       "longitude": "13.42145",
       "url": "https://www.ticketmaster.de/event/delil--avie-2ortaks-tour-2027-%7C-premium-package-tickets/635682147?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kj_8Pv8",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-16",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/719425050?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vPPZfak",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-17",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1965014246?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vANFZpF",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-18",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1163200588?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v397k47",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-18",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1497106544?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k7YjYZw",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-19",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/130730032?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vGeO9u6",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-19",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1302817347?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kqbuwvY",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-20",
+      "time": "15:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/758372070?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vopOK3p",
@@ -7542,6 +8712,76 @@
       "url": "https://www.ticketmaster.de/event/jarlath-regan-craic-pot-tickets/129506703?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vuYrpA7",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-23",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1370796144?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kPp0zvk",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-24",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/956938046?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vObvSvz",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-25",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1818073078?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kxd7a_J",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-25",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/883109666?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vGgZIo6",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-26",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1335028447?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16ee_G3o-",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-26",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2099312461?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16ee4GdqA",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-27",
+      "time": "15:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2095303745?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16v4oGoCA",
       "name": "Don Omar - The Last King World To | Box seat in the Ticketmaster Suite",
       "date": "2027-06-28",
@@ -7550,6 +8790,26 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/don-omar-the-last-king-world-to-%7C-box-seat-in-the-ticketmaster-suite-tickets/1551311385?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k_YGv-N",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-06-30",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/670301863?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kozQ4aZ",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-01",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/478695240?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kaV3fGV",
@@ -7562,6 +8822,26 @@
       "url": "https://www.ticketmaster.de/event/harry-styles-together-together-tickets/274494334?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16eZOFIqN",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-02",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2020228763?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16ee7P3Fv",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-03",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2084952201?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kAJ0U_z",
       "name": "Harry Styles: Together, Together",
       "date": "2027-07-03",
@@ -7570,6 +8850,46 @@
       "latitude": "52.48256",
       "longitude": "13.38896",
       "url": "https://www.ticketmaster.de/event/harry-styles-together-together-tickets/166936678?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k1378GP",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-03",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/292110325?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v0A8e4M",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-04",
+      "time": "15:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1905402577?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kCZ4Y_z",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-07",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/380570678?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1ko0qEjU",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-08",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/464767736?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kPOoea_",
@@ -7582,6 +8902,76 @@
       "url": "https://www.ticketmaster.de/event/harry-styles-together-together-tickets/960442259?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vA4OfxZ",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-09",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1155814880?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k7N_gjt",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-10",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/123675729?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vofbfG3",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-10",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1454614312?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vAv7vj9",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-11",
+      "time": "15:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1141101717?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kGFGY8v",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-15",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/308330401?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kvdufe8",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-16",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/43354090?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vOfCFAz",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-16",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1814388178?language=en-us"
+    },
+    {
       "id": "LvZ18QEEszUgtbMyAMSt3",
       "name": "Goldschool Festival Berlin",
       "date": "2027-07-17",
@@ -7592,6 +8982,206 @@
       "url": "https://www.universe.com/events/goldschool-festival-berlin-tickets-TVD3GQ?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z1k_4fx7a",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-17",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/655522109?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k7ZqZ_k",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-17",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/100740646?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16eeAGZ09",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-18",
+      "time": "15:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2085300917?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1ke9asP7",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-21",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/97271944?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v_9uIpv",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-22",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1657368581?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v8k3pGf",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-23",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1406496314?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kOkpd80",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-24",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/806583424?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kGS-OuN",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-24",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/333860363?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kj6k_34",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-25",
+      "time": "15:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/707199495?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vQ_ZE7U",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-28",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1699027136?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v8NZYZv",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-29",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1423030001?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vp6G97Z",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-30",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1587317100?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16ev0u8-4",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-31",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2064350855?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vuPvy0y",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-07-31",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1365079939?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16voVefrK",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-01",
+      "time": "15:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1474094793?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16eZpvI_x",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-04",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2016068662?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vbKaKut",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-05",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1613253369?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vb9epbN",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-06",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1617096623?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vbkZ7vJ",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-07",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1606004066?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vbPOb_Y",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-07",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1625818670?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vFVG77P",
       "name": "MAGMA 2027 | 07.08. & 08.08.2027 | WEEKEND TICKET",
       "date": "2027-08-07",
@@ -7600,6 +9190,196 @@
       "latitude": "52.46054",
       "longitude": "13.50445",
       "url": "https://www.ticketmaster.de/event/magma-2027-%7C-0708--08082027-%7C-weekend-ticket-tickets/1234304125?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vv8-g47",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-08",
+      "time": "15:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1050875544?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16eZpvO00",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-11",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2016060924?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vve474M",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-12",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1042544577?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vFNfsxZ",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-13",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1223531880?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vOVPEOt",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-14",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1834967829?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v0S-Kp_",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-14",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1933853599?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kOYeK86",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-15",
+      "time": "15:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/830093407?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vaO4Zkv",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-18",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1260540181?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vvgvEFg",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-19",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1075067235?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16va0utpp",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-20",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1264369596?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kAbOEZa",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-21",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/158827009?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kpKO3vA",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-21",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/593812045?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kJ4-ZoP",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-22",
+      "time": "15:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/995840465?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kfguU-e",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-26",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/535376842?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vvf4o1e",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-27",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1054551282?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k4oa38e",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-27",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/551252402?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vpvFsbt",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-28",
+      "time": "16:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1581231629?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vu-3_3b",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-28",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1361499498?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kCF0xAs",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-08-29",
+      "time": "15:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/388922171?language=en-us"
     },
     {
       "id": "LvZ18QQhChDQOWZZ0LDnp",
