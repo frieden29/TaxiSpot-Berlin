@@ -1,56 +1,6 @@
 {
-  "updatedAt": "2026-09-24T17:14:59.353584+00:00",
+  "updatedAt": "2026-09-24T21:33:35.756687+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z16v0AqVJp",
-      "name": "JJ - Act II - Into The Unknown Tour",
-      "date": "2026-09-24",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.53818",
-      "longitude": "13.41259",
-      "url": "https://www.ticketmaster.de/event/jj-act-ii-into-the-unknown-tour-tickets/1905774996?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vGJJvjt",
-      "name": "JJ - Act ll - Into The Unknown Tour | VIP Ticket\t",
-      "date": "2026-09-24",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.53818",
-      "longitude": "13.41259",
-      "url": "https://www.ticketmaster.de/event/jj-act-ll-into-the-unknown-tour-%7C-vip-ticket-tickets/1326981729?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kO4-8uo",
-      "name": "OsamaSon - PSYKTURNAL TOUR",
-      "date": "2026-09-24",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.48461",
-      "longitude": "13.3914",
-      "url": "https://www.ticketmaster.de/event/osamason-psykturnal-tour-tickets/815850351?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kb4rKGa",
-      "name": "Pi'erre Bourne - Made In Paris",
-      "date": "2026-09-24",
-      "time": "20:00:00",
-      "venue": "Mikropol",
-      "latitude": "52.49948",
-      "longitude": "13.35416",
-      "url": "https://www.ticketmaster.de/event/pierre-bourne-made-in-paris-tickets/615793309?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1krf14v6",
-      "name": "Bagjan Oktyabr - 'SOUL THERAPY' – New Program - World Tour 2026",
-      "date": "2026-09-24",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.50127",
-      "longitude": "13.34793",
-      "url": "https://www.ticketmaster.de/event/bagjan-oktyabr-soul-therapy--new-program-world-tour-2026-tickets/794295047?language=en-us"
-    },
     {
       "id": "Z698xZC2Z16v4Mbt4g",
       "name": "Cirque du Soleil ALIZÉ",
