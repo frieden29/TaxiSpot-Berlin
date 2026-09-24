@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T04:56:45.572823+00:00",
+  "updatedAt": "2026-09-24T11:51:12.282069+00:00",
   "events": [
     {
       "id": "Z698xZC2Z1kA0uUjy",
@@ -1732,6 +1732,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/453169288?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vpeQoZt",
+      "name": "Alba Berlin vs. Ratiopharm Ulm | Logen-Seat",
+      "date": "2026-10-25",
+      "time": "18:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/alba-berlin-vs-ratiopharm-ulm-%7C-logen-seat-tickets/1582691029?language=en-us"
+    },
+    {
       "id": "LvZ18QLFQhseijZZvsRms",
       "name": "WIR ARBEITEN DRAN - Stand-up Comedy Berlin",
       "date": "2026-10-26",
@@ -2410,6 +2420,16 @@
       "latitude": "52.46454",
       "longitude": "13.40864",
       "url": "https://www.universe.com/events/metaxy-tickets-MRN0VY?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16evaAxfv",
+      "name": "Alba Berlin vs. Phoenix Hagen | Logen-Seat",
+      "date": "2026-11-06",
+      "time": "20:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/alba-berlin-vs-phoenix-hagen-%7C-logen-seat-tickets/2049162501?language=en-us"
     },
     {
       "id": "Z698xZC2Z16v3bObkd",
