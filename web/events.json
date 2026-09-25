@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-09-25T11:55:09.677795+00:00",
+  "updatedAt": "2026-09-25T17:15:27.930187+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z16v4Mbt4g",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-09-25",
-      "time": "16:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1577629575?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16ve9Q4uk",
-      "name": "Beartooth - pure ecstasy europe + uk tour",
-      "date": "2026-09-25",
-      "time": "19:00:00",
-      "venue": null,
-      "latitude": "52.48684",
-      "longitude": "13.42145",
-      "url": "https://www.ticketmaster.de/event/beartooth-pure-ecstasy-europe--uk-tour-tickets/1097695346?language=en-us"
-    },
     {
       "id": "Z698xZC2Z16vAKoyJe",
       "name": "Cirque du Soleil ALIZÉ",
@@ -302,16 +282,6 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1846026457?language=en-us"
     },
     {
-      "id": "Z698xZC2Z16vFzrbaJ",
-      "name": "Bryan Adams - Roll With The Punches Tour| Box seat",
-      "date": "2026-10-02",
-      "time": "20:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/bryan-adams-roll-with-the-punches-tour%7C-box-seat-tickets/1238798266?language=en-us"
-    },
-    {
       "id": "Z698xZC2Z16vOva4Zv",
       "name": "Amelie Lens presents: AURA | Gallery Seat",
       "date": "2026-10-02",
@@ -412,16 +382,6 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1863745644?language=en-us"
     },
     {
-      "id": "Z698xZC2Z16vafq0FM",
-      "name": "Alba Berlin vs. Bamberg Baskets | Logen-Seat",
-      "date": "2026-10-03",
-      "time": "18:30:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/alba-berlin-vs-bamberg-baskets-%7C-logen-seat-tickets/1254764237?language=en-us"
-    },
-    {
       "id": "LvZ18Q34E1_wFqZZvlNAb",
       "name": "A night with Sinatra in Berlin",
       "date": "2026-10-03",
@@ -480,16 +440,6 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/681758398?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16v0oe83e",
-      "name": "Eisbären Berlin - Nürnberg Icetigers | Box-Seat",
-      "date": "2026-10-04",
-      "time": "14:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/eisbaren-berlin-nurnberg-icetigers-%7C-box-seat-tickets/1911090482?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kqF-3Pf",
@@ -640,16 +590,6 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/716606223?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16eekFYQa",
-      "name": "Niall Horan: Dinner Party Live On Tour | Box seat",
-      "date": "2026-10-08",
-      "time": "20:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/niall-horan-dinner-party-live-on-tour-%7C-box-seat-tickets/2086230689?language=en-us"
     },
     {
       "id": "Z698xZC2Z16v1paKA4",
@@ -1562,16 +1502,6 @@
       "url": "https://www.ticketmaster.de/event/ivo-martin-mit-dir-wird-mir-warm-tour-2026-tickets/912329248?language=en-us"
     },
     {
-      "id": "Z698xZC2Z16vo8Gyub",
-      "name": "Beatrice Egli | Logen-Seat in der Ticketmaster Suite",
-      "date": "2026-10-24",
-      "time": "20:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/beatrice-egli-%7C-logen-seat-in-der-ticketmaster-suite-tickets/1450339358?language=en-us"
-    },
-    {
       "id": "Z698xZC2Z16vvtAxuO",
       "name": "Berlin, Du coole Sau: Eine Liebeserklärung",
       "date": "2026-10-24",
@@ -1690,16 +1620,6 @@
       "latitude": "52.53198",
       "longitude": "13.41407",
       "url": "https://www.universe.com/events/honey-slam-berlin-poetryslam-ohne-traurige-texte-tickets-V649RQ?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16v4fP3fv",
-      "name": "LE SSERAFIM: PUREFLOW | Logen-Seat",
-      "date": "2026-10-26",
-      "time": "20:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/le-sserafim-pureflow-%7C-logen-seat-tickets/1554952501?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vFfA9fd",
@@ -2610,6 +2530,16 @@
       "latitude": "52.48461",
       "longitude": "13.3915",
       "url": "https://www.ticketmaster.de/event/sons-of-legion-soul-to-sl-world-tour-2026-tickets/1026185196?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1koEjNPz",
+      "name": "Worldpeace DMT",
+      "date": "2026-11-10",
+      "time": "20:00:00",
+      "venue": "LARK",
+      "latitude": "52.51314",
+      "longitude": "13.4228",
+      "url": "https://www.ticketmaster.de/event/worldpeace-dmt-tickets/467723978?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vC64Fv7",
