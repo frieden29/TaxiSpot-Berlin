@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T12:40:03.689154+00:00",
+  "updatedAt": "2026-09-30T22:19:11.594030+00:00",
   "events": [
     {
       "id": "LvZ18QxkY2DCiXZZvGjxh",
@@ -10,36 +10,6 @@
       "latitude": "52.51092",
       "longitude": "13.46134",
       "url": "https://www.universe.com/events/saying-the-wrong-thing-english-stand-up-comedy-in-berlin-tickets-Z3TKFP?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16ev68t4z",
-      "name": "JUAN PABLO LÓPEZ: DESDE CHILE A BERLÍN",
-      "date": "2026-09-30",
-      "time": "20:00:00",
-      "venue": "PUNCH L!NE Club Berlin",
-      "latitude": "52.50738",
-      "longitude": "13.37218",
-      "url": "https://www.ticketmaster.de/event/juan-pablo-lopez-desde-chile-a-berlin-tickets/2047429578?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16v49OJA9",
-      "name": "Vundabar & Yot Club",
-      "date": "2026-09-30",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.53818",
-      "longitude": "13.41259",
-      "url": "https://www.ticketmaster.de/event/vundabar--yot-club-tickets/1557826157?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kvYqefg",
-      "name": "SPECTRUM CONCERTS BERLIN",
-      "date": "2026-09-30",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.51007",
-      "longitude": "13.36896",
-      "url": "https://www.ticketmaster.de/event/spectrum-concerts-berlin-tickets/70742535?language=en-us"
     },
     {
       "id": "Z698xZC2Z16eZIedj-",
@@ -2033,13 +2003,13 @@
     },
     {
       "id": "Z698xZC2Z1kAYe3-F",
-      "name": "Cirque du Soleil ALIZÉ",
+      "name": "Cirque du Soleil ALIZÉ | Jubiläums-Gala",
       "date": "2026-11-05",
       "time": "18:30:00",
       "venue": null,
       "latitude": "52.5076",
       "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/170092848?language=en-us"
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-%7C-jubilaums-gala-tickets/170092848?language=en-us"
     },
     {
       "id": "Z698xZC2Z16voFf-oA",
@@ -2650,6 +2620,16 @@
       "latitude": "52.50512",
       "longitude": "13.44341",
       "url": "https://www.ticketmaster.de/event/the-kid-laroi-a-perfect-world-tour-%7C-vip-tickets/67352618?language=en-us"
+    },
+    {
+      "id": "LvZ18Q0TqgTmG0DvgQ9o3",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2026-11-14",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16v8Mep-Y",
