@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T06:01:04.705239+00:00",
+  "updatedAt": "2026-10-01T13:23:13.930716+00:00",
   "events": [
     {
       "id": "Z698xZC2Z16eZIedj-",
@@ -2782,6 +2782,16 @@
       "url": "https://www.universe.com/events/saying-the-wrong-thing-english-stand-up-comedy-in-berlin-tickets-Z3TKFP?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z16vOw0OPx",
+      "name": "Mittermeiers LUCKY PUNCH COMEDY CLUB präsentiert Mixed Night im P!",
+      "date": "2026-11-18",
+      "time": "20:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/mittermeiers-lucky-punch-comedy-club-prasentiert-mixed-night-im-p-tickets/1832920962?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kPKZsGa",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2026-11-19",
@@ -3390,16 +3400,6 @@
       "latitude": "52.50482",
       "longitude": "13.33901",
       "url": "https://www.universe.com/events/a-night-with-sinatra-in-berlin-tickets-F5DCYB?ref=ticketmaster"
-    },
-    {
-      "id": "LvZ18QnGou2LTsKZOpguq",
-      "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Ulm",
-      "date": "2026-11-28",
-      "time": "20:00:00",
-      "venue": "Tiffany Club",
-      "latitude": "52.51635",
-      "longitude": "13.38987",
-      "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-ulm-tickets-DR67YS?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16evbxpP-",
@@ -5655,7 +5655,7 @@
       "id": "Z698xZC2Z1kvM0074",
       "name": "Two Door Cinema Club - 15th Anniversary Tour",
       "date": "2027-02-08",
-      "time": "20:00:00",
+      "time": "19:15:00",
       "venue": null,
       "latitude": "52.48461",
       "longitude": "13.3914",
@@ -9140,6 +9140,16 @@
       "latitude": "52.52088",
       "longitude": "13.38705",
       "url": "https://www.universe.com/events/udo-lindenberg-fantour-berlin-tickets-2XGVTL?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16v1o0z8V",
+      "name": "RONAN KEATING - Just Getting Started World Tour | Box seat",
+      "date": "2027-09-13",
+      "time": "20:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/ronan-keating-just-getting-started-world-tour-%7C-box-seat-tickets/1291938434?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vq7ufoM",
