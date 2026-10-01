@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-10-01T13:23:13.930716+00:00",
+  "updatedAt": "2026-10-01T22:43:47.966872+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z16eZIedj-",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-01",
-      "time": "18:30:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2028083721?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16eZAAw4z",
-      "name": "mike. - Upside Down Tour Pt. 3",
-      "date": "2026-10-01",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.46438",
-      "longitude": "13.43338",
-      "url": "https://www.ticketmaster.de/event/mike-upside-down-tour-pt-3-tickets/2005172578?language=en-us"
-    },
     {
       "id": "Z698xZC2Z16v4M-zfF",
       "name": "Cirque du Soleil ALIZÉ",
