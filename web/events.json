@@ -1,96 +1,6 @@
 {
-  "updatedAt": "2026-10-02T12:41:38.514412+00:00",
+  "updatedAt": "2026-10-02T22:17:17.450753+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z16v4M-zfF",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-02",
-      "time": "16:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1577878508?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vOva4Zv",
-      "name": "Amelie Lens presents: AURA | Gallery Seat",
-      "date": "2026-10-02",
-      "time": "19:00:00",
-      "venue": "Uber Eats Music Hall",
-      "latitude": "52.50512",
-      "longitude": "13.44341",
-      "url": "https://www.ticketmaster.de/event/amelie-lens-presents-aura-%7C-gallery-seat-tickets/1801255001?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1k0zPboV",
-      "name": "Amelie Lens presents: AURA",
-      "date": "2026-10-02",
-      "time": "19:00:00",
-      "venue": "Uber Eats Music Hall",
-      "latitude": "52.50512",
-      "longitude": "13.44341",
-      "url": "https://www.ticketmaster.de/event/amelie-lens-presents-aura-tickets/938958474?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16v-kZJo9",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-02",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1846026457?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vfUefxK",
-      "name": "Bryan Adams - Roll With The Punches Tour | Premium Packages",
-      "date": "2026-10-02",
-      "time": "20:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/bryan-adams-roll-with-the-punches-tour-%7C-premium-packages-tickets/1536094893?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1k-gO8f3",
-      "name": "Lake Street Dive - 2026 European Tour",
-      "date": "2026-10-02",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.48684",
-      "longitude": "13.42145",
-      "url": "https://www.ticketmaster.de/event/lake-street-dive-2026-european-tour-tickets/875810512?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kFy4AO-",
-      "name": "DJ Seinfeld - ‘If This Is It’ LIVE",
-      "date": "2026-10-02",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.53818",
-      "longitude": "13.41259",
-      "url": "https://www.ticketmaster.de/event/dj-seinfeld-if-this-is-it-live-tickets/239545821?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kGE44xK",
-      "name": "Bryan Adams - Roll With The Punches Tour",
-      "date": "2026-10-02",
-      "time": "20:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/bryan-adams-roll-with-the-punches-tour-tickets/327555893?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kvtqxoK",
-      "name": "Two Lanes - TWO LANES \"A PART OF US\" EUROPE TOUR 2026",
-      "date": "2026-10-02",
-      "time": "20:00:00",
-      "venue": "Columbia Theater",
-      "latitude": "52.48461",
-      "longitude": "13.3915",
-      "url": "https://www.ticketmaster.de/event/two-lanes-two-lanes-a-part-of-us-europe-tour-2026-tickets/69762453?language=en-us"
-    },
     {
       "id": "LvZ18QxkmlR0HqZZvegen",
       "name": "The Epic Comedy Showcase — English Stand-up Comedy in Berlin",
@@ -5692,6 +5602,16 @@
       "url": "https://www.ticketmaster.de/event/comastatic-europe-uk-2027-tickets/420170935?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1kFw_Oop",
+      "name": "Sofia Camara - Sincerely Yours, Tour",
+      "date": "2027-02-09",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.49955",
+      "longitude": "13.35052",
+      "url": "https://www.ticketmaster.de/event/sofia-camara-sincerely-yours-tour-tickets/232660456?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kfAAEv_",
       "name": "Almost Monday - Thank God It´s Almost Monday Tour UK / Europe 2027",
       "date": "2027-02-09",
@@ -8770,6 +8690,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1814388178?language=en-us"
+    },
+    {
+      "id": "LvZ18QPw3gWS_zt41-miS",
+      "name": "Lollapalooza Berlin 2027 presented by essence",
+      "date": "2027-07-17",
+      "time": "11:00:00",
+      "venue": "Olympiastadion Berlin",
+      "latitude": "52.51452",
+      "longitude": "13.24326",
+      "url": "https://www.universe.com/events/lollapalooza-berlin-2027-presented-by-essence-tickets-R2HCJF?ref=ticketmaster"
     },
     {
       "id": "LvZ18QEEszUgtbMyAMSt3",
