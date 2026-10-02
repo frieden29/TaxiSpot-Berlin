@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T05:43:28.704429+00:00",
+  "updatedAt": "2026-10-02T12:41:38.514412+00:00",
   "events": [
     {
       "id": "Z698xZC2Z16v4M-zfF",
@@ -355,7 +355,7 @@
       "id": "Z698xZC2Z1kAKG0xv",
       "name": "Myles Smith - My Mess, My Heart, My Life. Tour",
       "date": "2026-10-08",
-      "time": "20:00:00",
+      "time": "19:30:00",
       "venue": null,
       "latitude": "52.48461",
       "longitude": "13.3914",
@@ -1817,8 +1817,8 @@
       "date": "2026-11-01",
       "time": "20:00:00",
       "venue": null,
-      "latitude": "52.53117",
-      "longitude": "13.45067",
+      "latitude": "52.48461",
+      "longitude": "13.3914",
       "url": "https://www.ticketmaster.de/event/tomora-tickets/931562104?language=en-us"
     },
     {
@@ -3782,6 +3782,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1193548548?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vxk707S",
+      "name": "Charlotte Plank - €UROSTARZ TOUR",
+      "date": "2026-12-04",
+      "time": "20:00:00",
+      "venue": "Kantine am Berghain",
+      "latitude": "52.51098",
+      "longitude": "13.44159",
+      "url": "https://www.ticketmaster.de/event/charlotte-plank-urostarz-tour-tickets/1886124133?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kq-7oA9",
       "name": "Ulle & Rick - Live auf Tour 2026",
       "date": "2026-12-04",
@@ -5282,6 +5292,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/597865213?language=en-us"
     },
     {
+      "id": "LvZ18QlVIZzD7J_GExnxi",
+      "name": "Kiez Comedy – die Mixshow, powered by Chaos Comedy Club",
+      "date": "2027-01-17",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.58358",
+      "longitude": "13.33473",
+      "url": "https://www.universe.com/events/kiez-comedy-die-mixshow-powered-by-chaos-comedy-club-tickets-M9GVB0?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16vvsoouK",
       "name": "Dan & Phil: Hard Launch World Tour",
       "date": "2027-01-18",
@@ -5902,6 +5922,16 @@
       "url": "https://www.ticketmaster.de/event/chase-and-status-live-world-tour-tickets/1020405428?language=en-us"
     },
     {
+      "id": "LvZ18QlVIZMoYTI4rbP-O",
+      "name": "Kiez Comedy – die Mixshow, powered by Chaos Comedy Club",
+      "date": "2027-02-21",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.58358",
+      "longitude": "13.33473",
+      "url": "https://www.universe.com/events/kiez-comedy-die-mixshow-powered-by-chaos-comedy-club-tickets-M9GVB0?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16v7MOIr8",
       "name": "Rush | Box seat in the Ticketmaster Suite",
       "date": "2027-02-21",
@@ -6500,6 +6530,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/53808649?language=en-us"
+    },
+    {
+      "id": "LvZ18QlVIZYbPDCqs6GTE",
+      "name": "Kiez Comedy – die Mixshow, powered by Chaos Comedy Club",
+      "date": "2027-03-21",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.58358",
+      "longitude": "13.33473",
+      "url": "https://www.universe.com/events/kiez-comedy-die-mixshow-powered-by-chaos-comedy-club-tickets-M9GVB0?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16ee4jMkF",
@@ -7922,6 +7962,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/918931680?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vee4PqJ",
+      "name": "Greta Van Fleet - Into The Beginning | Logen-Seat",
+      "date": "2027-05-21",
+      "time": "20:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/greta-van-fleet-into-the-beginning-%7C-logen-seat-tickets/1082565766?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vovGN7P",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-05-21",
@@ -7930,6 +7980,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1441323125?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kfv0ZvS",
+      "name": "Greta Van Fleet - Into The Beginning",
+      "date": "2027-05-21",
+      "time": "20:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/greta-van-fleet-into-the-beginning-tickets/501900073?language=en-us"
     },
     {
       "id": "LvZ18QQbtb51AEOZ0O156",
@@ -8650,6 +8710,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/123675729?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vb6fZkb",
+      "name": "Harry Styles: Together, Together",
+      "date": "2027-07-10",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.48256",
+      "longitude": "13.38896",
+      "url": "https://www.ticketmaster.de/event/harry-styles-together-together-tickets/1607500198?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vofbfG3",
