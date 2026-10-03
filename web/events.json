@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-03T16:20:30.728506+00:00",
+  "updatedAt": "2026-10-03T21:20:52.895109+00:00",
   "events": [
-    {
-      "id": "LvZ18QEgyuAZjzuaLvok7",
-      "name": "Großes Gauklerfest auf der Zitadelle Spandau – 3. – 4.10.2026",
-      "date": "2026-10-03",
-      "time": "10:00:00",
-      "venue": null,
-      "latitude": "52.54005",
-      "longitude": "13.21244",
-      "url": "https://www.universe.com/events/grosses-gauklerfest-auf-der-zitadelle-spandau-3-4-10-2026-tickets-BLYFS1?ref=ticketmaster"
-    },
     {
       "id": "LvZ18Q34E1_wFqZZvlNAb",
       "name": "A night with Sinatra in Berlin",
@@ -20,26 +10,6 @@
       "latitude": "52.50482",
       "longitude": "13.33901",
       "url": "https://www.universe.com/events/a-night-with-sinatra-in-berlin-tickets-F5DCYB?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z1kON_Mao",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-03",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/823677251?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kOf1eA6",
-      "name": "Robert Marc Lehmann: MISSION ERDE LIVE",
-      "date": "2026-10-03",
-      "time": "20:00:00",
-      "venue": "PUNCH L!NE Club Berlin",
-      "latitude": "52.50738",
-      "longitude": "13.37218",
-      "url": "https://www.ticketmaster.de/event/robert-marc-lehmann-mission-erde-live-tickets/814282147?language=en-us"
     },
     {
       "id": "LvZ18Q0TqgTmG0DvgQ9oG",
