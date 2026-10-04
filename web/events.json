@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2026-10-04T12:26:16.631270+00:00",
+  "updatedAt": "2026-10-04T21:31:31.431421+00:00",
   "events": [
-    {
-      "id": "LvZ18QEgyuAZjzuaLvokA",
-      "name": "Großes Gauklerfest auf der Zitadelle Spandau – 3. – 4.10.2026",
-      "date": "2026-10-04",
-      "time": "10:00:00",
-      "venue": null,
-      "latitude": "52.54005",
-      "longitude": "13.21244",
-      "url": "https://www.universe.com/events/grosses-gauklerfest-auf-der-zitadelle-spandau-3-4-10-2026-tickets-BLYFS1?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z1kqF-3Pf",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-04",
-      "time": "17:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/748852954?language=en-us"
-    },
-    {
-      "id": "LvZ18QQx3EnT8QOZ012Pj",
-      "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Berlin",
-      "date": "2026-10-04",
-      "time": "18:00:00",
-      "venue": "Tiffany Club",
-      "latitude": "52.51635",
-      "longitude": "13.38987",
-      "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-berlin-tickets-HV0N6Z?ref=ticketmaster"
-    },
     {
       "id": "LvZ18QKZccynMIZvjvNgH",
       "name": "The Sinners Saloon - Burlesque & Cabaret Show",
@@ -40,46 +10,6 @@
       "latitude": "52.50825",
       "longitude": "13.45271",
       "url": "https://www.universe.com/events/the-sinners-saloon-burlesque-cabaret-show-tickets-QTL48C?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16v_tQ974",
-      "name": "Robert Marc Lehmann: MISSION ERDE LIVE",
-      "date": "2026-10-04",
-      "time": "19:00:00",
-      "venue": "PUNCH L!NE Club Berlin",
-      "latitude": "52.50738",
-      "longitude": "13.37218",
-      "url": "https://www.ticketmaster.de/event/robert-marc-lehmann-mission-erde-live-tickets/1669697115?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vPU49Ox",
-      "name": "King Woman",
-      "date": "2026-10-04",
-      "time": "20:00:00",
-      "venue": "Columbia Theater",
-      "latitude": "52.48461",
-      "longitude": "13.3915",
-      "url": "https://www.ticketmaster.de/event/king-woman-tickets/1976557822?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1k-4fgAv",
-      "name": "Father Of Peace - The Year Of Madness & The Mystery Century Tour",
-      "date": "2026-10-04",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.47697",
-      "longitude": "13.43919",
-      "url": "https://www.ticketmaster.de/event/father-of-peace-the-year-of-madness--the-mystery-century-tour-tickets/855535141?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kevub_w",
-      "name": "CA7RIEL & Paco Amoroso - FREE SPIRITS WORLD TOUR",
-      "date": "2026-10-04",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.53117",
-      "longitude": "13.45067",
-      "url": "https://www.ticketmaster.de/event/ca7riel--paco-amoroso-free-spirits-world-tour-tickets/81358672?language=en-us"
     },
     {
       "id": "LvZ18QLFQhseijZZvsRmm",
