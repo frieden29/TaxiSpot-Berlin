@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T06:26:07.059134+00:00",
+  "updatedAt": "2026-10-06T18:25:10.497593+00:00",
   "events": [
     {
       "id": "LvZ18QxiaY5gHC8ZvDxHF",
@@ -1992,6 +1992,16 @@
       "url": "https://www.ticketmaster.de/event/montell-fish-the-nest-tour-tickets/1957195324?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16v0KGP_v",
+      "name": "Bogdan Lisevsky | Berlin",
+      "date": "2026-11-10",
+      "time": "19:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/bogdan-lisevsky-%7C-berlin-tickets/1913325641?language=en-us"
+    },
+    {
       "id": "LvZ18QxiaY5gHC8ZvDxHu",
       "name": "Lachkater Die Stand Up Comedy Show",
       "date": "2026-11-10",
@@ -3382,6 +3392,16 @@
       "url": "https://www.universe.com/events/saying-the-wrong-thing-english-stand-up-comedy-in-berlin-tickets-Z3TKFP?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z16va6-F8Z",
+      "name": "Ledbyher - Midwinter Tour",
+      "date": "2026-12-02",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.50833",
+      "longitude": "13.45493",
+      "url": "https://www.ticketmaster.de/event/ledbyher-midwinter-tour-tickets/1247848400?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kCZbw_a",
       "name": "8LANCO - Something Brighter Tour",
       "date": "2026-12-02",
@@ -4180,16 +4200,6 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/eisbaren-berlin-nurnberg-icetigers-%7C-box-seat-tickets/1893380034?language=en-us"
-    },
-    {
-      "id": "LvZ18QnG9VPhjibcR6WFs",
-      "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Villingen-Schwenningen",
-      "date": "2026-12-18",
-      "time": "20:00:00",
-      "venue": "Tiffany Club",
-      "latitude": "52.51635",
-      "longitude": "13.38987",
-      "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-villingen-schwenningen-tickets-D57PVF?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16v-sjfGw",
@@ -5372,16 +5382,6 @@
       "url": "https://www.ticketmaster.de/event/sim-hooman-after-all-world-tour-tickets/922103208?language=en-us"
     },
     {
-      "id": "LvZ18QnGqRCrmASOXfKND",
-      "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Stuttgart",
-      "date": "2027-02-05",
-      "time": "20:00:00",
-      "venue": "Tiffany Club",
-      "latitude": "52.51635",
-      "longitude": "13.38987",
-      "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-stuttgart-tickets-QR3ZH0?ref=ticketmaster"
-    },
-    {
       "id": "LvZ18QPITODlBe27RyIQd",
       "name": "The Epic Comedy Showcase — English Stand-up Comedy in Berlin",
       "date": "2027-02-05",
@@ -5592,6 +5592,16 @@
       "url": "https://www.ticketmaster.de/event/masego-fix-your-face-tour-tickets/1915998245?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16eeoJp1v",
+      "name": "JOHN SUMMIT – EUROPE CTRL ESCAPE TOUR",
+      "date": "2027-02-18",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.53117",
+      "longitude": "13.45067",
+      "url": "https://www.ticketmaster.de/event/john-summit--europe-ctrl-escape-tour-tickets/2091996281?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16v7vAIaE",
       "name": "KNOX - Midwest Best Tour",
       "date": "2027-02-18",
@@ -5760,16 +5770,6 @@
       "latitude": "52.50512",
       "longitude": "13.44341",
       "url": "https://www.ticketmaster.de/event/outlander-in-concert-echoes-through-the-highlands-tour-tickets/932577076?language=en-us"
-    },
-    {
-      "id": "LvZ18QnGrXbJAPSaaEw5g",
-      "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Bremen",
-      "date": "2027-02-25",
-      "time": "20:00:00",
-      "venue": "Tiffany Club",
-      "latitude": "52.51635",
-      "longitude": "13.38987",
-      "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-bremen-tickets-WN287G?ref=ticketmaster"
     },
     {
       "id": "LvZ18QIBE8-86nBXQnku-",
@@ -6110,16 +6110,6 @@
       "latitude": "52.53117",
       "longitude": "13.45067",
       "url": "https://www.ticketmaster.de/event/disney-on-ice-mickys-magische-momente-tickets/1443229796?language=en-us"
-    },
-    {
-      "id": "LvZ18QnGE1ncBcSeEH9r3",
-      "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Dortmund",
-      "date": "2027-03-13",
-      "time": "20:00:00",
-      "venue": "Tiffany Club",
-      "latitude": "52.51635",
-      "longitude": "13.38987",
-      "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-dortmund-tickets-QWD7MS?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16v7S_MAy",
@@ -7482,16 +7472,6 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1758283620?language=en-us"
     },
     {
-      "id": "LvZ18Qn8l90959UOHzKBH",
-      "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Mannheim",
-      "date": "2027-05-12",
-      "time": "20:00:00",
-      "venue": "Tiffany Club",
-      "latitude": "52.51635",
-      "longitude": "13.38987",
-      "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-mannheim-tickets-SL91ZT?ref=ticketmaster"
-    },
-    {
       "id": "Z698xZC2Z16vrba94g",
       "name": "Hilary Duff: the lucky me tour",
       "date": "2027-05-12",
@@ -7880,16 +7860,6 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/348721535?language=en-us"
-    },
-    {
-      "id": "LvZ18Qn8D01IlOBZcznUo",
-      "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Hannover",
-      "date": "2027-05-27",
-      "time": "20:00:00",
-      "venue": "Tiffany Club",
-      "latitude": "52.51635",
-      "longitude": "13.38987",
-      "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-hannover-tickets-VD6MNF?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16v-feKek",
