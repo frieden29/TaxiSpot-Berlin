@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-05T14:47:10.919029+00:00",
+  "updatedAt": "2026-10-06T00:05:49.987683+00:00",
   "events": [
-    {
-      "id": "LvZ18QLFQhseijZZvsRmm",
-      "name": "WIR ARBEITEN DRAN - Stand-up Comedy Berlin",
-      "date": "2026-10-05",
-      "time": "20:00:00",
-      "venue": "Oblomov Kreuzkoelln",
-      "latitude": "52.49017",
-      "longitude": "13.42611",
-      "url": "https://www.universe.com/events/wir-arbeiten-dran-stand-up-comedy-berlin-tickets-LF359S?ref=ticketmaster"
-    },
     {
       "id": "LvZ18QxiaY5gHC8ZvDxHF",
       "name": "Lachkater Die Stand Up Comedy Show",
@@ -5482,6 +5472,16 @@
       "url": "https://www.ticketmaster.de/event/night-lovell-my-blood-as-the-ink-tour-tickets/1978693934?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16v8xoKO9",
+      "name": "Quadeca - Life 1 Tour",
+      "date": "2027-02-11",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.49955",
+      "longitude": "13.35052",
+      "url": "https://www.ticketmaster.de/event/quadeca-life-1-tour-tickets/1422453817?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vjt07ba",
       "name": "Role Model Presents: Chuck On Tour",
       "date": "2027-02-11",
@@ -6390,6 +6390,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1059153287?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vx60V4U",
+      "name": "BELLA POARCH - PICNIC AT THE CEMETERY TOUR",
+      "date": "2027-03-25",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.46438",
+      "longitude": "13.43338",
+      "url": "https://www.ticketmaster.de/event/bella-poarch-picnic-at-the-cemetery-tour-tickets/1887934576?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kAPa9ad",
