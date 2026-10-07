@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T13:29:47.183310+00:00",
+  "updatedAt": "2026-10-07T23:08:05.038896+00:00",
   "events": [
     {
       "id": "LvZ18QxkY2DCiXZZvGjxj",
@@ -10,46 +10,6 @@
       "latitude": "52.51092",
       "longitude": "13.46134",
       "url": "https://www.universe.com/events/saying-the-wrong-thing-english-stand-up-comedy-in-berlin-tickets-Z3TKFP?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16vGa4K4p",
-      "name": "J. Cole: The Fall-Off Tour | Premium Packages",
-      "date": "2026-10-07",
-      "time": "20:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/j-cole-the-fall-off-tour-%7C-premium-packages-tickets/1309553556?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vQKFN0_",
-      "name": "Oliver Malcolm - LIVE",
-      "date": "2026-10-07",
-      "time": "20:00:00",
-      "venue": "Mikropol",
-      "latitude": "52.49948",
-      "longitude": "13.35416",
-      "url": "https://www.ticketmaster.de/event/oliver-malcolm-live-tickets/1693223919?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vj788_0",
-      "name": "J. Cole: The Fall-Off Tour | Box seat in the Ticketmaster Suite",
-      "date": "2026-10-07",
-      "time": "20:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/j-cole-the-fall-off-tour-%7C-box-seat-in-the-ticketmaster-suite-tickets/1704410664?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kOdP04b",
-      "name": "J. Cole: The Fall-Off Tour",
-      "date": "2026-10-07",
-      "time": "20:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/j-cole-the-fall-off-tour-tickets/803964558?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kjpbkFN",
@@ -2722,16 +2682,6 @@
       "url": "https://www.universe.com/events/the-epic-comedy-showcase-english-stand-up-comedy-in-berlin-tickets-8XCKH7?ref=ticketmaster"
     },
     {
-      "id": "LvZ18QED_ZgLwTygj3UDZ",
-      "name": "HELDENMARKT Berlin",
-      "date": "2026-11-21",
-      "time": "10:00:00",
-      "venue": "Colosseum",
-      "latitude": "52.54782",
-      "longitude": "13.41212",
-      "url": "https://www.universe.com/events/heldenmarkt-berlin-tickets-8C1SBG?ref=ticketmaster"
-    },
-    {
       "id": "Z698xZC2Z16v-VFZP8",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2026-11-21",
@@ -5370,6 +5320,16 @@
       "latitude": "52.49955",
       "longitude": "13.35052",
       "url": "https://www.ticketmaster.de/event/sim-hooman-after-all-world-tour-tickets/922103208?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vZgF9jZ",
+      "name": "OG LU - Alle Chayas Alle Bitches Tour 2027",
+      "date": "2027-02-05",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.48684",
+      "longitude": "13.42145",
+      "url": "https://www.ticketmaster.de/event/og-lu-alle-chayas-alle-bitches-tour-2027-tickets/1035217700?language=en-us"
     },
     {
       "id": "LvZ18QPITODlBe27RyIQd",
