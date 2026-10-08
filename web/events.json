@@ -1,46 +1,6 @@
 {
-  "updatedAt": "2026-10-08T13:35:52.436490+00:00",
+  "updatedAt": "2026-10-08T23:23:41.563414+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z1kjpbkFN",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-08",
-      "time": "18:30:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/716606223?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kAKG0xv",
-      "name": "Myles Smith - My Mess, My Heart, My Life. Tour",
-      "date": "2026-10-08",
-      "time": "19:00:00",
-      "venue": null,
-      "latitude": "52.48461",
-      "longitude": "13.3914",
-      "url": "https://www.ticketmaster.de/event/myles-smith-my-mess-my-heart-my-life-tour-tickets/153324881?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16v1paKA4",
-      "name": "Niall Horan: Dinner Party Live On Tour | Premium Packages",
-      "date": "2026-10-08",
-      "time": "19:30:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/niall-horan-dinner-party-live-on-tour-%7C-premium-packages-tickets/1296253155?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vvx0w-E",
-      "name": "Niall Horan: Dinner Party Live On Tour",
-      "date": "2026-10-08",
-      "time": "19:30:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/niall-horan-dinner-party-live-on-tour-tickets/1062932867?language=en-us"
-    },
     {
       "id": "Z698xZC2Z16vvpfd-z",
       "name": "Cirque du Soleil ALIZÉ",
@@ -513,13 +473,13 @@
     },
     {
       "id": "LvZ18Q34E1_wFqZZvlNAQ",
-      "name": "A night with Sinatra in Berlin",
+      "name": "Sinatra Night Berlin",
       "date": "2026-10-17",
       "time": "19:30:00",
       "venue": null,
       "latitude": "52.50482",
       "longitude": "13.33901",
-      "url": "https://www.universe.com/events/a-night-with-sinatra-in-berlin-tickets-F5DCYB?ref=ticketmaster"
+      "url": "https://www.universe.com/events/sinatra-night-berlin-tickets-F5DCYB?ref=ticketmaster"
     },
     {
       "id": "LvZ18QOW2CcWgXZZvW-uC",
@@ -903,13 +863,13 @@
     },
     {
       "id": "LvZ18Q34E1_wFqZZvlNAh",
-      "name": "A night with Sinatra in Berlin",
+      "name": "Sinatra Night Berlin",
       "date": "2026-10-24",
       "time": "19:30:00",
       "venue": null,
       "latitude": "52.50482",
       "longitude": "13.33901",
-      "url": "https://www.universe.com/events/a-night-with-sinatra-in-berlin-tickets-F5DCYB?ref=ticketmaster"
+      "url": "https://www.universe.com/events/sinatra-night-berlin-tickets-F5DCYB?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1k03GtaF",
@@ -1353,13 +1313,13 @@
     },
     {
       "id": "LvZ18Q34E1_wFqZZvlNAj",
-      "name": "A night with Sinatra in Berlin",
+      "name": "Sinatra Night Berlin",
       "date": "2026-10-31",
       "time": "19:30:00",
       "venue": null,
       "latitude": "52.50482",
       "longitude": "13.33901",
-      "url": "https://www.universe.com/events/a-night-with-sinatra-in-berlin-tickets-F5DCYB?ref=ticketmaster"
+      "url": "https://www.universe.com/events/sinatra-night-berlin-tickets-F5DCYB?ref=ticketmaster"
     },
     {
       "id": "LvZ18QEUl23MLK5hFXmVI",
@@ -1782,16 +1742,6 @@
       "url": "https://www.universe.com/events/lachkater-waffeln-comedy-tickets-Z5C91L?ref=ticketmaster"
     },
     {
-      "id": "LvZ18Q34E1_wFqZZvlNAq",
-      "name": "A night with Sinatra in Berlin",
-      "date": "2026-11-07",
-      "time": "19:30:00",
-      "venue": null,
-      "latitude": "52.50482",
-      "longitude": "13.33901",
-      "url": "https://www.universe.com/events/a-night-with-sinatra-in-berlin-tickets-F5DCYB?ref=ticketmaster"
-    },
-    {
       "id": "LvZ18QEUl29XDt51TY4Lk",
       "name": "Metaxy",
       "date": "2026-11-07",
@@ -2193,13 +2143,13 @@
     },
     {
       "id": "LvZ18Q34E1_wFqZZvlNAr",
-      "name": "A night with Sinatra in Berlin",
+      "name": "Sinatra Night Berlin",
       "date": "2026-11-14",
       "time": "19:30:00",
       "venue": null,
       "latitude": "52.50482",
       "longitude": "13.33901",
-      "url": "https://www.universe.com/events/a-night-with-sinatra-in-berlin-tickets-F5DCYB?ref=ticketmaster"
+      "url": "https://www.universe.com/events/sinatra-night-berlin-tickets-F5DCYB?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16vApuvGp",
@@ -3053,13 +3003,13 @@
     },
     {
       "id": "LvZ18Q34E1_wFqZZvlNAO",
-      "name": "A night with Sinatra in Berlin",
+      "name": "Sinatra Night Berlin",
       "date": "2026-11-28",
       "time": "19:30:00",
       "venue": null,
       "latitude": "52.50482",
       "longitude": "13.33901",
-      "url": "https://www.universe.com/events/a-night-with-sinatra-in-berlin-tickets-F5DCYB?ref=ticketmaster"
+      "url": "https://www.universe.com/events/sinatra-night-berlin-tickets-F5DCYB?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16evbxpP-",
@@ -3563,13 +3513,13 @@
     },
     {
       "id": "LvZ18Q34E1_wFqZZvlNA-",
-      "name": "A night with Sinatra in Berlin",
+      "name": "Sinatra Night Berlin",
       "date": "2026-12-05",
       "time": "19:30:00",
       "venue": null,
       "latitude": "52.50482",
       "longitude": "13.33901",
-      "url": "https://www.universe.com/events/a-night-with-sinatra-in-berlin-tickets-F5DCYB?ref=ticketmaster"
+      "url": "https://www.universe.com/events/sinatra-night-berlin-tickets-F5DCYB?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1kb_OKp7",
@@ -3953,13 +3903,13 @@
     },
     {
       "id": "LvZ18Q34E1_wFqZZvlNAx",
-      "name": "A night with Sinatra in Berlin",
+      "name": "Sinatra Night Berlin",
       "date": "2026-12-12",
       "time": "19:30:00",
       "venue": null,
       "latitude": "52.50482",
       "longitude": "13.33901",
-      "url": "https://www.universe.com/events/a-night-with-sinatra-in-berlin-tickets-F5DCYB?ref=ticketmaster"
+      "url": "https://www.universe.com/events/sinatra-night-berlin-tickets-F5DCYB?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16v89uSa3",
@@ -4193,13 +4143,13 @@
     },
     {
       "id": "LvZ18Q34E1_wFqZZvlNAN",
-      "name": "A night with Sinatra in Berlin",
+      "name": "Sinatra Night Berlin",
       "date": "2026-12-19",
       "time": "19:30:00",
       "venue": null,
       "latitude": "52.50482",
       "longitude": "13.33901",
-      "url": "https://www.universe.com/events/a-night-with-sinatra-in-berlin-tickets-F5DCYB?ref=ticketmaster"
+      "url": "https://www.universe.com/events/sinatra-night-berlin-tickets-F5DCYB?ref=ticketmaster"
     },
     {
       "id": "LvZ18QnG_AjbkmWz3Esia",
@@ -4472,6 +4422,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/290543805?language=en-us"
     },
     {
+      "id": "LvZ18QJIfu6UYLqD6qagM",
+      "name": "Sinatra Night Berlin",
+      "date": "2026-12-26",
+      "time": "19:30:00",
+      "venue": null,
+      "latitude": "52.50482",
+      "longitude": "13.33901",
+      "url": "https://www.universe.com/events/sinatra-night-berlin-tickets-F5DCYB?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z1k_8-AQe",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2026-12-26",
@@ -4690,6 +4650,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1908973558?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k-E0trb",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-01-05",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/867929798?language=en-us"
     },
     {
       "id": "Z698xZC2Z1k-t_fbM",
@@ -4992,6 +4962,16 @@
       "url": "https://www.ticketmaster.de/event/dan--phil-hard-launch-world-tour-tickets/1071451353?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vjkqNOb",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-01-19",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1706763818?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vGgAoqO",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-01-20",
@@ -5152,6 +5132,16 @@
       "url": "https://www.ticketmaster.de/event/atze-schroder-lovemachine-tickets/1277604613?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vjwZtq_",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-01-26",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1732029759?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vCeZee9",
       "name": "aespa LIVE TOUR – SYNK : COMPLæXITY – in BERLIN | Premium Packages",
       "date": "2027-01-26",
@@ -5180,6 +5170,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/aespa-live-tour--synk--complaexity--in-berlin-tickets/679674442?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v8y-987",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-01-27",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1439857404?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kQ87UA4",
@@ -5740,6 +5740,16 @@
       "latitude": "52.52601",
       "longitude": "13.39366",
       "url": "https://www.universe.com/events/the-epic-comedy-showcase-english-stand-up-comedy-in-berlin-tickets-8XCKH7?ref=ticketmaster"
+    },
+    {
+      "id": "LvZ18QlfZcEEBtpDVTYT0",
+      "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Berlin",
+      "date": "2027-02-28",
+      "time": "16:00:00",
+      "venue": "Downstairs Comedy Club",
+      "latitude": "52.52509",
+      "longitude": "13.39198",
+      "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-berlin-tickets-6WQS3D?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16v7M4zoA",
@@ -7352,16 +7362,6 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1824865288?language=en-us"
     },
     {
-      "id": "LvZ18Qn8tUaCTSScf9Gr4",
-      "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Dresden",
-      "date": "2027-05-08",
-      "time": "19:00:00",
-      "venue": "Tiffany Club",
-      "latitude": "52.51635",
-      "longitude": "13.38987",
-      "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-dresden-tickets-38ZX7V?ref=ticketmaster"
-    },
-    {
       "id": "Z698xZC2Z16vOguba3",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-05-08",
@@ -7602,16 +7602,6 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/702581299?language=en-us"
     },
     {
-      "id": "LvZ18Qn8yYfaFKtLTSYez",
-      "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Bonn",
-      "date": "2027-05-19",
-      "time": "20:00:00",
-      "venue": "Tiffany Club",
-      "latitude": "52.51635",
-      "longitude": "13.38987",
-      "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-bonn-tickets-52QCDZ?ref=ticketmaster"
-    },
-    {
       "id": "Z698xZC2Z16eeffxPV",
       "name": "Loreen: The Wildfire Tour",
       "date": "2027-05-19",
@@ -7640,16 +7630,6 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2021247302?language=en-us"
-    },
-    {
-      "id": "LvZ18Qn8BsJDFAH5hYjL6",
-      "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Erfurt",
-      "date": "2027-05-20",
-      "time": "20:00:00",
-      "venue": "Tiffany Club",
-      "latitude": "52.51635",
-      "longitude": "13.38987",
-      "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-erfurt-tickets-5DPJ38?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1k0b0sQZ",
