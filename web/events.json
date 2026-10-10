@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T12:37:15.343740+00:00",
+  "updatedAt": "2026-10-10T21:47:58.440438+00:00",
   "events": [
     {
       "id": "LvZ18QKeCSn39FZvZICza",
@@ -12,16 +12,6 @@
       "url": "https://www.universe.com/events/oksoberfest-2026-tickets-BRJW5S?ref=ticketmaster"
     },
     {
-      "id": "Z698xZC2Z16evp-t47",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-10",
-      "time": "16:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2056869544?language=en-us"
-    },
-    {
       "id": "LvZ18QNPQf_quTZvGsJRQ",
       "name": "Angel De Vil's Freak Show",
       "date": "2026-10-10",
@@ -30,56 +20,6 @@
       "latitude": "52.47697",
       "longitude": "13.43919",
       "url": "https://www.universe.com/events/angel-de-vils-freak-show-tickets-T5DBK2?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16v_4fxFP",
-      "name": "Ed O’Brien - An Evening With… Blue Morpho Tour",
-      "date": "2026-10-10",
-      "time": "19:00:00",
-      "venue": null,
-      "latitude": "52.52076",
-      "longitude": "13.38837",
-      "url": "https://www.ticketmaster.de/event/ed-obrien-an-evening-with-blue-morpho-tour-tickets/1655522225?language=en-us"
-    },
-    {
-      "id": "LvZ18QOW2CcWgXZZvW-u5",
-      "name": "RATTLESKIN",
-      "date": "2026-10-10",
-      "time": "20:00:00",
-      "venue": "Cank",
-      "latitude": "52.48038",
-      "longitude": "13.43674",
-      "url": "https://www.universe.com/events/rattleskin-tickets-2NP96Y?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16v0wasv6",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-10",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1932271047?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vQfu40p",
-      "name": "Bayou",
-      "date": "2026-10-10",
-      "time": "20:00:00",
-      "venue": "Mikropol",
-      "latitude": "52.49948",
-      "longitude": "13.35416",
-      "url": "https://www.ticketmaster.de/event/bayou-tickets/1694355916?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1k8p_Irp",
-      "name": "STVW - Punk Rave Europe Tour 2026",
-      "date": "2026-10-10",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.46438",
-      "longitude": "13.43338",
-      "url": "https://www.ticketmaster.de/event/stvw-punk-rave-europe-tour-2026-tickets/416668796?language=en-us"
     },
     {
       "id": "LvZ18Q0TqgTmG0DvgQ9ou",
