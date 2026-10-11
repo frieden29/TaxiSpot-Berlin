@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-10-11T12:55:59.369892+00:00",
+  "updatedAt": "2026-10-11T22:01:21.279703+00:00",
   "events": [
-    {
-      "id": "LvZ18QKeCSn39FZvZICza",
-      "name": "OkSoberfest 2026",
-      "date": "2026-10-10",
-      "time": "12:00:00",
-      "venue": null,
-      "latitude": "52.54033",
-      "longitude": "13.41413",
-      "url": "https://www.universe.com/events/oksoberfest-2026-tickets-BRJW5S?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z1kuZJbGI",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-11",
-      "time": "17:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/340998328?language=en-us"
-    },
     {
       "id": "LvZ18QLFQhseijZZvsRmR",
       "name": "WIR ARBEITEN DRAN - Stand-up Comedy Berlin",
@@ -4052,16 +4032,6 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/605531667?language=en-us"
     },
     {
-      "id": "LvZ18QnGQIaYsQdBJ-h87",
-      "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Ravensburg",
-      "date": "2026-12-20",
-      "time": "19:30:00",
-      "venue": "Tiffany Club",
-      "latitude": "52.51635",
-      "longitude": "13.38987",
-      "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-ravensburg-tickets-36Q8R5?ref=ticketmaster"
-    },
-    {
       "id": "Z698xZC2Z16vx7vMJ9",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2026-12-21",
@@ -4870,16 +4840,6 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/51583684?language=en-us"
-    },
-    {
-      "id": "LvZ18QnGjdWZzp10W-QT0",
-      "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Würzburg",
-      "date": "2027-01-23",
-      "time": "19:00:00",
-      "venue": "Tiffany Club",
-      "latitude": "52.51635",
-      "longitude": "13.38987",
-      "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-wurzburg-tickets-P7QZ2J?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16voS7Ojf",
@@ -7792,16 +7752,6 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1242703690?language=en-us"
     },
     {
-      "id": "LvZ18Qn8H0QF7_ux_digd",
-      "name": "Michael Jäger: Unfallkind – Live Stand-up Comedy | Lübeck",
-      "date": "2027-06-10",
-      "time": "20:00:00",
-      "venue": "Tiffany Club",
-      "latitude": "52.51635",
-      "longitude": "13.38987",
-      "url": "https://www.universe.com/events/michael-jager-unfallkind-live-stand-up-comedy-lubeck-tickets-FKHWM9?ref=ticketmaster"
-    },
-    {
       "id": "Z698xZC2Z16v_7kAJ_",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-06-11",
@@ -9000,6 +8950,26 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/andrea-berg-%7C-box-seat-in-the-ticketmaster-suite-tickets/1694930343?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v-60_8t",
+      "name": "KONTRA K - AUS DER ASCHE TOUR 2027 | Box seat",
+      "date": "2027-11-02",
+      "time": "20:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/kontra-k-aus-der-asche-tour-2027-%7C-box-seat-tickets/1847919429?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k_KFPf4",
+      "name": "KONTRA K - AUS DER ASCHE TOUR 2027 | Box seat",
+      "date": "2027-11-03",
+      "time": "20:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/kontra-k-aus-der-asche-tour-2027-%7C-box-seat-tickets/653225515?language=en-us"
     },
     {
       "id": "Z698xZC2Z16v19Ob-F",
