@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T06:03:42.510683+00:00",
+  "updatedAt": "2026-10-12T15:33:20.241500+00:00",
   "events": [
     {
       "id": "LvZ18QLFQhseijZZvsRmR",
@@ -956,9 +956,9 @@
       "name": "The Bausa",
       "date": "2026-10-28",
       "time": "20:00:00",
-      "venue": "Columbia Theater",
-      "latitude": "52.48461",
-      "longitude": "13.3915",
+      "venue": "Mikropol",
+      "latitude": "52.49948",
+      "longitude": "13.35416",
       "url": "https://www.ticketmaster.de/event/the-bausa-tickets/355674674?language=en-us"
     },
     {
@@ -2510,6 +2510,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/140886959?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v1oZ7Fa",
+      "name": "Neschastny Sluchai",
+      "date": "2026-11-22",
+      "time": "20:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/neschastny-sluchai-tickets/1291004209?language=en-us"
     },
     {
       "id": "LvZ18QLFQhseijZZvsRmg",
@@ -7960,6 +7970,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1335028447?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vGkjZrF",
+      "name": "Paul Kalkbrenner",
+      "date": "2027-06-26",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.46362",
+      "longitude": "13.53411",
+      "url": "https://www.ticketmaster.de/event/paul-kalkbrenner-tickets/1306700788?language=en-us"
     },
     {
       "id": "Z698xZC2Z16ee_G3o-",
