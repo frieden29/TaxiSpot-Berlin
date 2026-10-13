@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T00:45:14.135320+00:00",
+  "updatedAt": "2026-10-13T14:16:55.651198+00:00",
   "events": [
     {
       "id": "LvZ18QxiaY5gHC8ZvDxHa",
@@ -75,7 +75,7 @@
       "id": "Z698xZC2Z16vAS4AZE",
       "name": "The Strokes - Reality Awaits",
       "date": "2026-10-15",
-      "time": "19:30:00",
+      "time": "19:00:00",
       "venue": "Uber Arena",
       "latitude": "52.50573",
       "longitude": "13.44314",
@@ -85,7 +85,7 @@
       "id": "Z698xZC2Z1kb6_bp7",
       "name": "The Strokes - Reality Awaits | Logen-Seat",
       "date": "2026-10-15",
-      "time": "19:30:00",
+      "time": "19:00:00",
       "venue": "Uber Arena",
       "latitude": "52.50573",
       "longitude": "13.44314",
@@ -95,7 +95,7 @@
       "id": "Z698xZC2Z1kug0eb0",
       "name": "The Strokes - Reality Awaits | Premium Packages",
       "date": "2026-10-15",
-      "time": "19:30:00",
+      "time": "19:00:00",
       "venue": "Uber Arena",
       "latitude": "52.50573",
       "longitude": "13.44314",
@@ -5662,6 +5662,16 @@
       "url": "https://www.ticketmaster.de/event/palace-europe--uk-2027-tickets/847566657?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1k4EZOfy",
+      "name": "LA Priest",
+      "date": "2027-03-10",
+      "time": "20:00:00",
+      "venue": "Kantine am Berghain",
+      "latitude": "52.51098",
+      "longitude": "13.44159",
+      "url": "https://www.ticketmaster.de/event/la-priest-tickets/567020539?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16v8g0v0d",
       "name": "Teddy Swims - The UGLY Tour",
       "date": "2027-03-11",
@@ -9010,6 +9020,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/kool-savas-%7C-box-seat-in-the-ticketmaster-suite-tickets/629436958?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1keFa806",
+      "name": "Jan Preuß – (V)ERZIEHER – Jetzt wird aufgeräumt!",
+      "date": "2028-09-23",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.52076",
+      "longitude": "13.38837",
+      "url": "https://www.ticketmaster.de/event/jan-preuss--v-erzieher--jetzt-wird-aufgeraumt-tickets/88250907?language=en-us"
     }
   ]
 }
