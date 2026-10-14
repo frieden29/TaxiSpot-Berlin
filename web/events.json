@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T11:58:34.265180+00:00",
+  "updatedAt": "2026-10-14T17:15:27.957748+00:00",
   "events": [
     {
       "id": "LvZ18QxkY2DCiXZZvGjxq",
@@ -5270,6 +5270,16 @@
       "latitude": "52.51092",
       "longitude": "13.46134",
       "url": "https://www.universe.com/events/saying-the-wrong-thing-english-stand-up-comedy-in-berlin-tickets-Z3TKFP?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16vj3C7ow",
+      "name": "Sylvan Esso",
+      "date": "2027-02-03",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.50814",
+      "longitude": "13.45181",
+      "url": "https://www.ticketmaster.de/event/sylvan-esso-tickets/1712384472?language=en-us"
     },
     {
       "id": "Z698xZC2Z1k0x7dFF",
