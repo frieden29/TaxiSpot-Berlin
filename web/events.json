@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-15T11:34:59.113888+00:00",
+  "updatedAt": "2026-10-15T17:05:03.056220+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z16vQ3rZZ_",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-15",
-      "time": "18:30:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1692780019?language=en-us"
-    },
     {
       "id": "LvZ18QOU2SzZwiYvGotU6",
       "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
@@ -20,36 +10,6 @@
       "latitude": "52.53041",
       "longitude": "13.4102",
       "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-1QW7C0?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16vAS4AZE",
-      "name": "The Strokes - Reality Awaits",
-      "date": "2026-10-15",
-      "time": "19:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/the-strokes-reality-awaits-tickets/1173545027?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kb6_bp7",
-      "name": "The Strokes - Reality Awaits | Logen-Seat",
-      "date": "2026-10-15",
-      "time": "19:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/the-strokes-reality-awaits-%7C-logen-seat-tickets/607658584?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kug0eb0",
-      "name": "The Strokes - Reality Awaits | Premium Packages",
-      "date": "2026-10-15",
-      "time": "19:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/the-strokes-reality-awaits-%7C-premium-packages-tickets/375902624?language=en-us"
     },
     {
       "id": "LvZ18QOW2Cl3MsZZvZ8ro",
