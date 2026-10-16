@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T16:42:49.335978+00:00",
+  "updatedAt": "2026-10-16T21:14:21.229633+00:00",
   "events": [
     {
       "id": "LvZ18QOG970dKYZv1xvza",
@@ -10,66 +10,6 @@
       "latitude": "52.53041",
       "longitude": "13.4102",
       "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-N1VHLX?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z1kOgv6x7",
-      "name": "Simple Plan - Bigger Than You Think! Europe Tour 2026",
-      "date": "2026-10-16",
-      "time": "19:00:00",
-      "venue": null,
-      "latitude": "52.53117",
-      "longitude": "13.45067",
-      "url": "https://www.ticketmaster.de/event/simple-plan-bigger-than-you-think-europe-tour-2026-tickets/835047884?language=en-us"
-    },
-    {
-      "id": "LvZ18QOW2CJn8vYZvQzHv",
-      "name": "RATTLESKIN",
-      "date": "2026-10-16",
-      "time": "20:00:00",
-      "venue": "Cank",
-      "latitude": "52.48038",
-      "longitude": "13.43674",
-      "url": "https://www.universe.com/events/rattleskin-tickets-2NP96Y?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16v37eAfo",
-      "name": "EST Gee - BIGGER THAN THE DEVIL TOUR",
-      "date": "2026-10-16",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.51177",
-      "longitude": "13.42638",
-      "url": "https://www.ticketmaster.de/event/est-gee-bigger-than-the-devil-tour-tickets/1484085511?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vqkAMa8",
-      "name": "Anastacia - #NTK26 Tour",
-      "date": "2026-10-16",
-      "time": "20:00:00",
-      "venue": "Tempodrom",
-      "latitude": "52.50152",
-      "longitude": "13.38175",
-      "url": "https://www.ticketmaster.de/event/anastacia-ntk26-tour-tickets/1746177250?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vxaZfOo",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-16",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1889014811?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1ku3GAuZ",
-      "name": "James Blake - Trying Times Tour",
-      "date": "2026-10-16",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.50814",
-      "longitude": "13.45181",
-      "url": "https://www.ticketmaster.de/event/james-blake-trying-times-tour-tickets/352305340?language=en-us"
     },
     {
       "id": "LvZ18QxkmlR0HqZZvegei",
