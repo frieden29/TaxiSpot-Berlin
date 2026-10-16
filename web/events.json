@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T04:36:34.070407+00:00",
+  "updatedAt": "2026-10-16T11:29:30.149228+00:00",
   "events": [
     {
       "id": "Z698xZC2Z1k4kxd0s",
@@ -6270,6 +6270,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1591715697?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1koJAAOO",
+      "name": "Brooke Combe - Too Late For Tears Tour",
+      "date": "2027-03-30",
+      "time": "20:00:00",
+      "venue": "Mikropol",
+      "latitude": "52.49948",
+      "longitude": "13.35416",
+      "url": "https://www.ticketmaster.de/event/brooke-combe-too-late-for-tears-tour-tickets/466145820?language=en-us"
     },
     {
       "id": "Z698xZC2Z16v_JOxko",
