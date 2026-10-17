@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T15:39:13.179712+00:00",
+  "updatedAt": "2026-10-17T20:39:19.388217+00:00",
   "events": [
     {
       "id": "LvZ18QQhuOEcBAOZirnv4",
@@ -32,36 +32,6 @@
       "url": "https://www.universe.com/events/sinatra-night-berlin-tickets-F5DCYB?ref=ticketmaster"
     },
     {
-      "id": "LvZ18QOW2CcWgXZZvW-uC",
-      "name": "RATTLESKIN",
-      "date": "2026-10-17",
-      "time": "19:30:00",
-      "venue": "Cank",
-      "latitude": "52.48038",
-      "longitude": "13.43674",
-      "url": "https://www.universe.com/events/rattleskin-tickets-2NP96Y?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16v7pFpxA",
-      "name": "Verka Serduchka & Band",
-      "date": "2026-10-17",
-      "time": "19:30:00",
-      "venue": "Uber Eats Music Hall",
-      "latitude": "52.50512",
-      "longitude": "13.44341",
-      "url": "https://www.ticketmaster.de/event/verka-serduchka--band-tickets/1116216885?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16eZvrov-",
-      "name": "David Duchovny - European Tour",
-      "date": "2026-10-17",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.49955",
-      "longitude": "13.35052",
-      "url": "https://www.ticketmaster.de/event/david-duchovny-european-tour-tickets/2001791061?language=en-us"
-    },
-    {
       "id": "Z698xZC2Z16vv6-4Jk",
       "name": "Chris Norman & Band | Box seat in the Ticketmaster Suite",
       "date": "2026-10-17",
@@ -70,36 +40,6 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/chris-norman--band-%7C-box-seat-in-the-ticketmaster-suite-tickets/1047855986?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kA9o3vZ",
-      "name": "ZirkusLea Live",
-      "date": "2026-10-17",
-      "time": "20:00:00",
-      "venue": "PUNCH L!NE Club Berlin",
-      "latitude": "52.50738",
-      "longitude": "13.37218",
-      "url": "https://www.ticketmaster.de/event/zirkuslea-live-tickets/157452040?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1koVfOfF",
-      "name": "EVE - Scorpion Tour",
-      "date": "2026-10-17",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.48684",
-      "longitude": "13.42145",
-      "url": "https://www.ticketmaster.de/event/eve-scorpion-tour-tickets/474520508?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kxfGN47",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-17",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/894323544?language=en-us"
     },
     {
       "id": "LvZ18Q0TqgTmG0DvgQ9oC",
