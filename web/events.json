@@ -1,56 +1,6 @@
 {
-  "updatedAt": "2026-10-17T20:39:19.388217+00:00",
+  "updatedAt": "2026-10-18T04:38:56.829864+00:00",
   "events": [
-    {
-      "id": "LvZ18QQhuOEcBAOZirnv4",
-      "name": "Udo-Lindenberg-Fantour Berlin",
-      "date": "2026-10-17",
-      "time": "10:00:00",
-      "venue": null,
-      "latitude": "52.52088",
-      "longitude": "13.38705",
-      "url": "https://www.universe.com/events/udo-lindenberg-fantour-berlin-tickets-LH2ZDC?ref=ticketmaster"
-    },
-    {
-      "id": "LvZ18QOG9xTVWmOv1meRC",
-      "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
-      "date": "2026-10-17",
-      "time": "19:00:00",
-      "venue": "Cosmic Comedy Club",
-      "latitude": "52.53041",
-      "longitude": "13.4102",
-      "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-KBDTLF?ref=ticketmaster"
-    },
-    {
-      "id": "LvZ18Q34E1_wFqZZvlNAQ",
-      "name": "Sinatra Night Berlin",
-      "date": "2026-10-17",
-      "time": "19:30:00",
-      "venue": null,
-      "latitude": "52.50482",
-      "longitude": "13.33901",
-      "url": "https://www.universe.com/events/sinatra-night-berlin-tickets-F5DCYB?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16vv6-4Jk",
-      "name": "Chris Norman & Band | Box seat in the Ticketmaster Suite",
-      "date": "2026-10-17",
-      "time": "20:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/chris-norman--band-%7C-box-seat-in-the-ticketmaster-suite-tickets/1047855986?language=en-us"
-    },
-    {
-      "id": "LvZ18Q0TqgTmG0DvgQ9oC",
-      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
-      "date": "2026-10-17",
-      "time": "20:30:00",
-      "venue": "Märchenhütte",
-      "latitude": "52.52291",
-      "longitude": "13.39468",
-      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
-    },
     {
       "id": "Z698xZC2Z1k8_qd_I",
       "name": "Cirque du Soleil ALIZÉ",
