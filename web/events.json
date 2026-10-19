@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T04:46:22.182707+00:00",
+  "updatedAt": "2026-10-19T13:24:25.219764+00:00",
   "events": [
     {
       "id": "LvZ18QLFQhseijZZvsRmY",
@@ -460,16 +460,6 @@
       "latitude": "52.50512",
       "longitude": "13.44341",
       "url": "https://www.ticketmaster.de/event/tyla-the-apop-world-tour-%7C-gallery-seat-tickets/355207751?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kuJGSCb",
-      "name": "Slayyyter - WOR$T GIRL IN THE WORLD TOUR",
-      "date": "2026-10-27",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.49955",
-      "longitude": "13.35052",
-      "url": "https://www.ticketmaster.de/event/slayyyter-wort-girl-in-the-world-tour-tickets/366333398?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vpF44aK",
@@ -5012,6 +5002,16 @@
       "url": "https://www.ticketmaster.de/event/cristina-mariani-live-tickets/1988259589?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vQoa9uA",
+      "name": "BINA. - Soft Rage Society",
+      "date": "2027-02-15",
+      "time": "20:00:00",
+      "venue": "Kantine am Berghain",
+      "latitude": "52.51098",
+      "longitude": "13.44159",
+      "url": "https://www.ticketmaster.de/event/bina-soft-rage-society-tickets/1691257345?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1A-r3FV",
       "name": "DAGNY - Europe 2027",
       "date": "2027-02-15",
@@ -5262,6 +5262,16 @@
       "url": "https://www.universe.com/events/herz-uber-kopf-tourdates-2027-tickets-YF7X6L?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z1A4G8G4",
+      "name": "Hot Chip - A Long Way From Kansas",
+      "date": "2027-02-26",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.50814",
+      "longitude": "13.45181",
+      "url": "https://www.ticketmaster.de/event/hot-chip-a-long-way-from-kansas-tickets/15310315?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kf9ZvoY",
       "name": "Boondawg - 10 LAP TOUR",
       "date": "2027-02-26",
@@ -5290,16 +5300,6 @@
       "latitude": "52.49948",
       "longitude": "13.35416",
       "url": "https://www.ticketmaster.de/event/soak-decembers-on-tour-tickets/1137578445?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vApfU_K",
-      "name": "BR Volleys Season Card 25/26",
-      "date": "2027-02-28",
-      "time": null,
-      "venue": null,
-      "latitude": "52.54634",
-      "longitude": "13.40574",
-      "url": "https://www.ticketmaster.de/event/br-volleys-season-card-25-26-tickets/1156536653?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vfJoUpA",
@@ -7602,6 +7602,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/564852223?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16v-6e4_I",
+      "name": "STING - 3.0 Tour",
+      "date": "2027-06-13",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.54005",
+      "longitude": "13.21244",
+      "url": "https://www.ticketmaster.de/event/sting-30-tour-tickets/1847095668?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1k0947vN",
       "name": "6K UNITED! - „WIR LASSEN DICH NICHT ALLEIN“ | Box seat",
       "date": "2027-06-13",
@@ -8692,6 +8702,26 @@
       "url": "https://www.ticketmaster.de/event/sascha-grammel-warum-denn-nich-%7C-box-seat-tickets/975475115?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vAPvsoI",
+      "name": "Andreas Gabalier - Arena Tour 2027",
+      "date": "2027-10-16",
+      "time": "20:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/andreas-gabalier-arena-tour-2027-tickets/1165071468?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kaU0Aby",
+      "name": "Andreas Gabalier - Arena Tour 2027 | Box seat",
+      "date": "2027-10-16",
+      "time": "20:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/andreas-gabalier-arena-tour-2027-%7C-box-seat-tickets/276905639?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vPU8wrK",
       "name": "Brit Floyd: ANIMALS 50",
       "date": "2027-10-19",
@@ -8770,6 +8800,16 @@
       "latitude": "52.50512",
       "longitude": "13.44341",
       "url": "https://www.ticketmaster.de/event/william-shakespeares-romeo--juliet-film-in-concert-tickets/1297818848?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k4VbF1K",
+      "name": "PAUL SMITH - HAPPY",
+      "date": "2027-11-06",
+      "time": "20:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/paul-smith-happy-tickets/574608293?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kbM8kuy",
