@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2026-10-18T20:48:25.372137+00:00",
+  "updatedAt": "2026-10-19T04:46:22.182707+00:00",
   "events": [
-    {
-      "id": "LvZ18QOW2Ci5Ep8Zvlg68",
-      "name": "RATTLESKIN",
-      "date": "2026-10-18",
-      "time": "18:30:00",
-      "venue": "Cank",
-      "latitude": "52.48038",
-      "longitude": "13.43674",
-      "url": "https://www.universe.com/events/rattleskin-tickets-2NP96Y?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z1k3_pvo8",
-      "name": "K-Pop Forever! | Box-Seat in the Ticketmaster Suite",
-      "date": "2026-10-18",
-      "time": "19:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/k-pop-forever-%7C-box-seat-in-the-ticketmaster-suite-tickets/499581450?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vfxrora",
-      "name": "Charlie Jeer",
-      "date": "2026-10-18",
-      "time": "20:00:00",
-      "venue": "Kantine am Berghain",
-      "latitude": "52.51098",
-      "longitude": "13.44159",
-      "url": "https://www.ticketmaster.de/event/charlie-jeer-tickets/1522791789?language=en-us"
-    },
     {
       "id": "LvZ18QLFQhseijZZvsRmY",
       "name": "WIR ARBEITEN DRAN - Stand-up Comedy Berlin",
