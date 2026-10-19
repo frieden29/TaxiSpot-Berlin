@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T13:24:25.219764+00:00",
+  "updatedAt": "2026-10-19T22:23:53.684141+00:00",
   "events": [
     {
       "id": "LvZ18QLFQhseijZZvsRmY",
@@ -10,26 +10,6 @@
       "latitude": "52.49017",
       "longitude": "13.42611",
       "url": "https://www.universe.com/events/wir-arbeiten-dran-stand-up-comedy-berlin-tickets-LF359S?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z1ka8fy47",
-      "name": "Young The Giant - Victory Garden Tour",
-      "date": "2026-10-19",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.53818",
-      "longitude": "13.41259",
-      "url": "https://www.ticketmaster.de/event/young-the-giant-victory-garden-tour-tickets/250539544?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kuwA7Q6",
-      "name": "Matt Hansen",
-      "date": "2026-10-19",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.49955",
-      "longitude": "13.35052",
-      "url": "https://www.ticketmaster.de/event/matt-hansen-tickets/372144687?language=en-us"
     },
     {
       "id": "LvZ18QxiaY5gHC8ZvDxH1",
@@ -460,6 +440,16 @@
       "latitude": "52.50512",
       "longitude": "13.44341",
       "url": "https://www.ticketmaster.de/event/tyla-the-apop-world-tour-%7C-gallery-seat-tickets/355207751?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kuJGSCb",
+      "name": "Slayyyter - WOR$T GIRL IN THE WORLD TOUR",
+      "date": "2026-10-27",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.48684",
+      "longitude": "13.42145",
+      "url": "https://www.ticketmaster.de/event/slayyyter-wort-girl-in-the-world-tour-tickets/366333398?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vpF44aK",
@@ -2642,16 +2632,6 @@
       "url": "https://www.ticketmaster.de/event/elmiene-sounds-for-someone-tour-2026-tickets/1983233458?language=en-us"
     },
     {
-      "id": "Z698xZC2Z16vPs1buY",
-      "name": "Ben Folds - Paper Airplane Request Tour 2026",
-      "date": "2026-11-30",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.50766",
-      "longitude": "13.27673",
-      "url": "https://www.ticketmaster.de/event/ben-folds-paper-airplane-request-tour-2026-tickets/1971298370?language=en-us"
-    },
-    {
       "id": "Z698xZC2Z1kq0A9u4",
       "name": "YAEGER - Seasick Tour 2026",
       "date": "2026-11-30",
@@ -4752,6 +4732,16 @@
       "url": "https://www.ticketmaster.de/event/tim-peters-herzrasen-tour-2027-tickets/89272837?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1k7Ovzv0",
+      "name": "She Wants Revenge - Europe 2027",
+      "date": "2027-02-01",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.53818",
+      "longitude": "13.41259",
+      "url": "https://www.ticketmaster.de/event/she-wants-revenge-europe-2027-tickets/120078064?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16v0_oPqJ",
       "name": "Riverdance | Box-Seat in the Ticketmaster Suite",
       "date": "2027-02-02",
@@ -5130,6 +5120,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/90s-super-show-%7C-box-seat-in-the-ticketmaster-suite-tickets/210563857?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v0_uK-a",
+      "name": "Comedy Tragedy Parody - Dominic Fike in Europe",
+      "date": "2027-02-20",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.48461",
+      "longitude": "13.3914",
+      "url": "https://www.ticketmaster.de/event/comedy-tragedy-parody-dominic-fike-in-europe-tickets/1919353849?language=en-us"
     },
     {
       "id": "Z698xZC2Z16v8b7J0g",
@@ -8510,6 +8510,16 @@
       "latitude": "52.52076",
       "longitude": "13.38837",
       "url": "https://www.ticketmaster.de/event/mamma-mia-das-original-musical-tickets/2076323898?language=en-us"
+    },
+    {
+      "id": "LvZ18Qc63ZG-sXjR9TeXm",
+      "name": "Nadja Benaissa - orangeblau Tour",
+      "date": "2027-09-18",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.50032",
+      "longitude": "13.43648",
+      "url": "https://www.universe.com/events/nadja-benaissa-orangeblau-tour-tickets-9237N0?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16vAtP-8J",
