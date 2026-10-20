@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T11:43:56.139160+00:00",
+  "updatedAt": "2026-10-20T17:13:04.700285+00:00",
   "events": [
     {
       "id": "LvZ18QxiaY5gHC8ZvDxH1",
@@ -5062,6 +5062,16 @@
       "url": "https://www.ticketmaster.de/event/amble-europe-2027-tickets/106175632?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1kC8xK8N",
+      "name": "Yendry - Como agua Tour",
+      "date": "2027-02-18",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.53818",
+      "longitude": "13.41259",
+      "url": "https://www.ticketmaster.de/event/yendry-como-agua-tour-tickets/390893423?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16v8zutJf",
       "name": "Eisbären Berlin - Fischtown Pinguins | Box-Seat",
       "date": "2027-02-19",
@@ -6530,6 +6540,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/simple-minds-european-tour-live-2027-tickets/603594843?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kjb7P3_",
+      "name": "Simple Minds - European Tour - Live 2027 | Premium Packages",
+      "date": "2027-04-21",
+      "time": "19:45:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/simple-minds-european-tour-live-2027-%7C-premium-packages-tickets/718125499?language=en-us"
     },
     {
       "id": "LvZ18QPITyaos7lrlaLXj",
