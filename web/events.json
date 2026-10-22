@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-22T11:58:21.508342+00:00",
+  "updatedAt": "2026-10-22T17:14:06.729101+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z1Abev3F",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-22",
-      "time": "18:30:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/18081488?language=en-us"
-    },
     {
       "id": "LvZ18QOU8_XZ9XYvGy6lT",
       "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
@@ -62,16 +52,6 @@
       "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-LDXY13?ref=ticketmaster"
     },
     {
-      "id": "Z698xZC2Z1kj___qF",
-      "name": "Yung Pepp - Die große kleine Tour 2026",
-      "date": "2026-10-23",
-      "time": "19:00:00",
-      "venue": "Modus",
-      "latitude": "52.50254",
-      "longitude": "13.40802",
-      "url": "https://www.ticketmaster.de/event/yung-pepp-die-grosse-kleine-tour-2026-tickets/719659748?language=en-us"
-    },
-    {
       "id": "Z698xZC2Z16vvIvwJ3",
       "name": "Eisbären Berlin - Augsburger Panther | Box-Seat",
       "date": "2026-10-23",
@@ -80,6 +60,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/eisbaren-berlin-augsburger-panther-%7C-box-seat-tickets/1068072992?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kj___qF",
+      "name": "Yung Pepp - Die große kleine Tour 2026",
+      "date": "2026-10-23",
+      "time": "19:30:00",
+      "venue": "Modus",
+      "latitude": "52.50254",
+      "longitude": "13.40802",
+      "url": "https://www.ticketmaster.de/event/yung-pepp-die-grosse-kleine-tour-2026-tickets/719659748?language=en-us"
     },
     {
       "id": "Z698xZC2Z16v1vfbFU",
@@ -6432,6 +6422,16 @@
       "url": "https://www.ticketmaster.de/event/thirty-seconds-to-mars-presents-a-beautiful-lie-vs-this-is-war-%7C-vip-tickets/270230763?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16v48_KGz",
+      "name": "ASHE - GIRL OF YOUR DREAMS TOUR",
+      "date": "2027-04-19",
+      "time": "20:00:00",
+      "venue": "Tempodrom",
+      "latitude": "52.50152",
+      "longitude": "13.38175",
+      "url": "https://www.ticketmaster.de/event/ashe-girl-of-your-dreams-tour-tickets/1550653338?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vq0qvr4",
       "name": "Thomas Bergersen Live - Europe Tour 2027 | Logen-Seat",
       "date": "2027-04-19",
@@ -6930,6 +6930,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/unser-blauer-planet-iii-live-in-concert-%7C-box-seat-tickets/1635176961?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v4I7M8d",
+      "name": "Charlotte Cardin - Midnight, mon amour Tour",
+      "date": "2027-05-10",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.49955",
+      "longitude": "13.35052",
+      "url": "https://www.ticketmaster.de/event/charlotte-cardin-midnight-mon-amour-tour-tickets/1568137403?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vqb1dbO",
