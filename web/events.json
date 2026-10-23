@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T04:56:37.024341+00:00",
+  "updatedAt": "2026-10-23T11:44:08.738175+00:00",
   "events": [
     {
       "id": "Z698xZC2Z16v_O0Fek",
@@ -20,6 +20,16 @@
       "latitude": "52.53041",
       "longitude": "13.4102",
       "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-LDXY13?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16vP0GKGw",
+      "name": "SKELER - ‚Nightfall' World Tour",
+      "date": "2026-10-23",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.4959",
+      "longitude": "13.38858",
+      "url": "https://www.ticketmaster.de/event/skeler-nightfall-world-tour-tickets/1964313332?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vvIvwJ3",
@@ -50,16 +60,6 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1281518236?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vP0GKGw",
-      "name": "SKELER - ‚Nightfall' World Tour",
-      "date": "2026-10-23",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.4959",
-      "longitude": "13.38858",
-      "url": "https://www.ticketmaster.de/event/skeler-nightfall-world-tour-tickets/1964313332?language=en-us"
     },
     {
       "id": "Z698xZC2Z1k16fO-4",
@@ -6640,6 +6640,16 @@
       "latitude": "52.51092",
       "longitude": "13.46134",
       "url": "https://www.universe.com/events/saying-the-wrong-thing-english-stand-up-comedy-in-berlin-tickets-Z3TKFP?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16vfYvKkv",
+      "name": "Alfie Jukes",
+      "date": "2027-04-28",
+      "time": "20:00:00",
+      "venue": "Mikropol",
+      "latitude": "52.49948",
+      "longitude": "13.35416",
+      "url": "https://www.ticketmaster.de/event/alfie-jukes-tickets/1530053181?language=en-us"
     },
     {
       "id": "Z698xZC2Z1k0gZpfk",
