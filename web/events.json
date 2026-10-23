@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T17:12:13.090540+00:00",
+  "updatedAt": "2026-10-23T21:27:21.067561+00:00",
   "events": [
     {
       "id": "LvZ18QOG9WCuObYv1Uvf5",
@@ -12,16 +12,6 @@
       "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-LDXY13?ref=ticketmaster"
     },
     {
-      "id": "Z698xZC2Z16vP0GKGw",
-      "name": "SKELER - ‚Nightfall' World Tour",
-      "date": "2026-10-23",
-      "time": "19:00:00",
-      "venue": null,
-      "latitude": "52.4959",
-      "longitude": "13.38858",
-      "url": "https://www.ticketmaster.de/event/skeler-nightfall-world-tour-tickets/1964313332?language=en-us"
-    },
-    {
       "id": "Z698xZC2Z16vvIvwJ3",
       "name": "Eisbären Berlin - Augsburger Panther | Box-Seat",
       "date": "2026-10-23",
@@ -30,56 +20,6 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/eisbaren-berlin-augsburger-panther-%7C-box-seat-tickets/1068072992?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kj___qF",
-      "name": "Yung Pepp - Die große kleine Tour 2026",
-      "date": "2026-10-23",
-      "time": "19:30:00",
-      "venue": "Modus",
-      "latitude": "52.50254",
-      "longitude": "13.40802",
-      "url": "https://www.ticketmaster.de/event/yung-pepp-die-grosse-kleine-tour-2026-tickets/719659748?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16v1vfbFU",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-23",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1281518236?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1k16fO-4",
-      "name": "THIZZY52 - BLOCKKIDS TOUR 2026",
-      "date": "2026-10-23",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.49955",
-      "longitude": "13.35052",
-      "url": "https://www.ticketmaster.de/event/thizzy52-blockkids-tour-2026-tickets/287520855?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1k3d8bok",
-      "name": "Ryan Adams - Solo Europe 2026",
-      "date": "2026-10-23",
-      "time": "20:00:00",
-      "venue": "Uber Eats Music Hall",
-      "latitude": "52.50512",
-      "longitude": "13.44341",
-      "url": "https://www.ticketmaster.de/event/ryan-adams-solo-europe-2026-tickets/483418446?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kJ8e87f",
-      "name": "Berlin, Du coole Sau: Eine Liebeserklärung",
-      "date": "2026-10-23",
-      "time": "20:00:00",
-      "venue": "PUNCH L!NE Club Berlin",
-      "latitude": "52.50738",
-      "longitude": "13.37218",
-      "url": "https://www.ticketmaster.de/event/berlin-du-coole-sau-eine-liebeserklarung-tickets/990090114?language=en-us"
     },
     {
       "id": "LvZ18QxkmlR0HqZZvegec",
