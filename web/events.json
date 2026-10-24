@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T16:00:17.096297+00:00",
+  "updatedAt": "2026-10-24T20:53:30.160278+00:00",
   "events": [
     {
       "id": "LvZ18QOGb_5y0DZZ0KCKj",
@@ -20,66 +20,6 @@
       "latitude": "52.50482",
       "longitude": "13.33901",
       "url": "https://www.universe.com/events/sinatra-night-berlin-tickets-F5DCYB?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z1k03GtaF",
-      "name": "Ivo Martin - MIT DIR WIRD MIR WARM TOUR 2026",
-      "date": "2026-10-24",
-      "time": "19:30:00",
-      "venue": null,
-      "latitude": "52.48461",
-      "longitude": "13.3914",
-      "url": "https://www.ticketmaster.de/event/ivo-martin-mit-dir-wird-mir-warm-tour-2026-tickets/912329248?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vvtAxuO",
-      "name": "Berlin, Du coole Sau: Eine Liebeserklärung",
-      "date": "2026-10-24",
-      "time": "20:00:00",
-      "venue": "PUNCH L!NE Club Berlin",
-      "latitude": "52.50738",
-      "longitude": "13.37218",
-      "url": "https://www.ticketmaster.de/event/berlin-du-coole-sau-eine-liebeserklarung-tickets/1069162360?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kAe8k--",
-      "name": "Nathan Fake",
-      "date": "2026-10-24",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.50763",
-      "longitude": "13.45436",
-      "url": "https://www.ticketmaster.de/event/nathan-fake-tickets/142406861?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kAz-oOd",
-      "name": "CeeLo Green | Gallery Seat",
-      "date": "2026-10-24",
-      "time": "20:00:00",
-      "venue": "Uber Eats Music Hall",
-      "latitude": "52.50512",
-      "longitude": "13.44341",
-      "url": "https://www.ticketmaster.de/event/ceelo-green-%7C-gallery-seat-tickets/178851803?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1koN8AGF",
-      "name": "CeeLo Green",
-      "date": "2026-10-24",
-      "time": "20:00:00",
-      "venue": "Uber Eats Music Hall",
-      "latitude": "52.50512",
-      "longitude": "13.44341",
-      "url": "https://www.ticketmaster.de/event/ceelo-green-tickets/463405308?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kqYO7_k",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-24",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/770804646?language=en-us"
     },
     {
       "id": "LvZ18Q0TqgTmG0DvgQ9o2",
