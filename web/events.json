@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-10-25T11:37:35.479631+00:00",
+  "updatedAt": "2026-10-25T16:27:33.755911+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z1kkp067I",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-25",
-      "time": "13:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/196907128?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1koE0PAU",
-      "name": "Berlin, Du coole Sau: Eine Liebeserklärung",
-      "date": "2026-10-25",
-      "time": "16:00:00",
-      "venue": "PUNCH L!NE Club Berlin",
-      "latitude": "52.50738",
-      "longitude": "13.37218",
-      "url": "https://www.ticketmaster.de/event/berlin-du-coole-sau-eine-liebeserklarung-tickets/467925176?language=en-us"
-    },
     {
       "id": "Z698xZC2Z1koKAt1F",
       "name": "Cirque du Soleil ALIZÉ",
@@ -50,16 +30,6 @@
       "latitude": "52.49017",
       "longitude": "13.42611",
       "url": "https://www.universe.com/events/wir-arbeiten-dran-stand-up-comedy-berlin-tickets-LF359S?ref=ticketmaster"
-    },
-    {
-      "id": "LvZ18QpQjr3HWv8ZwS3M-",
-      "name": "Honey Slam BERLIN – Poetryslam ohne traurige Texte!",
-      "date": "2026-10-26",
-      "time": "20:00:00",
-      "venue": "Tati Goes Underground",
-      "latitude": "52.53198",
-      "longitude": "13.41407",
-      "url": "https://www.universe.com/events/honey-slam-berlin-poetryslam-ohne-traurige-texte-tickets-V649RQ?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16vFfA9fd",
