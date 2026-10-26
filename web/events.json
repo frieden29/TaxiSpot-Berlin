@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T13:09:49.225699+00:00",
+  "updatedAt": "2026-10-26T22:42:25.126192+00:00",
   "events": [
     {
       "id": "LvZ18QLFQhseijZZvsRms",
@@ -10,16 +10,6 @@
       "latitude": "52.49017",
       "longitude": "13.42611",
       "url": "https://www.universe.com/events/wir-arbeiten-dran-stand-up-comedy-berlin-tickets-LF359S?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16vFfA9fd",
-      "name": "Hyd - Infinity Tour",
-      "date": "2026-10-26",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.50032",
-      "longitude": "13.43648",
-      "url": "https://www.ticketmaster.de/event/hyd-infinity-tour-tickets/1214157503?language=en-us"
     },
     {
       "id": "LvZ18QxiaY5gHC8ZvDxH5",
@@ -2412,16 +2402,6 @@
       "url": "https://www.ticketmaster.de/event/tarmo-peltokoski--hong-kong-philharmonic-orchestra-tickets/1618615204?language=en-us"
     },
     {
-      "id": "Z698xZC2Z16vv7x3ow",
-      "name": "moé - GESCHICHTEN DIE WIR NIEMANDEM ERZÄHLEN - LIVE 2026",
-      "date": "2026-12-03",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.53839",
-      "longitude": "13.41299",
-      "url": "https://www.ticketmaster.de/event/moe-geschichten-die-wir-niemandem-erzahlen-live-2026-tickets/1044892472?language=en-us"
-    },
-    {
       "id": "Z698xZC2Z1k43FNqP",
       "name": "Novulent - Live in Europe 2026",
       "date": "2026-12-03",
@@ -2582,6 +2562,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1650534215?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vZ608Aa",
+      "name": "THE AVALANCHES & SOFIA KOURTESIS - NO BAD DJS",
+      "date": "2026-12-05",
+      "time": "17:00:00",
+      "venue": "Haus der Visionäre",
+      "latitude": "52.49606",
+      "longitude": "13.45396",
+      "url": "https://www.ticketmaster.de/event/the-avalanches--sofia-kourtesis-no-bad-djs-tickets/1007910149?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1k0MAx-M",
       "name": "Die Weihnachtsbäckerei",
       "date": "2026-12-05",
@@ -2630,16 +2620,6 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/sdp--the-capital-dance-orchestra-%7C-box-seat-in-the-ticketmaster-suite-tickets/619813584?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vZ608Aa",
-      "name": "THE AVALANCHES & SOFIA KOURTESIS - NO BAD DJS",
-      "date": "2026-12-05",
-      "time": "20:00:00",
-      "venue": "Haus der Visionäre",
-      "latitude": "52.49606",
-      "longitude": "13.45396",
-      "url": "https://www.ticketmaster.de/event/the-avalanches--sofia-kourtesis-no-bad-djs-tickets/1007910149?language=en-us"
     },
     {
       "id": "Z698xZC2Z1k3peoee",
@@ -4512,6 +4492,16 @@
       "url": "https://www.ticketmaster.de/event/sofia-camara-sincerely-yours-tour-tickets/232660456?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1ke4e88_",
+      "name": "Sophia Stel",
+      "date": "2027-02-09",
+      "time": "20:00:00",
+      "venue": "silent green",
+      "latitude": "52.54511",
+      "longitude": "13.36666",
+      "url": "https://www.ticketmaster.de/event/sophia-stel-tickets/95090419?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kfAAEv_",
       "name": "Almost Monday - Thank God It´s Almost Monday Tour UK / Europe 2027",
       "date": "2027-02-09",
@@ -4860,6 +4850,16 @@
       "latitude": "52.49948",
       "longitude": "13.35416",
       "url": "https://www.ticketmaster.de/event/hayden-thorpe-performing-the-songs-of-wild-beasts-tickets/1134798765?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vAf-p0_",
+      "name": "Jacob Banks",
+      "date": "2027-02-23",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.53818",
+      "longitude": "13.41259",
+      "url": "https://www.ticketmaster.de/event/jacob-banks-tickets/1154856919?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kxb_y4Y",
@@ -5430,6 +5430,16 @@
       "latitude": "52.51177",
       "longitude": "13.42638",
       "url": "https://www.ticketmaster.de/event/fimiguerrero-lost-city-tickets/1661662674?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vv7x3ow",
+      "name": "moé - GESCHICHTEN DIE WIR NIEMANDEM ERZÄHLEN - LIVE 2026",
+      "date": "2027-03-18",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.53839",
+      "longitude": "13.41299",
+      "url": "https://www.ticketmaster.de/event/moe-geschichten-die-wir-niemandem-erzahlen-live-2026-tickets/1044892472?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kOpF-Oy",
