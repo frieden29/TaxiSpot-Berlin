@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T04:52:45.815841+00:00",
+  "updatedAt": "2026-10-26T13:09:49.225699+00:00",
   "events": [
     {
       "id": "LvZ18QLFQhseijZZvsRms",
@@ -4942,6 +4942,36 @@
       "url": "https://www.universe.com/events/the-epic-comedy-showcase-english-stand-up-comedy-in-berlin-tickets-8XCKH7?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z1kOF8y1_",
+      "name": "MONSTER JAM",
+      "date": "2027-02-27",
+      "time": "13:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/monster-jam-tickets/808439299?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kGJf81p",
+      "name": "MONSTER JAM",
+      "date": "2027-02-27",
+      "time": "19:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/monster-jam-tickets/326510296?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vvyu_OS",
+      "name": "MONSTER JAM",
+      "date": "2027-02-28",
+      "time": "13:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/monster-jam-tickets/1079359833?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16v7M4zoA",
       "name": "SOAK - Decembers On Tour",
       "date": "2027-02-28",
@@ -5200,6 +5230,16 @@
       "latitude": "52.53117",
       "longitude": "13.45067",
       "url": "https://www.ticketmaster.de/event/disney-on-ice-mickys-magische-momente-tickets/952026869?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vFUO04Z",
+      "name": "Jorge Vercillo - Tour Europa 2027",
+      "date": "2027-03-12",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.4959",
+      "longitude": "13.38858",
+      "url": "https://www.ticketmaster.de/event/jorge-vercillo-tour-europa-2027-tickets/1236824540?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vfAp80A",
