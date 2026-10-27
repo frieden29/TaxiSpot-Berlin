@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T12:18:05.840383+00:00",
+  "updatedAt": "2026-10-27T22:18:20.699868+00:00",
   "events": [
     {
       "id": "LvZ18QxiaY5gHC8ZvDxH5",
@@ -10,46 +10,6 @@
       "latitude": "52.54291",
       "longitude": "13.42071",
       "url": "https://www.universe.com/events/lachkater-die-stand-up-comedy-show-tickets-0DY124?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16vFOGNfA",
-      "name": "TYLA - THE A*POP WORLD TOUR",
-      "date": "2026-10-27",
-      "time": "20:00:00",
-      "venue": "Uber Eats Music Hall",
-      "latitude": "52.50512",
-      "longitude": "13.44341",
-      "url": "https://www.ticketmaster.de/event/tyla-the-apop-world-tour-tickets/1220323505?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vk6qZAF",
-      "name": "Dan Whitlam",
-      "date": "2026-10-27",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.49918",
-      "longitude": "13.44514",
-      "url": "https://www.ticketmaster.de/event/dan-whitlam-tickets/1187740148?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1ku4F6qo",
-      "name": "TYLA - THE A*POP WORLD TOUR | Gallery Seat",
-      "date": "2026-10-27",
-      "time": "20:00:00",
-      "venue": "Uber Eats Music Hall",
-      "latitude": "52.50512",
-      "longitude": "13.44341",
-      "url": "https://www.ticketmaster.de/event/tyla-the-apop-world-tour-%7C-gallery-seat-tickets/355207751?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kuJGSCb",
-      "name": "Slayyyter - WOR$T GIRL IN THE WORLD TOUR",
-      "date": "2026-10-27",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.48684",
-      "longitude": "13.42145",
-      "url": "https://www.ticketmaster.de/event/slayyyter-wort-girl-in-the-world-tour-tickets/366333398?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vpF44aK",
@@ -4352,6 +4312,16 @@
       "url": "https://www.ticketmaster.de/event/riverdance-%7C-box-seat-in-the-ticketmaster-suite-tickets/1919465766?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16v8pO30F",
+      "name": "MorMor - No One Alive Will Listen.",
+      "date": "2027-02-02",
+      "time": "20:00:00",
+      "venue": "LARK",
+      "latitude": "52.51314",
+      "longitude": "13.4228",
+      "url": "https://www.ticketmaster.de/event/mormor-no-one-alive-will-listen-tickets/1416812908?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1k09_M-K",
       "name": "Nachtkinder",
       "date": "2027-02-02",
@@ -5022,6 +4992,16 @@
       "url": "https://www.ticketmaster.de/event/jersey-tickets/1518877885?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1kCZ0eGI",
+      "name": "Berlin, Du coole Sau: Eine Liebeserklärung",
+      "date": "2027-03-04",
+      "time": "20:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/berlin-du-coole-sau-eine-liebeserklarung-tickets/380902328?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kxvqg03",
       "name": "ENHYPEN | Box seat in the Ticketmaster Suite",
       "date": "2027-03-05",
@@ -5030,6 +5010,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/enhypen-%7C-box-seat-in-the-ticketmaster-suite-tickets/881775912?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k-fuZ_9",
+      "name": "Berlin, Du coole Sau: Eine Liebeserklärung",
+      "date": "2027-03-05",
+      "time": "20:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/berlin-du-coole-sau-eine-liebeserklarung-tickets/854340657?language=en-us"
     },
     {
       "id": "Z698xZC2Z1ke6xeA3",
@@ -5082,6 +5072,16 @@
       "url": "https://www.ticketmaster.de/event/enhypen-%7C-box-seat-in-the-ticketmaster-suite-tickets/1568035463?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1kvJbF1b",
+      "name": "Berlin, Du coole Sau: Eine Liebeserklärung",
+      "date": "2027-03-06",
+      "time": "20:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/berlin-du-coole-sau-eine-liebeserklarung-tickets/66608298?language=en-us"
+    },
+    {
       "id": "LvZ18QhJGwTXvK8ZV9uIZ",
       "name": "Ultra Night - Depeche Mode Party Berlin",
       "date": "2027-03-06",
@@ -5090,6 +5090,26 @@
       "latitude": "52.50102",
       "longitude": "13.44136",
       "url": "https://www.universe.com/events/ultra-night-depeche-mode-party-berlin-tickets-BFYW1M?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16v8Fb64p",
+      "name": "C2C: Country to Country / Saturday",
+      "date": "2027-03-06",
+      "time": null,
+      "venue": "Uber Eats Music Hall",
+      "latitude": "52.50512",
+      "longitude": "13.44341",
+      "url": "https://www.ticketmaster.de/event/c2c-country-to-country-saturday-tickets/1408607556?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vP0Z_pA",
+      "name": "Berlin, Du coole Sau: Eine Liebeserklärung",
+      "date": "2027-03-07",
+      "time": "18:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/berlin-du-coole-sau-eine-liebeserklarung-tickets/1964019585?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kQdjVFJ",
@@ -6782,6 +6802,16 @@
       "url": "https://www.ticketmaster.de/event/gracie-abrams-the-look-at-my-life-tour-tickets/1227215596?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vFJaSe3",
+      "name": "Berlin, Du coole Sau: Eine Liebeserklärung",
+      "date": "2027-05-13",
+      "time": "20:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/berlin-du-coole-sau-eine-liebeserklarung-tickets/1226273092?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vFPZwaz",
       "name": "Gracie Abrams: The Look at My Life Tour | Premium Packages",
       "date": "2027-05-13",
@@ -6810,6 +6840,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/abbamania-50-jahre-thank-you-for-the-music%7C-box-seat-tickets/906484331?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kFMGkqY",
+      "name": "Berlin, Du coole Sau: Eine Liebeserklärung",
+      "date": "2027-05-14",
+      "time": "20:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/berlin-du-coole-sau-eine-liebeserklarung-tickets/237306770?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kowaAON",
@@ -6842,6 +6882,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1110418953?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vjvjf_Z",
+      "name": "Berlin, Du coole Sau: Eine Liebeserklärung",
+      "date": "2027-05-15",
+      "time": "20:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/berlin-du-coole-sau-eine-liebeserklarung-tickets/1701714640?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kJbb6qF",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-05-16",
@@ -6850,6 +6900,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/998607748?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vfZ_3Pf",
+      "name": "Berlin, Du coole Sau: Eine Liebeserklärung",
+      "date": "2027-05-16",
+      "time": "18:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/berlin-du-coole-sau-eine-liebeserklarung-tickets/1500652954?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vbd4wvF",
