@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-28T13:01:20.439234+00:00",
+  "updatedAt": "2026-10-28T22:38:17.164138+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z16vpF44aK",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-28",
-      "time": "18:30:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1588555253?language=en-us"
-    },
     {
       "id": "LvZ18QxkY2DCiXZZvGjxL",
       "name": "Saying the Wrong Thing — English Stand-up Comedy in Berlin",
@@ -20,66 +10,6 @@
       "latitude": "52.51092",
       "longitude": "13.46134",
       "url": "https://www.universe.com/events/saying-the-wrong-thing-english-stand-up-comedy-in-berlin-tickets-Z3TKFP?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16v-7qpjo",
-      "name": "The Home Team - The Crucible of Life European Tour 2026",
-      "date": "2026-10-28",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.46438",
-      "longitude": "13.43338",
-      "url": "https://www.ticketmaster.de/event/the-home-team-the-crucible-of-life-european-tour-2026-tickets/1844756711?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vA4_k-4",
-      "name": "Alba Berlin vs. Surne Bilbao | Box seat in the Ticketmaster Suite",
-      "date": "2026-10-28",
-      "time": "20:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/alba-berlin-vs-surne-bilbao-%7C-box-seat-in-the-ticketmaster-suite-tickets/1155646855?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16v_UuVqy",
-      "name": "The Fray - Autumn Light Tour",
-      "date": "2026-10-28",
-      "time": "20:00:00",
-      "venue": "Tempodrom",
-      "latitude": "52.50152",
-      "longitude": "13.38175",
-      "url": "https://www.ticketmaster.de/event/the-fray-autumn-light-tour-tickets/1676374779?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vaK-s8K",
-      "name": "Nemzzz - LOCKED IN",
-      "date": "2026-10-28",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.53818",
-      "longitude": "13.41259",
-      "url": "https://www.ticketmaster.de/event/nemzzz-locked-in-tickets/1253871413?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vrppvC6",
-      "name": "Lip Critic",
-      "date": "2026-10-28",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.50763",
-      "longitude": "13.45436",
-      "url": "https://www.ticketmaster.de/event/lip-critic-tickets/1796581387?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1ku4_V_V",
-      "name": "The Bausa",
-      "date": "2026-10-28",
-      "time": "20:00:00",
-      "venue": "Mikropol",
-      "latitude": "52.49948",
-      "longitude": "13.35416",
-      "url": "https://www.ticketmaster.de/event/the-bausa-tickets/355674674?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vG7vEo8",
@@ -4442,16 +4372,6 @@
       "url": "https://www.ticketmaster.de/event/sofia-camara-sincerely-yours-tour-tickets/232660456?language=en-us"
     },
     {
-      "id": "Z698xZC2Z1ke4e88_",
-      "name": "Sophia Stel",
-      "date": "2027-02-09",
-      "time": "20:00:00",
-      "venue": "silent green",
-      "latitude": "52.54511",
-      "longitude": "13.36666",
-      "url": "https://www.ticketmaster.de/event/sophia-stel-tickets/95090419?language=en-us"
-    },
-    {
       "id": "Z698xZC2Z1kfAAEv_",
       "name": "Almost Monday - Thank God It´s Almost Monday Tour UK / Europe 2027",
       "date": "2027-02-09",
@@ -5080,16 +5000,6 @@
       "latitude": "52.50102",
       "longitude": "13.44136",
       "url": "https://www.universe.com/events/ultra-night-depeche-mode-party-berlin-tickets-BFYW1M?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16v8Fb64p",
-      "name": "C2C: Country to Country / Saturday",
-      "date": "2027-03-06",
-      "time": null,
-      "venue": "Uber Eats Music Hall",
-      "latitude": "52.50512",
-      "longitude": "13.44341",
-      "url": "https://www.ticketmaster.de/event/c2c-country-to-country-saturday-tickets/1408607556?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vP0Z_pA",
@@ -7533,13 +7443,23 @@
     },
     {
       "id": "Z698xZC2Z16v0ZFKGI",
-      "name": "MERO - Live Tour 2027 | Premium Package",
+      "name": "MERO - LEGACY TOUR 2027  | Premium Package",
       "date": "2027-06-20",
       "time": "20:00:00",
       "venue": null,
       "latitude": "52.48684",
       "longitude": "13.42145",
-      "url": "https://www.ticketmaster.de/event/mero-live-tour-2027-%7C-premium-package-tickets/1900213328?language=en-us"
+      "url": "https://www.ticketmaster.de/event/mero-legacy-tour-2027-%7C-premium-package-tickets/1900213328?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kbUk_Zg",
+      "name": "MERO - LEGACY TOUR 2027",
+      "date": "2027-06-20",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.48684",
+      "longitude": "13.42145",
+      "url": "https://www.ticketmaster.de/event/mero-legacy-tour-2027-tickets/636199035?language=en-us"
     },
     {
       "id": "Z698xZC2Z1k7tfkjd",
