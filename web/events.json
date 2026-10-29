@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-29T13:08:26.556319+00:00",
+  "updatedAt": "2026-10-29T22:48:06.519200+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z16vG7vEo8",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-29",
-      "time": "18:30:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1304067450?language=en-us"
-    },
     {
       "id": "LvZ18QOU8HIiSvOvG1Mf8",
       "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
@@ -22,16 +12,6 @@
       "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-J59KGB?ref=ticketmaster"
     },
     {
-      "id": "Z698xZC2Z16vuIvo-S",
-      "name": "Ryan Beatty - Arms Over Armor Tour",
-      "date": "2026-10-29",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.49918",
-      "longitude": "13.44514",
-      "url": "https://www.ticketmaster.de/event/ryan-beatty-arms-over-armor-tour-tickets/1368051873?language=en-us"
-    },
-    {
       "id": "Z698xZC2Z1k-4ueF7",
       "name": "The World Of Hans Zimmer | Box seat in the Ticketmaster Suite",
       "date": "2026-10-29",
@@ -40,26 +20,6 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/the-world-of-hans-zimmer-%7C-box-seat-in-the-ticketmaster-suite-tickets/855342204?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1k0oF706",
-      "name": "Kelela - new avatar live",
-      "date": "2026-10-29",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.48684",
-      "longitude": "13.42145",
-      "url": "https://www.ticketmaster.de/event/kelela-new-avatar-live-tickets/911204907?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kbwuJPE",
-      "name": "LOUKEMAN",
-      "date": "2026-10-29",
-      "time": "21:00:00",
-      "venue": "LARK",
-      "latitude": "52.51314",
-      "longitude": "13.4228",
-      "url": "https://www.ticketmaster.de/event/loukeman-tickets/632366967?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kuExFQ_",
@@ -1840,16 +1800,6 @@
       "latitude": "52.53041",
       "longitude": "13.4102",
       "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-619BHS?ref=ticketmaster"
-    },
-    {
-      "id": "LvZ18QxhfaxG2r8vGIKkH",
-      "name": "Beni Weber - Live Tour 2026",
-      "date": "2026-11-27",
-      "time": "20:00:00",
-      "venue": "Anna Spree",
-      "latitude": "52.51986",
-      "longitude": "13.32693",
-      "url": "https://www.universe.com/events/beni-weber-live-tour-2026-tickets-XZ3DP4?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16v-gvSAY",
@@ -5002,6 +4952,16 @@
       "url": "https://www.universe.com/events/ultra-night-depeche-mode-party-berlin-tickets-BFYW1M?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z16v8Fb64p",
+      "name": "C2C: Country to Country / Saturday",
+      "date": "2027-03-06",
+      "time": null,
+      "venue": "Uber Eats Music Hall",
+      "latitude": "52.50512",
+      "longitude": "13.44341",
+      "url": "https://www.ticketmaster.de/event/c2c-country-to-country-saturday-tickets/1408607556?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vP0Z_pA",
       "name": "Berlin, Du coole Sau: Eine Liebeserklärung",
       "date": "2027-03-07",
@@ -5010,6 +4970,16 @@
       "latitude": "52.50738",
       "longitude": "13.37218",
       "url": "https://www.ticketmaster.de/event/berlin-du-coole-sau-eine-liebeserklarung-tickets/1964019585?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v79q-FF",
+      "name": "C2C: Country to Country / Sunday",
+      "date": "2027-03-07",
+      "time": null,
+      "venue": "Uber Eats Music Hall",
+      "latitude": "52.50512",
+      "longitude": "13.44341",
+      "url": "https://www.ticketmaster.de/event/c2c-country-to-country-sunday-tickets/1117761208?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kQdjVFJ",
@@ -7620,6 +7590,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2020228763?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vGkooP-",
+      "name": "Noah Kahan: The Last Of The Bugs World Tour",
+      "date": "2027-07-02",
+      "time": "20:00:00",
+      "venue": "Waldbühne",
+      "latitude": "52.51318",
+      "longitude": "13.22987",
+      "url": "https://www.ticketmaster.de/event/noah-kahan-the-last-of-the-bugs-world-tour-tickets/1306451961?language=en-us"
     },
     {
       "id": "Z698xZC2Z16ee7P3Fv",
