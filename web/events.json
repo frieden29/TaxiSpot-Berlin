@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T05:52:56.029966+00:00",
+  "updatedAt": "2026-10-29T13:08:26.556319+00:00",
   "events": [
     {
       "id": "Z698xZC2Z16vG7vEo8",
@@ -4362,6 +4362,16 @@
       "url": "https://www.ticketmaster.de/event/sofia-camara-sincerely-yours-tour-tickets/232660456?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1ke4e88_",
+      "name": "Sophia Stel",
+      "date": "2027-02-09",
+      "time": "20:00:00",
+      "venue": "silent green",
+      "latitude": "52.54511",
+      "longitude": "13.36666",
+      "url": "https://www.ticketmaster.de/event/sophia-stel-tickets/95090419?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kfAAEv_",
       "name": "Almost Monday - Thank God It´s Almost Monday Tour UK / Europe 2027",
       "date": "2027-02-09",
@@ -5230,6 +5240,16 @@
       "latitude": "52.48461",
       "longitude": "13.3914",
       "url": "https://www.ticketmaster.de/event/shygirl-swallow-live-tickets/1403840309?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k8v43e6",
+      "name": "oskar med k",
+      "date": "2027-03-13",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.48684",
+      "longitude": "13.42145",
+      "url": "https://www.ticketmaster.de/event/oskar-med-k-tickets/401552087?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vbFa8-N",
@@ -7560,6 +7580,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/670301863?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1keZqYjP",
+      "name": "U2: The Greatest Show On Earth World Tour",
+      "date": "2027-06-30",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.51452",
+      "longitude": "13.24326",
+      "url": "https://www.ticketmaster.de/event/u2-the-greatest-show-on-earth-world-tour-tickets/80770725?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kozQ4aZ",
