@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T05:54:08.773145+00:00",
+  "updatedAt": "2026-10-30T13:01:13.243400+00:00",
   "events": [
     {
       "id": "Z698xZC2Z1kuExFQ_",
@@ -2862,6 +2862,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1039006132?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1k-xO816",
+      "name": "!K7 pres. DJ-Kicks - All Day",
+      "date": "2026-12-13",
+      "time": "13:00:00",
+      "venue": "Haus der Visionäre",
+      "latitude": "52.49606",
+      "longitude": "13.45396",
+      "url": "https://www.ticketmaster.de/event/k7-pres-dj-kicks-all-day-tickets/862810287?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vGZeb-O",
       "name": "Die Weihnachtsbäckerei",
       "date": "2026-12-13",
@@ -4137,8 +4147,8 @@
       "date": "2027-02-01",
       "time": "20:00:00",
       "venue": null,
-      "latitude": "52.53818",
-      "longitude": "13.41259",
+      "latitude": "52.50814",
+      "longitude": "13.45181",
       "url": "https://www.ticketmaster.de/event/she-wants-revenge-europe-2027-tickets/120078064?language=en-us"
     },
     {
@@ -4250,6 +4260,16 @@
       "latitude": "52.48461",
       "longitude": "13.3914",
       "url": "https://www.ticketmaster.de/event/two-door-cinema-club-15th-anniversary-tour-tickets/77924115?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v87_Px9",
+      "name": "Sophia Stel",
+      "date": "2027-02-08",
+      "time": "20:00:00",
+      "venue": "silent green",
+      "latitude": "52.54511",
+      "longitude": "13.36666",
+      "url": "https://www.ticketmaster.de/event/sophia-stel-tickets/1404665897?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kGpqUvV",
@@ -4410,6 +4430,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/martin-rutter-%7C-logen-seat-tickets/563350913?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v-M_z1_",
+      "name": "Alex Sampson - The Nonstop Flight Tour",
+      "date": "2027-02-14",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.49918",
+      "longitude": "13.44514",
+      "url": "https://www.ticketmaster.de/event/alex-sampson-the-nonstop-flight-tour-tickets/1877678299?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vJFa_pa",
@@ -5190,6 +5220,16 @@
       "latitude": "52.48461",
       "longitude": "13.3914",
       "url": "https://www.ticketmaster.de/event/shygirl-swallow-live-tickets/1403840309?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vbO-wGN",
+      "name": "Emei - Night at the Opera",
+      "date": "2027-03-13",
+      "time": "20:00:00",
+      "venue": "Columbia Theater",
+      "latitude": "52.48461",
+      "longitude": "13.3915",
+      "url": "https://www.ticketmaster.de/event/emei-night-at-the-opera-tickets/1620872323?language=en-us"
     },
     {
       "id": "Z698xZC2Z1k8v43e6",
@@ -7552,6 +7592,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/478695240?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vGkooP-",
+      "name": "Noah Kahan: The Last Of The Bugs World Tour",
+      "date": "2027-07-02",
+      "time": "19:00:00",
+      "venue": "Waldbühne",
+      "latitude": "52.51318",
+      "longitude": "13.22987",
+      "url": "https://www.ticketmaster.de/event/noah-kahan-the-last-of-the-bugs-world-tour-tickets/1306451961?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kaV3fGV",
       "name": "Harry Styles: Together, Together",
       "date": "2027-07-02",
@@ -7570,16 +7620,6 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2020228763?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vGkooP-",
-      "name": "Noah Kahan: The Last Of The Bugs World Tour",
-      "date": "2027-07-02",
-      "time": "20:00:00",
-      "venue": "Waldbühne",
-      "latitude": "52.51318",
-      "longitude": "13.22987",
-      "url": "https://www.ticketmaster.de/event/noah-kahan-the-last-of-the-bugs-world-tour-tickets/1306451961?language=en-us"
     },
     {
       "id": "Z698xZC2Z16ee7P3Fv",
@@ -8430,6 +8470,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/andreas-gabalier-arena-tour-2027-tickets/1165071468?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vJpoY8M",
+      "name": "Andreas Gabalier - Arena Tour 2027 | Premium Packages",
+      "date": "2027-10-16",
+      "time": "20:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/andreas-gabalier-arena-tour-2027-%7C-premium-packages-tickets/1996470437?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kaU0Aby",
