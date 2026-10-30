@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-30T13:01:13.243400+00:00",
+  "updatedAt": "2026-10-30T22:24:44.220267+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z1kuExFQ_",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-30",
-      "time": "16:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/367888699?language=en-us"
-    },
     {
       "id": "LvZ18QOGbyLVWmOZ0mdOD",
       "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
@@ -22,26 +12,6 @@
       "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-274BG1?ref=ticketmaster"
     },
     {
-      "id": "LvZ18QEUl2QjWUNTQiA6W",
-      "name": "Metaxy",
-      "date": "2026-10-30",
-      "time": "20:00:00",
-      "venue": "Atelier Gardens",
-      "latitude": "52.46454",
-      "longitude": "13.40864",
-      "url": "https://www.universe.com/events/metaxy-tickets-MRN0VY?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16vFvGIQA",
-      "name": "Melanie C - Melanie C World Tour",
-      "date": "2026-10-30",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.49955",
-      "longitude": "13.35052",
-      "url": "https://www.ticketmaster.de/event/melanie-c-melanie-c-world-tour-tickets/1201328685?language=en-us"
-    },
-    {
       "id": "Z698xZC2Z1k40o4p3",
       "name": "Joe Bonamassa | Box-Seat in the Ticketmaster Suite",
       "date": "2026-10-30",
@@ -50,46 +20,6 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/joe-bonamassa-%7C-box-seat-in-the-ticketmaster-suite-tickets/564455592?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kFKuV4o",
-      "name": "Puscifer - The Normal Isn't Tour | Gallery Seat",
-      "date": "2026-10-30",
-      "time": "20:00:00",
-      "venue": "Uber Eats Music Hall",
-      "latitude": "52.50512",
-      "longitude": "13.44341",
-      "url": "https://www.ticketmaster.de/event/puscifer-the-normal-isnt-tour-%7C-gallery-seat-tickets/213374551?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kGFq-C4",
-      "name": "NEUNUNDNEUNZIG - Nichts Für Immer Tour",
-      "date": "2026-10-30",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.53818",
-      "longitude": "13.41259",
-      "url": "https://www.ticketmaster.de/event/neunundneunzig-nichts-fur-immer-tour-tickets/308761395?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1keoe90v",
-      "name": "Puscifer - The Normal Isn't Tour",
-      "date": "2026-10-30",
-      "time": "20:00:00",
-      "venue": "Uber Eats Music Hall",
-      "latitude": "52.50512",
-      "longitude": "13.44341",
-      "url": "https://www.ticketmaster.de/event/puscifer-the-normal-isnt-tour-tickets/91097901?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kjz4kO3",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-30",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/738546812?language=en-us"
     },
     {
       "id": "LvZ18QxkmlR0HqZZvegem",
@@ -1700,16 +1630,6 @@
       "latitude": "52.53117",
       "longitude": "13.45067",
       "url": "https://www.ticketmaster.de/event/bryson-tiller-presents-the-neo-trapsoul-tour-tickets/383163474?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kovfyuv",
-      "name": "re6ce",
-      "date": "2026-11-25",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.53839",
-      "longitude": "13.41299",
-      "url": "https://www.ticketmaster.de/event/re6ce-tickets/441539341?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vuJuYjV",
@@ -7050,6 +6970,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/348721535?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kovfyuv",
+      "name": "re6ce",
+      "date": "2027-05-27",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.53839",
+      "longitude": "13.41299",
+      "url": "https://www.ticketmaster.de/event/re6ce-tickets/441539341?language=en-us"
     },
     {
       "id": "Z698xZC2Z16v-feKek",
