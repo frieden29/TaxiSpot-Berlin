@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-31T12:39:22.709258+00:00",
+  "updatedAt": "2026-10-31T21:39:21.822469+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z16vZ6C4Pv",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-31",
-      "time": "16:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1007395941?language=en-us"
-    },
     {
       "id": "Z698xZC2Z16v4kAYpe",
       "name": "Unlimited Wrestling Underground #9: Halloween-Edition",
@@ -40,46 +30,6 @@
       "latitude": "52.50482",
       "longitude": "13.33901",
       "url": "https://www.universe.com/events/sinatra-night-berlin-tickets-F5DCYB?ref=ticketmaster"
-    },
-    {
-      "id": "LvZ18QEUl23MLK5hFXmVI",
-      "name": "Metaxy",
-      "date": "2026-10-31",
-      "time": "20:00:00",
-      "venue": "Atelier Gardens",
-      "latitude": "52.46454",
-      "longitude": "13.40864",
-      "url": "https://www.universe.com/events/metaxy-tickets-MRN0VY?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16vAtv3_-",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-10-31",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1169052661?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kASJ_jz",
-      "name": "ARLO PARKS - DESIRE TOUR",
-      "date": "2026-10-31",
-      "time": "20:00:00",
-      "venue": "Uber Eats Music Hall",
-      "latitude": "52.50512",
-      "longitude": "13.44341",
-      "url": "https://www.ticketmaster.de/event/arlo-parks-desire-tour-tickets/173999738?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kCpbx-M",
-      "name": "ARLO PARKS - DESIRE TOUR | Gallery Seat",
-      "date": "2026-10-31",
-      "time": "20:00:00",
-      "venue": "Uber Eats Music Hall",
-      "latitude": "52.50512",
-      "longitude": "13.44341",
-      "url": "https://www.ticketmaster.de/event/arlo-parks-desire-tour-%7C-gallery-seat-tickets/396622877?language=en-us"
     },
     {
       "id": "LvZ18Q0TqgTmG0DvgQ9o8",
@@ -1452,6 +1402,16 @@
       "url": "https://www.ticketmaster.de/event/neschastny-sluchai-tickets/1291004209?language=en-us"
     },
     {
+      "id": "LvZ18QJ7477jAokqtfSGp",
+      "name": "Tag der Verbände 2026",
+      "date": "2026-11-23",
+      "time": "09:00:00",
+      "venue": null,
+      "latitude": "52.53286",
+      "longitude": "13.34545",
+      "url": "https://www.universe.com/events/tag-der-verbande-2026-tickets-SFBKPV?ref=ticketmaster"
+    },
+    {
       "id": "LvZ18QLFQhseijZZvsRmg",
       "name": "WIR ARBEITEN DRAN - Stand-up Comedy Berlin",
       "date": "2026-11-23",
@@ -1712,6 +1672,16 @@
       "url": "https://www.universe.com/events/amber-georgia-tickets-LJS031?ref=ticketmaster"
     },
     {
+      "id": "LvZ18Qm9wXRvguAsk0NVw",
+      "name": "Holy Shit Shopping Berlin @ Haus der Visionäre",
+      "date": "2026-11-28",
+      "time": "11:00:00",
+      "venue": "Haus der Visionäre",
+      "latitude": "52.49606",
+      "longitude": "13.45396",
+      "url": "https://www.universe.com/events/holy-shit-shopping-berlin-haus-der-visionare-tickets-8706FH?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z1kb90kx7",
       "name": "Die Weihnachtsbäckerei",
       "date": "2026-11-28",
@@ -1780,6 +1750,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/353694075?language=en-us"
+    },
+    {
+      "id": "LvZ18Qm9SI-a0rNrloAJ-",
+      "name": "Holy Shit Shopping Berlin @ Haus der Visionäre",
+      "date": "2026-11-29",
+      "time": "11:00:00",
+      "venue": "Haus der Visionäre",
+      "latitude": "52.49606",
+      "longitude": "13.45396",
+      "url": "https://www.universe.com/events/holy-shit-shopping-berlin-haus-der-visionare-tickets-8706FH?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16v8f_Yfw",
