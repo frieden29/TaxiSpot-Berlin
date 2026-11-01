@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T13:31:24.412102+00:00",
+  "updatedAt": "2026-11-01T22:05:39.547772+00:00",
   "events": [
     {
       "id": "Z698xZC2Z16vxvvE09",
@@ -10,66 +10,6 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/eisbaren-berlin-adler-mannheim-%7C-box-seat-tickets/1881067917?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vrp46Jv",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-11-01",
-      "time": "17:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1796547981?language=en-us"
-    },
-    {
-      "id": "LvZ18QEUl2fZCc39lZBU_",
-      "name": "Metaxy",
-      "date": "2026-11-01",
-      "time": "18:00:00",
-      "venue": "Atelier Gardens",
-      "latitude": "52.46454",
-      "longitude": "13.40864",
-      "url": "https://www.universe.com/events/metaxy-tickets-MRN0VY?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16vP0AEx9",
-      "name": "Dogu Demirkol Stand-Up",
-      "date": "2026-11-01",
-      "time": "20:00:00",
-      "venue": "PUNCH L!NE Club Berlin",
-      "latitude": "52.50738",
-      "longitude": "13.37218",
-      "url": "https://www.ticketmaster.de/event/dogu-demirkol-stand-up-tickets/1964167897?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vf-7Z40",
-      "name": "My First Time",
-      "date": "2026-11-01",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.50763",
-      "longitude": "13.45436",
-      "url": "https://www.ticketmaster.de/event/my-first-time-tickets/1521100564?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1k0s4x77",
-      "name": "TOMORA",
-      "date": "2026-11-01",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.48461",
-      "longitude": "13.3914",
-      "url": "https://www.ticketmaster.de/event/tomora-tickets/931562104?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kjOoO7s",
-      "name": "Undeath",
-      "date": "2026-11-01",
-      "time": "20:00:00",
-      "venue": "Mikropol",
-      "latitude": "52.49948",
-      "longitude": "13.35416",
-      "url": "https://www.ticketmaster.de/event/undeath-tickets/720460131?language=en-us"
     },
     {
       "id": "LvZ18QLFQhseijZZvsRmw",
