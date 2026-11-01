@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2026-11-01T06:12:43.996715+00:00",
+  "updatedAt": "2026-11-01T13:31:24.412102+00:00",
   "events": [
-    {
-      "id": "LvZ18Q0f1pssSW_i_d1xe",
-      "name": "The Velvet Creepers Shadow Ball",
-      "date": "2026-10-31",
-      "time": "21:00:00",
-      "venue": null,
-      "latitude": "52.53224",
-      "longitude": "13.38003",
-      "url": "https://www.universe.com/events/the-velvet-creepers-shadow-ball-tickets-7BGZP6?ref=ticketmaster"
-    },
-    {
-      "id": "LvZ18QQkJN2xts8Zy49su",
-      "name": "Halloween Party - The Abandoned Factory Pt. 2",
-      "date": "2026-10-31",
-      "time": "22:00:00",
-      "venue": null,
-      "latitude": "52.53054",
-      "longitude": "13.42819",
-      "url": "https://www.universe.com/events/halloween-party-the-abandoned-factory-pt-2-tickets-5PTKGB?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16vO-G7jv",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-11-01",
-      "time": "13:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1821304701?language=en-us"
-    },
     {
       "id": "Z698xZC2Z16vxvvE09",
       "name": "Eisbären Berlin - Adler Mannheim | Box-Seat",
