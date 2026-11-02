@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T06:13:46.455711+00:00",
+  "updatedAt": "2026-11-02T16:09:53.249948+00:00",
   "events": [
     {
       "id": "LvZ18QLFQhseijZZvsRmw",
@@ -692,6 +692,16 @@
       "url": "https://www.universe.com/events/sinatra-night-berlin-tickets-F5DCYB?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z16voMAxj-",
+      "name": "Genevieve Stokes - Hiding Places EU/UK Tour ´26",
+      "date": "2026-11-14",
+      "time": "19:30:00",
+      "venue": null,
+      "latitude": "52.55191",
+      "longitude": "13.43121",
+      "url": "https://www.ticketmaster.de/event/genevieve-stokes-hiding-places-eu-uk-tour-26-tickets/1477162721?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vApuvGp",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2026-11-14",
@@ -720,16 +730,6 @@
       "latitude": "52.48684",
       "longitude": "13.42145",
       "url": "https://www.ticketmaster.de/event/elgrandetoto-salgoat-world-tour-2-tickets/1649698215?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16voMAxj-",
-      "name": "Genevieve Stokes - Hiding Places EU/UK Tour ´26",
-      "date": "2026-11-14",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.55191",
-      "longitude": "13.43121",
-      "url": "https://www.ticketmaster.de/event/genevieve-stokes-hiding-places-eu-uk-tour-26-tickets/1477162721?language=en-us"
     },
     {
       "id": "Z698xZC2Z1k0bpfa_",
@@ -3972,6 +3972,16 @@
       "url": "https://www.universe.com/events/the-epic-comedy-showcase-english-stand-up-comedy-in-berlin-tickets-8XCKH7?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z1kfVCA0F",
+      "name": "Meltt",
+      "date": "2027-02-07",
+      "time": "20:00:00",
+      "venue": "Mikropol",
+      "latitude": "52.49948",
+      "longitude": "13.35416",
+      "url": "https://www.ticketmaster.de/event/meltt-tickets/534385908?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kvM0074",
       "name": "Two Door Cinema Club - 15th Anniversary Tour",
       "date": "2027-02-08",
@@ -4200,6 +4210,16 @@
       "latitude": "52.50032",
       "longitude": "13.43648",
       "url": "https://www.ticketmaster.de/event/flowerovlove-tickets/1749930861?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kGOF4G3",
+      "name": "Sampa The Great - Nu Zamrock Tour",
+      "date": "2027-02-16",
+      "time": "20:00:00",
+      "venue": "Columbia Theater",
+      "latitude": "52.48461",
+      "longitude": "13.3915",
+      "url": "https://www.ticketmaster.de/event/sampa-the-great-nu-zamrock-tour-tickets/320215312?language=en-us"
     },
     {
       "id": "LvZ18QPITyaos7lrlaLXK",
