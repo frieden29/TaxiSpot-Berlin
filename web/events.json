@@ -1,56 +1,6 @@
 {
-  "updatedAt": "2026-11-02T16:09:53.249948+00:00",
+  "updatedAt": "2026-11-03T01:01:33.526334+00:00",
   "events": [
-    {
-      "id": "LvZ18QLFQhseijZZvsRmw",
-      "name": "WIR ARBEITEN DRAN - Stand-up Comedy Berlin",
-      "date": "2026-11-02",
-      "time": "20:00:00",
-      "venue": "Oblomov Kreuzkoelln",
-      "latitude": "52.49017",
-      "longitude": "13.42611",
-      "url": "https://www.universe.com/events/wir-arbeiten-dran-stand-up-comedy-berlin-tickets-LF359S?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16v-p-gCa",
-      "name": "Tokyo Tea Room",
-      "date": "2026-11-02",
-      "time": "20:00:00",
-      "venue": "Mikropol",
-      "latitude": "52.49948",
-      "longitude": "13.35416",
-      "url": "https://www.ticketmaster.de/event/tokyo-tea-room-tickets/1856875389?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vj_vyC4",
-      "name": "Momo Boyd",
-      "date": "2026-11-02",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.47907",
-      "longitude": "13.43872",
-      "url": "https://www.ticketmaster.de/event/momo-boyd-tickets/1719079395?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vu3O0aK",
-      "name": "DON TOLIVER: NITROUS - OCTANE WORLD TOUR LEG 2",
-      "date": "2026-11-02",
-      "time": "20:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/don-toliver-nitrous-octane-world-tour-leg-2-tickets/1352824253?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kj70V7P",
-      "name": "DON TOLIVER: NITROUS - OCTANE WORLD TOUR LEG 2 | Premium Packages",
-      "date": "2026-11-02",
-      "time": "20:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/don-toliver-nitrous-octane-world-tour-leg-2-%7C-premium-packages-tickets/704934125?language=en-us"
-    },
     {
       "id": "LvZ18QxiaY5gHC8ZvDxHG",
       "name": "Lachkater Die Stand Up Comedy Show",
@@ -4532,6 +4482,16 @@
       "url": "https://www.ticketmaster.de/event/monster-jam-tickets/326510296?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vjf8O_9",
+      "name": "Young Eman - THE BINE TOUR",
+      "date": "2027-02-27",
+      "time": "20:00:00",
+      "venue": "Mikropol",
+      "latitude": "52.49948",
+      "longitude": "13.35416",
+      "url": "https://www.ticketmaster.de/event/young-eman-the-bine-tour-tickets/1714420657?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vvyu_OS",
       "name": "MONSTER JAM",
       "date": "2027-02-28",
@@ -6670,6 +6630,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/greta-van-fleet-into-the-beginning-tickets/501900073?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kjzfkA6",
+      "name": "Greta Van Fleet - Into The Beginning | Premium Packages",
+      "date": "2027-05-21",
+      "time": "20:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/greta-van-fleet-into-the-beginning-%7C-premium-packages-tickets/738506147?language=en-us"
     },
     {
       "id": "LvZ18QQbtb51AEOZ0O156",
