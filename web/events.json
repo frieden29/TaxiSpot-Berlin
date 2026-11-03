@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T14:21:59.207769+00:00",
+  "updatedAt": "2026-11-03T23:26:21.386928+00:00",
   "events": [
     {
       "id": "LvZ18QxiaY5gHC8ZvDxHG",
@@ -10,16 +10,6 @@
       "latitude": "52.54291",
       "longitude": "13.42071",
       "url": "https://www.universe.com/events/lachkater-die-stand-up-comedy-show-tickets-0DY124?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16vu3ZzFb",
-      "name": "THE PARIS MATCH - UK / EU Autum 2026",
-      "date": "2026-11-03",
-      "time": "20:00:00",
-      "venue": "Kantine am Berghain",
-      "latitude": "52.51098",
-      "longitude": "13.44159",
-      "url": "https://www.ticketmaster.de/event/the-paris-match-uk-eu-autum-2026-tickets/1352038218?language=en-us"
     },
     {
       "id": "LvZ18QxkY2DCiXZZvGjxO",
@@ -1382,16 +1372,6 @@
       "url": "https://www.ticketmaster.de/event/greek-greek-live-tickets/1331751405?language=en-us"
     },
     {
-      "id": "Z698xZC2Z1k8Ap8re",
-      "name": "Artemas - LOVERCORE / GETTING UP TO NO GOOD Tour | VIP Package",
-      "date": "2026-11-26",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.48684",
-      "longitude": "13.42145",
-      "url": "https://www.ticketmaster.de/event/artemas-lovercore-getting-up-to-no-good-tour-%7C-vip-package-tickets/405590782?language=en-us"
-    },
-    {
       "id": "Z698xZC2Z1kGVqxOP",
       "name": "Artemas - LOVERCORE / GETTING UP TO NO GOOD Tour",
       "date": "2026-11-26",
@@ -2190,16 +2170,6 @@
       "latitude": "52.50152",
       "longitude": "13.38175",
       "url": "https://www.ticketmaster.de/event/beabadoobee-the-powerlines-tour-tickets/1977216649?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kQo38qs",
-      "name": "Artemas - LOVERCORE / GETTING UP TO NO GOOD Tour | VIP Package",
-      "date": "2026-12-06",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.48684",
-      "longitude": "13.42145",
-      "url": "https://www.ticketmaster.de/event/artemas-lovercore-getting-up-to-no-good-tour-%7C-vip-package-tickets/691490771?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vPkv67-",
@@ -4230,6 +4200,16 @@
       "latitude": "52.50152",
       "longitude": "13.38175",
       "url": "https://www.ticketmaster.de/event/role-model-presents-chuck-on-tour-tickets/1729904609?language=en-us"
+    },
+    {
+      "id": "LvZ18QmE3RXtzBZKBLu-2",
+      "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
+      "date": "2027-02-12",
+      "time": "19:00:00",
+      "venue": "Cosmic Comedy Club",
+      "latitude": "52.53041",
+      "longitude": "13.4102",
+      "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-7WGBJT?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16eZ9ZVx8",
