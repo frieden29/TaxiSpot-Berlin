@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T01:01:33.526334+00:00",
+  "updatedAt": "2026-11-03T14:21:59.207769+00:00",
   "events": [
     {
       "id": "LvZ18QxiaY5gHC8ZvDxHG",
@@ -20,16 +20,6 @@
       "latitude": "52.51098",
       "longitude": "13.44159",
       "url": "https://www.ticketmaster.de/event/the-paris-match-uk-eu-autum-2026-tickets/1352038218?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16v_Sx8ua",
-      "name": "Deep Purple | Box seat in the Ticketmaster Suite",
-      "date": "2026-11-04",
-      "time": "19:30:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/deep-purple-%7C-box-seat-in-the-ticketmaster-suite-tickets/1673890349?language=en-us"
     },
     {
       "id": "LvZ18QxkY2DCiXZZvGjxO",
@@ -1392,6 +1382,16 @@
       "url": "https://www.ticketmaster.de/event/greek-greek-live-tickets/1331751405?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1k8Ap8re",
+      "name": "Artemas - LOVERCORE / GETTING UP TO NO GOOD Tour | VIP Package",
+      "date": "2026-11-26",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.48684",
+      "longitude": "13.42145",
+      "url": "https://www.ticketmaster.de/event/artemas-lovercore-getting-up-to-no-good-tour-%7C-vip-package-tickets/405590782?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kGVqxOP",
       "name": "Artemas - LOVERCORE / GETTING UP TO NO GOOD Tour",
       "date": "2026-11-26",
@@ -2190,6 +2190,16 @@
       "latitude": "52.50152",
       "longitude": "13.38175",
       "url": "https://www.ticketmaster.de/event/beabadoobee-the-powerlines-tour-tickets/1977216649?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kQo38qs",
+      "name": "Artemas - LOVERCORE / GETTING UP TO NO GOOD Tour | VIP Package",
+      "date": "2026-12-06",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.48684",
+      "longitude": "13.42145",
+      "url": "https://www.ticketmaster.de/event/artemas-lovercore-getting-up-to-no-good-tour-%7C-vip-package-tickets/691490771?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vPkv67-",
@@ -3142,6 +3152,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1657417597?language=en-us"
     },
     {
+      "id": "LvZ18QmJVRmjoULSoIoVF",
+      "name": "Laughs, Pizza & Shots – English Comedy New Year Eve Special",
+      "date": "2026-12-31",
+      "time": "19:00:00",
+      "venue": "Cosmic Comedy Club",
+      "latitude": "52.53041",
+      "longitude": "13.4102",
+      "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-new-year-eve-special-tickets-KZYTNR?ref=ticketmaster"
+    },
+    {
       "id": "LvZ18QQktCg_VX8Zwfi4g",
       "name": "The Art of NYE - Silvesterparty an der Greifswalder Straße",
       "date": "2026-12-31",
@@ -3180,6 +3200,16 @@
       "latitude": "52.53198",
       "longitude": "13.41407",
       "url": "https://www.universe.com/events/lachkater-waffeln-comedy-tickets-Z5C91L?ref=ticketmaster"
+    },
+    {
+      "id": "LvZ18QmE6aQQbSU_x0kvQ",
+      "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
+      "date": "2027-01-02",
+      "time": "19:00:00",
+      "venue": "Cosmic Comedy Club",
+      "latitude": "52.53041",
+      "longitude": "13.4102",
+      "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-3CZP0W?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16vJ8qxZE",
@@ -3262,6 +3292,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/454677613?language=en-us"
     },
     {
+      "id": "LvZ18QmEF5cc_r1FJSNLB",
+      "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
+      "date": "2027-01-07",
+      "time": "19:00:00",
+      "venue": "Cosmic Comedy Club",
+      "latitude": "52.53041",
+      "longitude": "13.4102",
+      "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-2R4D10?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z1kOPOx3K",
       "name": "Unheilig | Logen-Seat in der Ticketmaster Suite",
       "date": "2027-01-07",
@@ -3280,6 +3320,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2045786420?language=en-us"
+    },
+    {
+      "id": "LvZ18QmEFgkwwPLwVrnGh",
+      "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
+      "date": "2027-01-08",
+      "time": "19:00:00",
+      "venue": "Cosmic Comedy Club",
+      "latitude": "52.53041",
+      "longitude": "13.4102",
+      "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-RGF768?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1kaOQ60S",
@@ -3320,6 +3370,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1968530060?language=en-us"
+    },
+    {
+      "id": "LvZ18QmEaXXXSTg1UEKUH",
+      "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
+      "date": "2027-01-09",
+      "time": "19:00:00",
+      "venue": "Cosmic Comedy Club",
+      "latitude": "52.53041",
+      "longitude": "13.4102",
+      "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-DRX615?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1kOdQZug",
@@ -3422,6 +3482,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1142088305?language=en-us"
     },
     {
+      "id": "LvZ18QmE1z6crFMSBLZYl",
+      "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
+      "date": "2027-01-14",
+      "time": "19:00:00",
+      "venue": "Cosmic Comedy Club",
+      "latitude": "52.53041",
+      "longitude": "13.4102",
+      "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-4CHVN7?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16veZqYFt",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-01-15",
@@ -3430,6 +3500,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1080770229?language=en-us"
+    },
+    {
+      "id": "LvZ18QmE5QwVrOuwaL1i_",
+      "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
+      "date": "2027-01-15",
+      "time": "19:00:00",
+      "venue": "Cosmic Comedy Club",
+      "latitude": "52.53041",
+      "longitude": "13.4102",
+      "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-WS4QN7?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16vO8eeC6",
@@ -3470,6 +3550,16 @@
       "latitude": "52.53198",
       "longitude": "13.41407",
       "url": "https://www.universe.com/events/lachkater-waffeln-comedy-tickets-Z5C91L?ref=ticketmaster"
+    },
+    {
+      "id": "LvZ18QmE5zRlHszzJS0bU",
+      "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
+      "date": "2027-01-16",
+      "time": "19:00:00",
+      "venue": "Cosmic Comedy Club",
+      "latitude": "52.53041",
+      "longitude": "13.4102",
+      "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-T3GW82?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16vFef7o7",
@@ -3572,6 +3662,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/746679977?language=en-us"
     },
     {
+      "id": "LvZ18QmEGcqc_r1FJSNtd",
+      "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
+      "date": "2027-01-21",
+      "time": "19:00:00",
+      "venue": "Cosmic Comedy Club",
+      "latitude": "52.53041",
+      "longitude": "13.4102",
+      "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-HWRF3X?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16vONP7_I",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-01-22",
@@ -3580,6 +3680,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1823944668?language=en-us"
+    },
+    {
+      "id": "LvZ18QmEu33yJuyJDLeSn",
+      "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
+      "date": "2027-01-22",
+      "time": "19:00:00",
+      "venue": "Cosmic Comedy Club",
+      "latitude": "52.53041",
+      "longitude": "13.4102",
+      "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-XY64B1?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1k4Ik4aS",
@@ -3620,6 +3730,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/51583684?language=en-us"
+    },
+    {
+      "id": "LvZ18QmEuVUOArLH40kpY",
+      "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
+      "date": "2027-01-23",
+      "time": "19:00:00",
+      "venue": "Cosmic Comedy Club",
+      "latitude": "52.53041",
+      "longitude": "13.4102",
+      "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-ZHV78D?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16voS7Ojf",
@@ -3772,6 +3892,16 @@
       "url": "https://www.ticketmaster.de/event/levin-liam-pech-tour-2027-tickets/1487595909?language=en-us"
     },
     {
+      "id": "LvZ18QmECK8Gqs_6TIfmx",
+      "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
+      "date": "2027-01-28",
+      "time": "19:00:00",
+      "venue": "Cosmic Comedy Club",
+      "latitude": "52.53041",
+      "longitude": "13.4102",
+      "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-39X0ZJ?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16v-0e_1v",
       "name": "Isaiah Rashad - Lil Sunny’s Awful Road Trip",
       "date": "2027-01-28",
@@ -3782,6 +3912,16 @@
       "url": "https://www.ticketmaster.de/event/isaiah-rashad-lil-sunnys-awful-road-trip-tickets/1864099281?language=en-us"
     },
     {
+      "id": "LvZ18QmECB1QjpDTbLuoB",
+      "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
+      "date": "2027-01-29",
+      "time": "19:00:00",
+      "venue": "Cosmic Comedy Club",
+      "latitude": "52.53041",
+      "longitude": "13.4102",
+      "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-1BZT7V?ref=ticketmaster"
+    },
+    {
       "id": "LvZ18QxkmlR0HqZZvegeD",
       "name": "The Epic Comedy Showcase — English Stand-up Comedy in Berlin",
       "date": "2027-01-29",
@@ -3790,6 +3930,16 @@
       "latitude": "52.52601",
       "longitude": "13.39366",
       "url": "https://www.universe.com/events/the-epic-comedy-showcase-english-stand-up-comedy-in-berlin-tickets-8XCKH7?ref=ticketmaster"
+    },
+    {
+      "id": "LvZ18QmE2xtVRkI-fLAlF",
+      "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
+      "date": "2027-01-30",
+      "time": "19:00:00",
+      "venue": "Cosmic Comedy Club",
+      "latitude": "52.53041",
+      "longitude": "13.4102",
+      "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-LNFZHS?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16v8tZ0jP",
@@ -3892,6 +4042,16 @@
       "url": "https://www.ticketmaster.de/event/sylvan-esso-tickets/1712384472?language=en-us"
     },
     {
+      "id": "LvZ18QmE8gJOArLH40kjb",
+      "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
+      "date": "2027-02-04",
+      "time": "19:00:00",
+      "venue": "Cosmic Comedy Club",
+      "latitude": "52.53041",
+      "longitude": "13.4102",
+      "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-X6PY43?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z1k0x7dFF",
       "name": "SiM - Hooman After All World Tour",
       "date": "2027-02-04",
@@ -3900,6 +4060,16 @@
       "latitude": "52.49955",
       "longitude": "13.35052",
       "url": "https://www.ticketmaster.de/event/sim-hooman-after-all-world-tour-tickets/922103208?language=en-us"
+    },
+    {
+      "id": "LvZ18QmEo80wFmueJLuT7",
+      "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
+      "date": "2027-02-05",
+      "time": "19:00:00",
+      "venue": "Cosmic Comedy Club",
+      "latitude": "52.53041",
+      "longitude": "13.4102",
+      "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-3WR48Z?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16vZgF9jZ",
@@ -5326,9 +5496,9 @@
       "name": "Brooke Combe - Too Late For Tears Tour",
       "date": "2027-03-30",
       "time": "20:00:00",
-      "venue": "Mikropol",
-      "latitude": "52.49948",
-      "longitude": "13.35416",
+      "venue": null,
+      "latitude": "52.53818",
+      "longitude": "13.41259",
       "url": "https://www.ticketmaster.de/event/brooke-combe-too-late-for-tears-tour-tickets/466145820?language=en-us"
     },
     {
@@ -8360,6 +8530,16 @@
       "latitude": "52.48684",
       "longitude": "13.42145",
       "url": "https://www.ticketmaster.de/event/genetikk-live-2027-%7C-premium-package-tickets/1993844048?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v_Sx8ua",
+      "name": "Deep Purple | Box seat in the Ticketmaster Suite",
+      "date": "2027-12-31",
+      "time": null,
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/deep-purple-%7C-box-seat-in-the-ticketmaster-suite-tickets/1673890349?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vfI1kAa",
