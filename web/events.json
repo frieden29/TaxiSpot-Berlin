@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T06:31:22.661448+00:00",
+  "updatedAt": "2026-11-04T19:49:16.278812+00:00",
   "events": [
     {
       "id": "LvZ18QxkY2DCiXZZvGjxO",
@@ -10,36 +10,6 @@
       "latitude": "52.51092",
       "longitude": "13.46134",
       "url": "https://www.universe.com/events/saying-the-wrong-thing-english-stand-up-comedy-in-berlin-tickets-Z3TKFP?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16v1fFFZ8",
-      "name": "Haute & Freddy",
-      "date": "2026-11-04",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.48684",
-      "longitude": "13.42145",
-      "url": "https://www.ticketmaster.de/event/haute--freddy-tickets/1294208010?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kb0fPe3",
-      "name": "Trevor Wallace - The Alpha Beta Male",
-      "date": "2026-11-04",
-      "time": "20:00:00",
-      "venue": "PUNCH L!NE Club Berlin",
-      "latitude": "52.50738",
-      "longitude": "13.37218",
-      "url": "https://www.ticketmaster.de/event/trevor-wallace-the-alpha-beta-male-tickets/624525092?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kowC9P-",
-      "name": "Lane 8 - Europe Tour",
-      "date": "2026-11-04",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.53818",
-      "longitude": "13.41259",
-      "url": "https://www.ticketmaster.de/event/lane-8-europe-tour-tickets/472397961?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kAYe3-F",
@@ -442,16 +412,6 @@
       "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-XGH2C8?ref=ticketmaster"
     },
     {
-      "id": "Z698xZC2Z16v4K_IuS",
-      "name": "Overmono - Pure Devotion - World Tour | Gallery Seat",
-      "date": "2026-11-12",
-      "time": "20:00:00",
-      "venue": "Uber Eats Music Hall",
-      "latitude": "52.50512",
-      "longitude": "13.44341",
-      "url": "https://www.ticketmaster.de/event/overmono-pure-devotion-world-tour-%7C-gallery-seat-tickets/1553668373?language=en-us"
-    },
-    {
       "id": "Z698xZC2Z16vGA8V8x",
       "name": "Mammoth",
       "date": "2026-11-12",
@@ -472,16 +432,6 @@
       "url": "https://www.ticketmaster.de/event/kelsey-lu-so-help-me-god-tour-tickets/1663842284?language=en-us"
     },
     {
-      "id": "Z698xZC2Z16vjAOK-Z",
-      "name": "Overmono - Pure Devotion - World Tour",
-      "date": "2026-11-12",
-      "time": "20:00:00",
-      "venue": "Uber Eats Music Hall",
-      "latitude": "52.50512",
-      "longitude": "13.44341",
-      "url": "https://www.ticketmaster.de/event/overmono-pure-devotion-world-tour-tickets/1705813840?language=en-us"
-    },
-    {
       "id": "Z698xZC2Z16vodv_Ad",
       "name": "heylucas",
       "date": "2026-11-12",
@@ -490,6 +440,16 @@
       "latitude": "52.49948",
       "longitude": "13.35416",
       "url": "https://www.ticketmaster.de/event/heylucas-tickets/1443059143?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vvUf7rd",
+      "name": "Overmono - Pure Devotion - World Tour",
+      "date": "2026-11-12",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.48684",
+      "longitude": "13.42145",
+      "url": "https://www.ticketmaster.de/event/overmono-pure-devotion-world-tour-tickets/1076504783?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kbAPS44",
@@ -3580,16 +3540,6 @@
       "latitude": "52.50596",
       "longitude": "13.32928",
       "url": "https://www.ticketmaster.de/event/dan--phil-hard-launch-world-tour-tickets/1071451353?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vjkqNOb",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2027-01-19",
-      "time": "18:30:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1706763818?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vGgAoqO",
@@ -8012,6 +7962,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1054551282?language=en-us"
     },
     {
+      "id": "LvZ18Qn0v-6J0EHE6svMJ",
+      "name": "Brews Cruise Vol. 1 – Brewmaster Cruise",
+      "date": "2027-08-27",
+      "time": "18:00:00",
+      "venue": "Schiffsanlegestelle",
+      "latitude": "52.5144",
+      "longitude": "13.4159",
+      "url": "https://www.universe.com/events/brews-cruise-vol-1-brewmaster-cruise-tickets-NG8HV0?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z1k4oa38e",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-08-27",
@@ -8022,6 +7982,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/551252402?language=en-us"
     },
     {
+      "id": "LvZ18Qn0e9Pc9MV3k69e-",
+      "name": "Brews Cruise Vol. 2 – Europa Cruise",
+      "date": "2027-08-28",
+      "time": "14:00:00",
+      "venue": "Schiffsanlegestelle",
+      "latitude": "52.5144",
+      "longitude": "13.4159",
+      "url": "https://www.universe.com/events/brews-cruise-vol-2-europa-cruise-tickets-6J8YLD?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16vpvFsbt",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-08-28",
@@ -8030,6 +8000,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1581231629?language=en-us"
+    },
+    {
+      "id": "LvZ18Qn0dMxf7zYCHIL2O",
+      "name": "Brews Cruise Vol. 3 – USA Cruise",
+      "date": "2027-08-28",
+      "time": "18:00:00",
+      "venue": "Schiffsanlegestelle",
+      "latitude": "52.5144",
+      "longitude": "13.4159",
+      "url": "https://www.universe.com/events/brews-cruise-vol-3-usa-cruise-tickets-D2ZTVF?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16vu-3_3b",
@@ -8050,6 +8030,36 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/388922171?language=en-us"
+    },
+    {
+      "id": "LvZ18Qn07N6NY2WsCQxam",
+      "name": "Brews Cruise Vol. 4 – Deutschland trifft Osteuropa",
+      "date": "2027-09-03",
+      "time": "18:00:00",
+      "venue": "Schiffsanlegestelle",
+      "latitude": "52.5144",
+      "longitude": "13.4159",
+      "url": "https://www.universe.com/events/brews-cruise-vol-4-deutschland-trifft-osteuropa-tickets-RPMBFG?ref=ticketmaster"
+    },
+    {
+      "id": "LvZ18Qn0AaPiUSAAaQx28",
+      "name": "Brews Cruise Vol. 5 – Around the World",
+      "date": "2027-09-04",
+      "time": "14:00:00",
+      "venue": "Schiffsanlegestelle",
+      "latitude": "52.5144",
+      "longitude": "13.4159",
+      "url": "https://www.universe.com/events/brews-cruise-vol-5-around-the-world-tickets-X93RMQ?ref=ticketmaster"
+    },
+    {
+      "id": "LvZ18Qn0AwyZTF5uKxJd1",
+      "name": "Brews Cruise Vol. 6 – Closing Cruise",
+      "date": "2027-09-04",
+      "time": "18:00:00",
+      "venue": "Schiffsanlegestelle",
+      "latitude": "52.5144",
+      "longitude": "13.4159",
+      "url": "https://www.universe.com/events/brews-cruise-vol-6-closing-cruise-tickets-RKWPDT?ref=ticketmaster"
     },
     {
       "id": "LvZ18QQhChDQOWZZ0LDnp",
@@ -8282,16 +8292,6 @@
       "url": "https://www.universe.com/events/depeche-mode-fantour-berlin-tickets-2CJ4V1?ref=ticketmaster"
     },
     {
-      "id": "Z698xZC2Z16v8x-N00",
-      "name": "Jay Shetty 2027 | Box seat in the Ticketmaster Suite",
-      "date": "2027-10-08",
-      "time": "16:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/jay-shetty-2027-%7C-box-seat-in-the-ticketmaster-suite-tickets/1422863924?language=en-us"
-    },
-    {
       "id": "LvZ18Qthi4E0EGk8RFu0a",
       "name": "MAXIMILIAN LORENZ „ES IST KOMPLIZIERT”",
       "date": "2027-10-08",
@@ -8320,6 +8320,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/sascha-grammel-warum-denn-nich-%7C-box-seat-tickets/975475115?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v8x-N00",
+      "name": "Jay Shetty 2027 | Box seat in the Ticketmaster Suite",
+      "date": "2027-10-16",
+      "time": "16:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/jay-shetty-2027-%7C-box-seat-in-the-ticketmaster-suite-tickets/1422863924?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vAPvsoI",
@@ -8540,6 +8550,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/kool-savas-%7C-box-seat-in-the-ticketmaster-suite-tickets/629436958?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vPs1buY",
+      "name": "Ben Folds - Paper Airplane Request Tour 2028",
+      "date": "2028-02-07",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.50766",
+      "longitude": "13.27673",
+      "url": "https://www.ticketmaster.de/event/ben-folds-paper-airplane-request-tour-2028-tickets/1971298370?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kOb_NbP",
