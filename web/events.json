@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-11-05T06:53:23.274643+00:00",
+  "updatedAt": "2026-11-05T19:59:44.350772+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z1kAYe3-F",
-      "name": "Cirque du Soleil ALIZÉ | Jubiläums-Gala",
-      "date": "2026-11-05",
-      "time": "18:30:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-%7C-jubilaums-gala-tickets/170092848?language=en-us"
-    },
     {
       "id": "LvZ18QOU35hJZ08vOacm_",
       "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
@@ -20,16 +10,6 @@
       "latitude": "52.53041",
       "longitude": "13.4102",
       "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-LY1ZS7?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16voFf-oA",
-      "name": "Mietze Conte",
-      "date": "2026-11-05",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.46438",
-      "longitude": "13.43338",
-      "url": "https://www.ticketmaster.de/event/mietze-conte-tickets/1448521445?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vv8j_G7",
@@ -1552,6 +1532,26 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1164884939?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16evVFOJA",
+      "name": "THE KEHLANI WORLD TOUR: EU & UK | VIP Upgrades (no ticket included)",
+      "date": "2026-11-29",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.53117",
+      "longitude": "13.45067",
+      "url": "https://www.ticketmaster.de/event/the-kehlani-world-tour-eu--uk-%7C-vip-upgrades-no-ticket-included--tickets/2074220985?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kfs8v4Z",
+      "name": "THE KEHLANI WORLD TOUR: EU & UK",
+      "date": "2026-11-29",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.53117",
+      "longitude": "13.45067",
+      "url": "https://www.ticketmaster.de/event/the-kehlani-world-tour-eu--uk-tickets/531401540?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16eZFa--3",
       "name": "Rea Garvey’s Christmas Calling",
       "date": "2026-11-29",
@@ -1560,16 +1560,6 @@
       "latitude": "52.50512",
       "longitude": "13.44341",
       "url": "https://www.ticketmaster.de/event/rea-garveys-christmas-calling-tickets/2008261852?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16evVFOJA",
-      "name": "THE KEHLANI WORLD TOUR: EU & UK | VIP Upgrades (no ticket included)",
-      "date": "2026-11-29",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.53117",
-      "longitude": "13.45067",
-      "url": "https://www.ticketmaster.de/event/the-kehlani-world-tour-eu--uk-%7C-vip-upgrades-no-ticket-included--tickets/2074220985?language=en-us"
     },
     {
       "id": "Z698xZC2Z16v-e83_3",
@@ -1590,16 +1580,6 @@
       "latitude": "52.4959",
       "longitude": "13.38858",
       "url": "https://www.ticketmaster.de/event/tiffany-day-halo-tour-europe-tickets/1545847788?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kfs8v4Z",
-      "name": "THE KEHLANI WORLD TOUR: EU & UK",
-      "date": "2026-11-29",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.53117",
-      "longitude": "13.45067",
-      "url": "https://www.ticketmaster.de/event/the-kehlani-world-tour-eu--uk-tickets/531401540?language=en-us"
     },
     {
       "id": "LvZ18QLFQhseijZZvsRmU",
@@ -4922,6 +4902,16 @@
       "url": "https://www.ticketmaster.de/event/jorge-vercillo-tour-europa-2027-tickets/1236824540?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vPoop_t",
+      "name": "Xavier Naidoo - Live 2027",
+      "date": "2027-03-12",
+      "time": "20:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/xavier-naidoo-live-2027-tickets/1951456669?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vfAp80A",
       "name": "chanpan - autogratis World Tour",
       "date": "2027-03-12",
@@ -7390,6 +7380,16 @@
       "latitude": "52.51452",
       "longitude": "13.24326",
       "url": "https://www.ticketmaster.de/event/u2-the-greatest-show-on-earth-world-tour-tickets/80770725?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1ke4-sfU",
+      "name": "U2: The Greatest Show On Earth World Tour",
+      "date": "2027-07-01",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.51452",
+      "longitude": "13.24326",
+      "url": "https://www.ticketmaster.de/event/u2-the-greatest-show-on-earth-world-tour-tickets/95871536?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kozQ4aZ",
