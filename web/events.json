@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-11-06T06:53:27.078776+00:00",
+  "updatedAt": "2026-11-06T19:27:33.258557+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z16vv8j_G7",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-11-06",
-      "time": "16:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1050719304?language=en-us"
-    },
     {
       "id": "LvZ18QOG-kisMa8Z0jeqN",
       "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
@@ -32,16 +22,6 @@
       "url": "https://www.universe.com/events/metaxy-tickets-MRN0VY?ref=ticketmaster"
     },
     {
-      "id": "Z698xZC2Z16v3bObkd",
-      "name": "UCHE YARA - BODYSCANNER Tour 2026",
-      "date": "2026-11-06",
-      "time": "20:00:00",
-      "venue": "Haus der Visionäre",
-      "latitude": "52.49606",
-      "longitude": "13.45396",
-      "url": "https://www.ticketmaster.de/event/uche-yara-bodyscanner-tour-2026-tickets/1498818183?language=en-us"
-    },
-    {
       "id": "Z698xZC2Z16vP7Ay8_",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2026-11-06",
@@ -60,16 +40,6 @@
       "latitude": "52.50738",
       "longitude": "13.37218",
       "url": "https://www.ticketmaster.de/event/roger-g-so-freunde-tickets/1977173460?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1koo7-_t",
-      "name": "Westside Cowboy",
-      "date": "2026-11-06",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.49918",
-      "longitude": "13.44514",
-      "url": "https://www.ticketmaster.de/event/westside-cowboy-tickets/451121669?language=en-us"
     },
     {
       "id": "LvZ18QxkmlR0HqZZvegeR",
@@ -1072,6 +1042,16 @@
       "url": "https://www.universe.com/events/rejazz-festival-day-3-julie-campiche-aki-takase-tickets-Q41N06?ref=ticketmaster"
     },
     {
+      "id": "LvZ18QmRUwU3mtxaaNqi5",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2026-11-21",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z1kf0vM-s",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2026-11-22",
@@ -1453,6 +1433,16 @@
     },
     {
       "id": "LvZ18QmR-p8h6qwTaT-0B",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2026-11-28",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
+    },
+    {
+      "id": "LvZ18QmRUwU3mtxaaNqiG",
       "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
       "date": "2026-11-28",
       "time": "20:30:00",
@@ -3292,6 +3282,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/728499015?language=en-us"
     },
     {
+      "id": "LvZ18QmRUwU3mtxaaNqi3",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2027-01-09",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16vj0bgPk",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-01-10",
@@ -3460,6 +3460,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1202504444?language=en-us"
+    },
+    {
+      "id": "LvZ18QmRUwU3mtxaaNqiK",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2027-01-16",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1k-_G3oE",
@@ -3662,6 +3672,16 @@
       "url": "https://www.ticketmaster.de/event/atze-schroder-lovemachine-tickets/468119776?language=en-us"
     },
     {
+      "id": "LvZ18QmRUwU3mtxaaNqif",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2027-01-23",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16vZwuvaO",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-01-24",
@@ -3842,6 +3862,16 @@
       "url": "https://www.ticketmaster.de/event/tim-peters-herzrasen-tour-2027-tickets/89272837?language=en-us"
     },
     {
+      "id": "LvZ18QmRUwU3mtxaaNqi4",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2027-01-30",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z1k7Ovzv0",
       "name": "She Wants Revenge - Europe 2027",
       "date": "2027-02-01",
@@ -3970,6 +4000,16 @@
       "latitude": "52.52601",
       "longitude": "13.39366",
       "url": "https://www.universe.com/events/the-epic-comedy-showcase-english-stand-up-comedy-in-berlin-tickets-8XCKH7?ref=ticketmaster"
+    },
+    {
+      "id": "LvZ18QmRUwU3mtxaaNqip",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2027-02-06",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1kfVCA0F",
@@ -4172,6 +4212,16 @@
       "url": "https://www.ticketmaster.de/event/martin-rutter-%7C-logen-seat-tickets/563350913?language=en-us"
     },
     {
+      "id": "LvZ18QmRUwU3mtxaaNqi9",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2027-02-13",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16v-M_z1_",
       "name": "Alex Sampson - The Nonstop Flight Tour",
       "date": "2027-02-14",
@@ -4372,6 +4422,16 @@
       "url": "https://www.ticketmaster.de/event/chase-and-status-live-world-tour-tickets/1020405428?language=en-us"
     },
     {
+      "id": "LvZ18QmRUwU3mtxaaNqib",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2027-02-20",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
+    },
+    {
       "id": "LvZ18QlVIZMoYTI4rbP-O",
       "name": "Kiez Comedy – die Mixshow, powered by Chaos Comedy Club",
       "date": "2027-02-21",
@@ -4402,6 +4462,16 @@
       "url": "https://www.ticketmaster.de/event/tanzolymp-2027-gala-tickets/124471693?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1kq_jzO_",
+      "name": "Blind Dates by EMMVEE",
+      "date": "2027-02-22",
+      "time": "19:30:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/blind-dates-by-emmvee-tickets/759738819?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kFtA_Av",
       "name": "Melrose Avenue - UK / EU Tour 2027",
       "date": "2027-02-22",
@@ -4410,6 +4480,16 @@
       "latitude": "52.48461",
       "longitude": "13.3915",
       "url": "https://www.ticketmaster.de/event/melrose-avenue-uk-eu-tour-2027-tickets/229159141?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kAxfyu3",
+      "name": "Blind Dates by EMMVEE",
+      "date": "2027-02-23",
+      "time": "19:30:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/blind-dates-by-emmvee-tickets/162539352?language=en-us"
     },
     {
       "id": "Z698xZC2Z16v337Vjb",
@@ -4550,6 +4630,16 @@
       "latitude": "52.49948",
       "longitude": "13.35416",
       "url": "https://www.ticketmaster.de/event/young-eman-the-bine-tour-tickets/1714420657?language=en-us"
+    },
+    {
+      "id": "LvZ18QmRUwU3mtxaaNqi_",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2027-02-27",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16vvyu_OS",
@@ -4710,6 +4800,16 @@
       "latitude": "52.50738",
       "longitude": "13.37218",
       "url": "https://www.ticketmaster.de/event/berlin-du-coole-sau-eine-liebeserklarung-tickets/66608298?language=en-us"
+    },
+    {
+      "id": "LvZ18QmRUwU3mtxaaNqiQ",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2027-03-06",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
     },
     {
       "id": "LvZ18QhJGwTXvK8ZV9uIZ",
@@ -5012,6 +5112,16 @@
       "url": "https://www.ticketmaster.de/event/oskar-med-k-tickets/401552087?language=en-us"
     },
     {
+      "id": "LvZ18QmRUwU3mtxaaNqih",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2027-03-13",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16vbFa8-N",
       "name": "DISNEY ON ICE - Mickys Magische Momente",
       "date": "2027-03-14",
@@ -5182,6 +5292,16 @@
       "url": "https://www.ticketmaster.de/event/james-blunt-airplane-mode-tour-%7C-box-seat-tickets/281172273?language=en-us"
     },
     {
+      "id": "LvZ18QmRUwU3mtxaaNqij",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2027-03-20",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z1kvKOF_a",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-03-21",
@@ -5342,6 +5462,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1210423883?language=en-us"
     },
     {
+      "id": "LvZ18QmRUwU3mtxaaNqiq",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2027-03-27",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16vPz-_vE",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-03-28",
@@ -5350,6 +5480,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1978859067?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kGOevZ3",
+      "name": "Sonu Nigum | Box seat in the Ticketmaster Suite",
+      "date": "2027-03-28",
+      "time": "19:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/sonu-nigum-%7C-box-seat-in-the-ticketmaster-suite-tickets/320081012?language=en-us"
     },
     {
       "id": "Z698xZC2Z1koz44oS",
@@ -5542,6 +5682,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1184046266?language=en-us"
     },
     {
+      "id": "LvZ18QmRUwU3mtxaaNqir",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2027-04-03",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16vGz-toF",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-04-04",
@@ -5672,6 +5822,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/188959746?language=en-us"
     },
     {
+      "id": "LvZ18QmRUwU3mtxaaNqiL",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2027-04-10",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z1kq4qY7k",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-04-11",
@@ -5730,6 +5890,16 @@
       "latitude": "52.52076",
       "longitude": "13.38837",
       "url": "https://www.ticketmaster.de/event/dudes-live-tour-27-tickets/1211794759?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k_sJ386",
+      "name": "IDER - Looking Gorgeous, Expecting Everything Tour",
+      "date": "2027-04-14",
+      "time": "20:00:00",
+      "venue": "Columbia Theater",
+      "latitude": "52.48461",
+      "longitude": "13.3915",
+      "url": "https://www.ticketmaster.de/event/ider-looking-gorgeous-expecting-everything-tour-tickets/671992407?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vAZ-a1d",
@@ -5830,6 +6000,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1586659997?language=en-us"
+    },
+    {
+      "id": "LvZ18QmRUwU3mtxaaNqiO",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2027-04-17",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16v-baea8",
@@ -6072,6 +6252,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1070420810?language=en-us"
     },
     {
+      "id": "LvZ18QmRUwU3mtxaaNqi-",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2027-04-24",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z1kjE0ZJf",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-04-25",
@@ -6200,6 +6390,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/590124123?language=en-us"
+    },
+    {
+      "id": "LvZ18QmRUwU3mtxaaNqix",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2027-05-01",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1kAOqz17",
@@ -6360,6 +6560,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/torsten-strater-%7C-logen-seat-tickets/255299214?language=en-us"
+    },
+    {
+      "id": "LvZ18QmRUwU3mtxaaNqiN",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2027-05-08",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1kjpkFf6",
@@ -6560,6 +6770,16 @@
       "latitude": "52.50738",
       "longitude": "13.37218",
       "url": "https://www.ticketmaster.de/event/berlin-du-coole-sau-eine-liebeserklarung-tickets/1701714640?language=en-us"
+    },
+    {
+      "id": "LvZ18QmRUwU3mtxaaNqi0",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2027-05-15",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1kJbb6qF",
@@ -6792,6 +7012,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/44020076?language=en-us"
     },
     {
+      "id": "LvZ18QmRUwU3mtxaaNqiP",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2027-05-22",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z1kq7oS1e",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-05-23",
@@ -6900,6 +7130,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1082843585?language=en-us"
+    },
+    {
+      "id": "LvZ18QmRUwU3mtxaaNqiJ",
+      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
+      "date": "2027-05-29",
+      "time": "20:30:00",
+      "venue": "Märchenhütte",
+      "latitude": "52.52291",
+      "longitude": "13.39468",
+      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1kj04dFY",
@@ -8052,6 +8292,16 @@
       "url": "https://www.universe.com/events/brews-cruise-vol-6-closing-cruise-tickets-RKWPDT?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z1kjUopva",
+      "name": "Midnight Generation - Rooted Tour 2027",
+      "date": "2027-09-06",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.49955",
+      "longitude": "13.35052",
+      "url": "https://www.ticketmaster.de/event/midnight-generation-rooted-tour-2027-tickets/736456049?language=en-us"
+    },
+    {
       "id": "LvZ18QQhChDQOWZZ0LDnp",
       "name": "Udo-Lindenberg-Fantour Berlin",
       "date": "2027-09-11",
@@ -8460,6 +8710,26 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/till-reiners-das-ist-alles-teil-der-arena-show-%7C-logen-seat-tickets/614021175?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vP4uZOa",
+      "name": "Let´s Dance | Box seat in the Ticketmaster Suite",
+      "date": "2027-11-10",
+      "time": "19:30:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/lets-dance-%7C-box-seat-in-the-ticketmaster-suite-tickets/1955340809?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vuF1v3a",
+      "name": "Let´s Dance | Box seat in the Ticketmaster Suite",
+      "date": "2027-11-11",
+      "time": "19:30:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/lets-dance-%7C-box-seat-in-the-ticketmaster-suite-tickets/1348281489?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kx9bK7y",
