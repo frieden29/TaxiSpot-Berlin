@@ -1,66 +1,6 @@
 {
-  "updatedAt": "2026-11-06T19:27:33.258557+00:00",
+  "updatedAt": "2026-11-07T06:03:42.106697+00:00",
   "events": [
-    {
-      "id": "LvZ18QOG-kisMa8Z0jeqN",
-      "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
-      "date": "2026-11-06",
-      "time": "19:00:00",
-      "venue": "Cosmic Comedy Club",
-      "latitude": "52.53041",
-      "longitude": "13.4102",
-      "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-SRMC9L?ref=ticketmaster"
-    },
-    {
-      "id": "LvZ18QEUl23MLK5hFXmVt",
-      "name": "Metaxy",
-      "date": "2026-11-06",
-      "time": "20:00:00",
-      "venue": "Atelier Gardens",
-      "latitude": "52.46454",
-      "longitude": "13.40864",
-      "url": "https://www.universe.com/events/metaxy-tickets-MRN0VY?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16vP7Ay8_",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-11-06",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1944179419?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vPMASoO",
-      "name": "Roger G. - So Freunde!",
-      "date": "2026-11-06",
-      "time": "20:00:00",
-      "venue": "PUNCH L!NE Club Berlin",
-      "latitude": "52.50738",
-      "longitude": "13.37218",
-      "url": "https://www.ticketmaster.de/event/roger-g-so-freunde-tickets/1977173460?language=en-us"
-    },
-    {
-      "id": "LvZ18QxkmlR0HqZZvegeR",
-      "name": "The Epic Comedy Showcase — English Stand-up Comedy in Berlin",
-      "date": "2026-11-06",
-      "time": "20:30:00",
-      "venue": "Zosch",
-      "latitude": "52.52601",
-      "longitude": "13.39366",
-      "url": "https://www.universe.com/events/the-epic-comedy-showcase-english-stand-up-comedy-in-berlin-tickets-8XCKH7?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z1kAZoKuV",
-      "name": "TRIBE CLUB SERIES  Funk Tribu, Supergloss, Linds, Tom Carroll & Karish",
-      "date": "2026-11-06",
-      "time": "23:00:00",
-      "venue": "RSO.BERLIN",
-      "latitude": "52.46054",
-      "longitude": "13.50445",
-      "url": "https://www.ticketmaster.de/event/tribe-club-series-funk-tribu-supergloss-linds-tom-carroll--karish-tickets/140453374?language=en-us"
-    },
     {
       "id": "Z698xZC2Z16voZAejK",
       "name": "Cirque du Soleil ALIZÉ",
