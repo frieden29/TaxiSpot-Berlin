@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T06:41:39.463016+00:00",
+  "updatedAt": "2026-11-09T22:25:17.128195+00:00",
   "events": [
     {
       "id": "LvZ18QLFQhseijZZvsRmS",
@@ -10,26 +10,6 @@
       "latitude": "52.49017",
       "longitude": "13.42611",
       "url": "https://www.universe.com/events/wir-arbeiten-dran-stand-up-comedy-berlin-tickets-LF359S?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16v0bAyC8",
-      "name": "Isaiah Falls - LVRS PARADISE SIDE B TOUR",
-      "date": "2026-11-09",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.50032",
-      "longitude": "13.43648",
-      "url": "https://www.ticketmaster.de/event/isaiah-falls-lvrs-paradise-side-b-tour-tickets/1918179390?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vP9k4G0",
-      "name": "Montell Fish - The Nest Tour",
-      "date": "2026-11-09",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.49955",
-      "longitude": "13.35052",
-      "url": "https://www.ticketmaster.de/event/montell-fish-the-nest-tour-tickets/1957195324?language=en-us"
     },
     {
       "id": "Z698xZC2Z16v0KGP_v",
@@ -3812,6 +3792,16 @@
       "url": "https://www.universe.com/events/the-epic-comedy-showcase-english-stand-up-comedy-in-berlin-tickets-8XCKH7?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z16v8J0e4Y",
+      "name": "Sophia Stel",
+      "date": "2027-02-06",
+      "time": "20:00:00",
+      "venue": "silent green",
+      "latitude": "52.54511",
+      "longitude": "13.36666",
+      "url": "https://www.ticketmaster.de/event/sophia-stel-tickets/1426902570?language=en-us"
+    },
+    {
       "id": "LvZ18QmRUwU3mtxaaNqip",
       "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
       "date": "2027-02-06",
@@ -3960,6 +3950,16 @@
       "latitude": "52.50152",
       "longitude": "13.38175",
       "url": "https://www.ticketmaster.de/event/role-model-presents-chuck-on-tour-tickets/1729904609?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kJ3CKos",
+      "name": "Yungpalo - THE NEON TOUR",
+      "date": "2027-02-11",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.51177",
+      "longitude": "13.42638",
+      "url": "https://www.ticketmaster.de/event/yungpalo-the-neon-tour-tickets/992393471?language=en-us"
     },
     {
       "id": "LvZ18QmE3RXtzBZKBLu-2",
@@ -4682,6 +4682,16 @@
       "url": "https://www.ticketmaster.de/event/tiny-habits-keepers-tour-tickets/1438733950?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16voPx9Po",
+      "name": "Basht. - Poor Advice Tour",
+      "date": "2027-03-09",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.50032",
+      "longitude": "13.43648",
+      "url": "https://www.ticketmaster.de/event/basht-poor-advice-tour-tickets/1465897951?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kjfFV17",
       "name": "Delta Goodrem - PURE World Tour",
       "date": "2027-03-09",
@@ -4820,6 +4830,16 @@
       "latitude": "52.46438",
       "longitude": "13.43338",
       "url": "https://www.ticketmaster.de/event/chanpan-autogratis-world-tour-tickets/1505590905?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vjf_AvU",
+      "name": "Xavier Naidoo - Live 2027 | Box seat in the Ticketmaster Suite",
+      "date": "2027-03-12",
+      "time": "20:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/xavier-naidoo-live-2027-%7C-box-seat-in-the-ticketmaster-suite-tickets/1714645076?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kvxAk03",
@@ -5050,6 +5070,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/816221839?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vj_8xux",
+      "name": "George FitzGerald - LIVE SPRING 2027",
+      "date": "2027-03-19",
+      "time": "20:00:00",
+      "venue": "Sonnenraum",
+      "latitude": "52.49606",
+      "longitude": "13.45396",
+      "url": "https://www.ticketmaster.de/event/george-fitzgerald-live-spring-2027-tickets/1719422362?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vkepdkb",
@@ -7130,6 +7160,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1870207260?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vaSGZ49",
+      "name": "Fall Out Boy: Twilight of the Punks",
+      "date": "2027-06-12",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.54005",
+      "longitude": "13.21244",
+      "url": "https://www.ticketmaster.de/event/fall-out-boy-twilight-of-the-punks-tickets/1273300557?language=en-us"
     },
     {
       "id": "Z698xZC2Z1AgOdr8",
