@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-11-10T07:24:26.380065+00:00",
+  "updatedAt": "2026-11-10T19:46:49.255130+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z16v0KGP_v",
-      "name": "Bogdan Lisevsky | Berlin",
-      "date": "2026-11-10",
-      "time": "19:00:00",
-      "venue": "PUNCH L!NE Club Berlin",
-      "latitude": "52.50738",
-      "longitude": "13.37218",
-      "url": "https://www.ticketmaster.de/event/bogdan-lisevsky-%7C-berlin-tickets/1913325641?language=en-us"
-    },
     {
       "id": "LvZ18QxiaY5gHC8ZvDxHu",
       "name": "Lachkater Die Stand Up Comedy Show",
@@ -20,26 +10,6 @@
       "latitude": "52.54291",
       "longitude": "13.42071",
       "url": "https://www.universe.com/events/lachkater-die-stand-up-comedy-show-tickets-0DY124?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16vZJkAkp",
-      "name": "Sons of Legion - Soul to SØL World Tour 2026",
-      "date": "2026-11-10",
-      "time": "20:00:00",
-      "venue": "Columbia Theater",
-      "latitude": "52.48461",
-      "longitude": "13.3915",
-      "url": "https://www.ticketmaster.de/event/sons-of-legion-soul-to-sl-world-tour-2026-tickets/1026185196?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1koEjNPz",
-      "name": "Worldpeace DMT",
-      "date": "2026-11-10",
-      "time": "20:00:00",
-      "venue": "LARK",
-      "latitude": "52.51314",
-      "longitude": "13.4228",
-      "url": "https://www.ticketmaster.de/event/worldpeace-dmt-tickets/467723978?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vC64Fv7",
@@ -122,6 +92,16 @@
       "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-XGH2C8?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z16v_N-e17",
+      "name": "Kelsey Lu - So Help Me God Tour",
+      "date": "2026-11-12",
+      "time": "19:45:00",
+      "venue": null,
+      "latitude": "52.51177",
+      "longitude": "13.42638",
+      "url": "https://www.ticketmaster.de/event/kelsey-lu-so-help-me-god-tour-tickets/1663842284?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vGA8V8x",
       "name": "Mammoth",
       "date": "2026-11-12",
@@ -130,16 +110,6 @@
       "latitude": "52.49955",
       "longitude": "13.35052",
       "url": "https://www.ticketmaster.de/event/mammoth-tickets/1305434422?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16v_N-e17",
-      "name": "Kelsey Lu - So Help Me God Tour",
-      "date": "2026-11-12",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.51177",
-      "longitude": "13.42638",
-      "url": "https://www.ticketmaster.de/event/kelsey-lu-so-help-me-god-tour-tickets/1663842284?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vodv_Ad",
@@ -1010,6 +980,16 @@
       "latitude": "52.53117",
       "longitude": "13.45067",
       "url": "https://www.ticketmaster.de/event/bryson-tiller-presents-the-neo-trapsoul-tour-tickets/383163474?language=en-us"
+    },
+    {
+      "id": "LvZ18Qc9XRMvjFWfNNQZZ",
+      "name": "Schenke Berlin Dein Licht - Lampen-Patenschaft schenken",
+      "date": "2026-11-26",
+      "time": "18:00:00",
+      "venue": "Breitscheidplatz Berlin",
+      "latitude": "52.50489",
+      "longitude": "13.33628",
+      "url": "https://www.universe.com/events/schenke-berlin-dein-licht-lampen-patenschaft-schenken-tickets-NVP2L3?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16vuJuYjV",
@@ -4102,6 +4082,16 @@
       "url": "https://www.ticketmaster.de/event/masego-fix-your-face-tour-tickets/1915998245?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16v09qk0a",
+      "name": "Katie Gregson-MacLeod - THE ALBATROSS TOUR",
+      "date": "2027-02-17",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.50032",
+      "longitude": "13.43648",
+      "url": "https://www.ticketmaster.de/event/katie-gregson-macleod-the-albatross-tour-tickets/1917746909?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16eeoJp1v",
       "name": "JOHN SUMMIT – EUROPE CTRL ESCAPE TOUR",
       "date": "2027-02-18",
@@ -5062,16 +5052,6 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/816221839?language=en-us"
     },
     {
-      "id": "Z698xZC2Z16vj_8xux",
-      "name": "George FitzGerald - LIVE SPRING 2027",
-      "date": "2027-03-19",
-      "time": "20:00:00",
-      "venue": "Sonnenraum",
-      "latitude": "52.49606",
-      "longitude": "13.45396",
-      "url": "https://www.ticketmaster.de/event/george-fitzgerald-live-spring-2027-tickets/1719422362?language=en-us"
-    },
-    {
       "id": "Z698xZC2Z16vkepdkb",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-03-19",
@@ -5090,6 +5070,16 @@
       "latitude": "52.52601",
       "longitude": "13.39366",
       "url": "https://www.universe.com/events/the-epic-comedy-showcase-english-stand-up-comedy-in-berlin-tickets-8XCKH7?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16vj_8xux",
+      "name": "George FitzGerald - LIVE SPRING 2027",
+      "date": "2027-03-19",
+      "time": "21:00:00",
+      "venue": "Sonnenraum",
+      "latitude": "52.49606",
+      "longitude": "13.45396",
+      "url": "https://www.ticketmaster.de/event/george-fitzgerald-live-spring-2027-tickets/1719422362?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vk7C8A_",
@@ -6562,6 +6552,16 @@
       "url": "https://www.ticketmaster.de/event/berlin-du-coole-sau-eine-liebeserklarung-tickets/237306770?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1koIF7qY",
+      "name": "Baby Bugs - Europe Tour 2027",
+      "date": "2027-05-14",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.50833",
+      "longitude": "13.45493",
+      "url": "https://www.ticketmaster.de/event/baby-bugs-europe-tour-2027-tickets/468204770?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kowaAON",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-05-14",
@@ -7475,7 +7475,7 @@
       "id": "Z698xZC2Z16vGkooP-",
       "name": "Noah Kahan: The Last Of The Bugs World Tour",
       "date": "2027-07-02",
-      "time": "19:00:00",
+      "time": "17:00:00",
       "venue": "Waldbühne",
       "latitude": "52.51318",
       "longitude": "13.22987",
