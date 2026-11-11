@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-11-11T06:31:22.166402+00:00",
+  "updatedAt": "2026-11-11T19:38:56.176141+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z16vC64Fv7",
-      "name": "Bloc Party & Interpol",
-      "date": "2026-11-11",
-      "time": "19:15:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/bloc-party--interpol-tickets/1387548044?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kj48bZb",
-      "name": "Bloc Party & Interpol | Box seat in the Ticketmaster Suite",
-      "date": "2026-11-11",
-      "time": "19:15:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/bloc-party--interpol-%7C-box-seat-in-the-ticketmaster-suite-tickets/715418018?language=en-us"
-    },
     {
       "id": "LvZ18QxkY2DCiXZZvGjx-",
       "name": "Saying the Wrong Thing — English Stand-up Comedy in Berlin",
@@ -32,16 +12,6 @@
       "url": "https://www.universe.com/events/saying-the-wrong-thing-english-stand-up-comedy-in-berlin-tickets-Z3TKFP?ref=ticketmaster"
     },
     {
-      "id": "Z698xZC2Z16v1o7E7F",
-      "name": "Nick Hakim - I Can See Live: In Concert",
-      "date": "2026-11-11",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.4959",
-      "longitude": "13.38858",
-      "url": "https://www.ticketmaster.de/event/nick-hakim-i-can-see-live-in-concert-tickets/1291127108?language=en-us"
-    },
-    {
       "id": "Z698xZC2Z16vOYasjy",
       "name": "KILIMANJARO",
       "date": "2026-11-11",
@@ -50,16 +20,6 @@
       "latitude": "52.51314",
       "longitude": "13.4228",
       "url": "https://www.ticketmaster.de/event/kilimanjaro-tickets/1830271739?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kAEG0qI",
-      "name": "SON MIEUX - 24 Hours - EU Album Tour",
-      "date": "2026-11-11",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.46438",
-      "longitude": "13.43338",
-      "url": "https://www.ticketmaster.de/event/son-mieux-24-hours-eu-album-tour-tickets/167324768?language=en-us"
     },
     {
       "id": "Z698xZC2Z16v7wa-Pb",
@@ -3362,6 +3322,26 @@
       "url": "https://www.universe.com/events/the-epic-comedy-showcase-english-stand-up-comedy-in-berlin-tickets-8XCKH7?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z16vaaGKbe",
+      "name": "Pro Climbing League - Group",
+      "date": "2027-01-23",
+      "time": "14:00:00",
+      "venue": null,
+      "latitude": "52.54634",
+      "longitude": "13.40574",
+      "url": "https://www.ticketmaster.de/event/pro-climbing-league-group-tickets/1249313602?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kaF78ZP",
+      "name": "Pro Climbing League - Day Pass",
+      "date": "2027-01-23",
+      "time": "14:00:00",
+      "venue": null,
+      "latitude": "52.54634",
+      "longitude": "13.40574",
+      "url": "https://www.ticketmaster.de/event/pro-climbing-league-day-pass-tickets/248110025?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kvopdQ7",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-01-23",
@@ -3370,6 +3350,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/51583684?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v0M4JPy",
+      "name": "Pro Climbing League - Finals",
+      "date": "2027-01-23",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.54634",
+      "longitude": "13.40574",
+      "url": "https://www.ticketmaster.de/event/pro-climbing-league-finals-tickets/1937566979?language=en-us"
     },
     {
       "id": "LvZ18QmEuVUOArLH40kpY",
@@ -4472,6 +4462,16 @@
       "url": "https://www.universe.com/events/saying-the-wrong-thing-english-stand-up-comedy-in-berlin-tickets-Z3TKFP?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z16v0tx4o7",
+      "name": "ciarán",
+      "date": "2027-03-03",
+      "time": "20:00:00",
+      "venue": "Kantine am Berghain",
+      "latitude": "52.51098",
+      "longitude": "13.44159",
+      "url": "https://www.ticketmaster.de/event/ciaran-tickets/1929895444?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1k-_o3od",
       "name": "HAZEL BRUGGER - Good Evening Europe | Box seat",
       "date": "2027-03-03",
@@ -5520,6 +5520,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/299565868?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k13P7r9",
+      "name": "RIP Magic",
+      "date": "2027-04-05",
+      "time": "20:00:00",
+      "venue": "Kantine am Berghain",
+      "latitude": "52.51098",
+      "longitude": "13.44159",
+      "url": "https://www.ticketmaster.de/event/rip-magic-tickets/292944797?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kFYOUO6",
@@ -8440,6 +8450,16 @@
       "latitude": "52.52076",
       "longitude": "13.38837",
       "url": "https://www.ticketmaster.de/event/brit-floyd-animals-50-tickets/1976432793?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1ku-apb3",
+      "name": "Luke Kidgell - Live in Europe",
+      "date": "2027-10-23",
+      "time": "19:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/luke-kidgell-live-in-europe-tickets/361256612?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vu_oxoy",
