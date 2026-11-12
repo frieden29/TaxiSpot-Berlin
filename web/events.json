@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-11-12T07:16:26.255811+00:00",
+  "updatedAt": "2026-11-12T19:58:32.600553+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z16v7wa-Pb",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-11-12",
-      "time": "18:30:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1132261958?language=en-us"
-    },
     {
       "id": "LvZ18QOU3lCZ9XYZzy6cG",
       "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
@@ -30,46 +20,6 @@
       "latitude": "52.51177",
       "longitude": "13.42638",
       "url": "https://www.ticketmaster.de/event/kelsey-lu-so-help-me-god-tour-tickets/1663842284?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vGA8V8x",
-      "name": "Mammoth",
-      "date": "2026-11-12",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.49955",
-      "longitude": "13.35052",
-      "url": "https://www.ticketmaster.de/event/mammoth-tickets/1305434422?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vodv_Ad",
-      "name": "heylucas",
-      "date": "2026-11-12",
-      "time": "20:00:00",
-      "venue": "Mikropol",
-      "latitude": "52.49948",
-      "longitude": "13.35416",
-      "url": "https://www.ticketmaster.de/event/heylucas-tickets/1443059143?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vvUf7rd",
-      "name": "Overmono - Pure Devotion - World Tour",
-      "date": "2026-11-12",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.48684",
-      "longitude": "13.42145",
-      "url": "https://www.ticketmaster.de/event/overmono-pure-devotion-world-tour-tickets/1076504783?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kbAPS44",
-      "name": "Ash - 1977 30th Anniversary Tour",
-      "date": "2026-11-12",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.46438",
-      "longitude": "13.43338",
-      "url": "https://www.ticketmaster.de/event/ash-1977-30th-anniversary-tour-tickets/605973555?language=en-us"
     },
     {
       "id": "Z698xZC2Z16eva0Y3A",
@@ -660,6 +610,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1874200950?language=en-us"
+    },
+    {
+      "id": "LvZ18QRp2Z8UPHn4Llhi-",
+      "name": "Moritz Hohl - Musst du wissen",
+      "date": "2026-11-21",
+      "time": "17:00:00",
+      "venue": "Tempodrom Kleine Arena",
+      "latitude": "52.50152",
+      "longitude": "13.38175",
+      "url": "https://www.universe.com/events/moritz-hohl-musst-du-wissen-tickets-248CKZ?ref=ticketmaster"
     },
     {
       "id": "LvZ18Q0f7U9dfm_9akdCb",
@@ -3982,6 +3942,26 @@
       "url": "https://www.ticketmaster.de/event/cristina-mariani-live-tickets/1988259589?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vO-8ejo",
+      "name": "David Bowie \"Stage\" | Box seat in the Ticketmaster Suite",
+      "date": "2027-02-14",
+      "time": "20:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/david-bowie-stage-%7C-box-seat-in-the-ticketmaster-suite-tickets/1821402711?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v4A78at",
+      "name": "David Bowie \"Stage\" | Box seat in the Ticketmaster Suite",
+      "date": "2027-02-15",
+      "time": "20:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/david-bowie-stage-%7C-box-seat-in-the-ticketmaster-suite-tickets/1545110269?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vQoa9uA",
       "name": "BINA. - Soft Rage Society",
       "date": "2027-02-15",
@@ -4140,6 +4120,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/90s-super-show-%7C-box-seat-in-the-ticketmaster-suite-tickets/210563857?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16eZpAUok",
+      "name": "Satin Jackets",
+      "date": "2027-02-20",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.46438",
+      "longitude": "13.43338",
+      "url": "https://www.ticketmaster.de/event/satin-jackets-tickets/2016176446?language=en-us"
     },
     {
       "id": "Z698xZC2Z16v0_uK-a",
@@ -4352,6 +4342,16 @@
       "url": "https://www.universe.com/events/the-epic-comedy-showcase-english-stand-up-comedy-in-berlin-tickets-8XCKH7?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z16v0Y0Ioy",
+      "name": "Monster Jam | Box seat in the Ticketmaster Suite",
+      "date": "2027-02-27",
+      "time": "13:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/monster-jam-%7C-box-seat-in-the-ticketmaster-suite-tickets/1930928479?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kOF8y1_",
       "name": "MONSTER JAM",
       "date": "2027-02-27",
@@ -4360,6 +4360,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/monster-jam-tickets/808439299?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vOxA98K",
+      "name": "Monster Jam | Box seat in the Ticketmaster Suite",
+      "date": "2027-02-27",
+      "time": "19:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/monster-jam-%7C-box-seat-in-the-ticketmaster-suite-tickets/1822157413?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kGJf81p",
@@ -4390,6 +4400,16 @@
       "latitude": "52.52291",
       "longitude": "13.39468",
       "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16vFbZvQ8",
+      "name": "Monster Jam | Box seat in the Ticketmaster Suite",
+      "date": "2027-02-28",
+      "time": "13:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/monster-jam-%7C-box-seat-in-the-ticketmaster-suite-tickets/1218001690?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vvyu_OS",
@@ -5722,6 +5742,16 @@
       "url": "https://www.ticketmaster.de/event/chris-norman--band-lifelines-tour-%7C-box-seat-tickets/1050270233?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1kuNP0ba",
+      "name": "Aladdin Jameel: Imposter Tour",
+      "date": "2027-04-15",
+      "time": "20:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/aladdin-jameel-imposter-tour-tickets/363964609?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1koz7YQ7",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-04-16",
@@ -6950,6 +6980,16 @@
       "latitude": "52.52291",
       "longitude": "13.39468",
       "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z1kb-fUaM",
+      "name": "EHRLICH BROTHERS – WONDERWORLD - AUFBRUCH INS UNMÖGLICHE | Box seat",
+      "date": "2027-05-30",
+      "time": "11:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/ehrlich-brothers--wonderworld-aufbruch-ins-unmogliche-%7C-box-seat-tickets/621536277?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kj04dFY",
@@ -8350,6 +8390,16 @@
       "latitude": "52.52597",
       "longitude": "13.36805",
       "url": "https://www.universe.com/events/depeche-mode-fantour-berlin-tickets-2CJ4V1?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16vZIuMPK",
+      "name": "JEAN-MICHEL JARRE - OXYGENE & BEYOND TOUR | Box seat",
+      "date": "2027-10-02",
+      "time": "20:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/jean-michel-jarre-oxygene--beyond-tour-%7C-box-seat-tickets/1028377953?language=en-us"
     },
     {
       "id": "LvZ18Qthi4E0EGk8RFu0a",
