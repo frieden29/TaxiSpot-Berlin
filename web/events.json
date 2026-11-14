@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-11-14T06:30:59.922917+00:00",
+  "updatedAt": "2026-11-14T18:09:41.370104+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z16evzfPOA",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-11-14",
-      "time": "16:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2078525805?language=en-us"
-    },
     {
       "id": "LvZ18QOGxBjsMa8vqjej6",
       "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
@@ -20,26 +10,6 @@
       "latitude": "52.53041",
       "longitude": "13.4102",
       "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-JGL5C3?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16v33kZJa",
-      "name": "KoRn - EURO TOUR 2026 | Logen-Seat",
-      "date": "2026-11-14",
-      "time": "19:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/korn-euro-tour-2026-%7C-logen-seat-tickets/1492180989?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kf9pbPS",
-      "name": "KoRn - EURO TOUR 2026 | Premium Packages",
-      "date": "2026-11-14",
-      "time": "19:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/korn-euro-tour-2026-%7C-premium-packages-tickets/517598973?language=en-us"
     },
     {
       "id": "LvZ18Q34E1_wFqZZvlNAr",
