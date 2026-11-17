@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T07:59:01.045287+00:00",
+  "updatedAt": "2026-11-17T20:59:02.633501+00:00",
   "events": [
     {
       "id": "LvZ18QxiaY5gHC8ZvDxHC",
@@ -10,36 +10,6 @@
       "latitude": "52.54291",
       "longitude": "13.42071",
       "url": "https://www.universe.com/events/lachkater-die-stand-up-comedy-show-tickets-0DY124?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16v0_8yjU",
-      "name": "Swae Lee - Same Difference Tour Europe",
-      "date": "2026-11-17",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.50814",
-      "longitude": "13.45181",
-      "url": "https://www.ticketmaster.de/event/swae-lee-same-difference-tour-europe-tickets/1919439736?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16v4fG4uE",
-      "name": "Hatsune Miku - MIKU EXPO 2026 EUROPE",
-      "date": "2026-11-17",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.53117",
-      "longitude": "13.45067",
-      "url": "https://www.ticketmaster.de/event/hatsune-miku-miku-expo-2026-europe-tickets/1554315367?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1AoAJow",
-      "name": "Violent Vira",
-      "date": "2026-11-17",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.50763",
-      "longitude": "13.45436",
-      "url": "https://www.ticketmaster.de/event/violent-vira-tickets/11166472?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vk9jp-3",
@@ -230,6 +200,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/eisbaren-berlin-erc-ingolstadt-%7C-box-seat-tickets/1402178811?language=en-us"
+    },
+    {
+      "id": "LvZ18QRsNPPRVO5Bl_Abz",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2026-11-20",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16v-KZE4U",
@@ -650,6 +630,16 @@
       "latitude": "52.53041",
       "longitude": "13.4102",
       "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-619BHS?ref=ticketmaster"
+    },
+    {
+      "id": "LvZ18QRsNPPRVO5Bl_Aby",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2026-11-27",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16v-gvSAY",
@@ -1172,6 +1162,16 @@
       "url": "https://www.ticketmaster.de/event/sdp--the-capital-dance-orchestra-%7C-box-seat-in-the-ticketmaster-suite-tickets/140301815?language=en-us"
     },
     {
+      "id": "LvZ18QRsNPPRVO5Bl_AbB",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2026-12-04",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
+    },
+    {
       "id": "LvZ18QqSwXaB5gZv1oeb4",
       "name": "Ariana Baborie - Toll die Energie!",
       "date": "2026-12-04",
@@ -1582,6 +1582,16 @@
       "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-2HFD6Z?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z1kObazGw",
+      "name": "Phoebe Bridgers - The Lost Tour | Box seat",
+      "date": "2026-12-10",
+      "time": "20:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/phoebe-bridgers-the-lost-tour-%7C-box-seat-tickets/818278332?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kk4vd_0",
       "name": "Murda - UZAY TOUR",
       "date": "2026-12-10",
@@ -1630,6 +1640,16 @@
       "latitude": "52.50654",
       "longitude": "13.46255",
       "url": "https://www.universe.com/events/tanz-dich-glucklich-friday-night-edition-in-berlin-tickets-BMVFSX?ref=ticketmaster"
+    },
+    {
+      "id": "LvZ18QRsNPPRVO5Bl_AbD",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2026-12-11",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16vOw-I-K",
@@ -1912,6 +1932,16 @@
       "url": "https://www.ticketmaster.de/event/eisbaren-berlin-nurnberg-icetigers-%7C-box-seat-tickets/1893380034?language=en-us"
     },
     {
+      "id": "LvZ18QRsNPPRVO5Bl_AbH",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2026-12-18",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16v-sjfGw",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2026-12-18",
@@ -2192,6 +2222,16 @@
       "url": "https://www.ticketmaster.de/event/die-weihnachtsbackerei-tickets/128510398?language=en-us"
     },
     {
+      "id": "LvZ18QRsNPPRVO5Bl_AbW",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2026-12-25",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16v49eaFU",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2026-12-25",
@@ -2412,6 +2452,16 @@
       "url": "https://www.ticketmaster.de/event/kanii-tickets/859603200?language=en-us"
     },
     {
+      "id": "LvZ18QRsNPPRVO5Bl_AbX",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-01-01",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16vx_q48w",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-01-02",
@@ -2570,6 +2620,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/eisbaren-berlin-schwenninger-wild-wings-%7C-box-seat-tickets/260687933?language=en-us"
+    },
+    {
+      "id": "LvZ18QRsNPPRVO5Bl_AbT",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-01-08",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16vFb_f4N",
@@ -2752,6 +2812,16 @@
       "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-WS4QN7?ref=ticketmaster"
     },
     {
+      "id": "LvZ18QRsNPPRVO5Bl_A_Z",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-01-15",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16vO8eeC6",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-01-15",
@@ -2872,6 +2942,16 @@
       "url": "https://www.ticketmaster.de/event/dan--phil-hard-launch-world-tour-tickets/1071451353?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vjkqNOb",
+      "name": "Cirque du Soleil ALIZÉ",
+      "date": "2027-01-19",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.5076",
+      "longitude": "13.37386",
+      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1706763818?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vGgAoqO",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-01-20",
@@ -2940,6 +3020,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/eisbaren-berlin-straubing-tigers-%7C-box-seat-tickets/568195273?language=en-us"
+    },
+    {
+      "id": "LvZ18QRsNPPRVO5Bl_A_v",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-01-22",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16v_Zpd8E",
@@ -3212,6 +3302,16 @@
       "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-1BZT7V?ref=ticketmaster"
     },
     {
+      "id": "LvZ18QRsNPPRVO5Bl_A_e",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-01-29",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
+    },
+    {
       "id": "LvZ18QxkmlR0HqZZvegeD",
       "name": "The Epic Comedy Showcase — English Stand-up Comedy in Berlin",
       "date": "2027-01-29",
@@ -3370,6 +3470,16 @@
       "latitude": "52.53041",
       "longitude": "13.4102",
       "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-3WR48Z?ref=ticketmaster"
+    },
+    {
+      "id": "LvZ18QRsNPPRVO5Bl_A_d",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-02-05",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16vZgF9jZ",
@@ -3570,6 +3680,16 @@
       "latitude": "52.53041",
       "longitude": "13.4102",
       "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-7WGBJT?ref=ticketmaster"
+    },
+    {
+      "id": "LvZ18QRsNPPRVO5Bl_A_7",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-02-12",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16eZ9ZVx8",
@@ -3790,6 +3910,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/eisbaren-berlin-fischtown-pinguins-%7C-box-seat-tickets/1438369994?language=en-us"
+    },
+    {
+      "id": "LvZ18QRsNPPRVO5Bl_A_A",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-02-19",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16vbyrKJa",
@@ -4022,6 +4152,16 @@
       "url": "https://www.universe.com/events/herz-uber-kopf-tourdates-2027-tickets-YF7X6L?ref=ticketmaster"
     },
     {
+      "id": "LvZ18QRsNPPRVO5Bl_A_k",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-02-26",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z1A4G8G4",
       "name": "Hot Chip - A Long Way From Kansas",
       "date": "2027-02-26",
@@ -4222,6 +4362,16 @@
       "url": "https://www.ticketmaster.de/event/berlin-du-coole-sau-eine-liebeserklarung-tickets/380902328?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1kqdf6ok",
+      "name": "Sasha Keable - Act Right Tour",
+      "date": "2027-03-04",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.49955",
+      "longitude": "13.35052",
+      "url": "https://www.ticketmaster.de/event/sasha-keable-act-right-tour-tickets/743507446?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kxvqg03",
       "name": "ENHYPEN | Box seat in the Ticketmaster Suite",
       "date": "2027-03-05",
@@ -4230,6 +4380,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/enhypen-%7C-box-seat-in-the-ticketmaster-suite-tickets/881775912?language=en-us"
+    },
+    {
+      "id": "LvZ18QRsNPPRVO5Bl_A_6",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-03-05",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1k-fuZ_9",
@@ -4260,6 +4420,16 @@
       "latitude": "52.52601",
       "longitude": "13.39366",
       "url": "https://www.universe.com/events/the-epic-comedy-showcase-english-stand-up-comedy-in-berlin-tickets-8XCKH7?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z1kawOgoz",
+      "name": "C2C: Daytime Ticket Sidestages Saturday",
+      "date": "2027-03-06",
+      "time": "10:00:00",
+      "venue": " C2C Daytime Sidestages",
+      "latitude": "52.50551",
+      "longitude": "13.44317",
+      "url": "https://www.ticketmaster.de/event/c2c-daytime-ticket-sidestages-saturday-tickets/272835478?language=en-us"
     },
     {
       "id": "Z698xZC2Z1k-7bEqV",
@@ -4330,6 +4500,16 @@
       "latitude": "52.50512",
       "longitude": "13.44341",
       "url": "https://www.ticketmaster.de/event/c2c-country-to-country-saturday-tickets/1408607556?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k76PPf3",
+      "name": "C2C: Daytime Ticket Sidestages Sunday",
+      "date": "2027-03-07",
+      "time": "10:00:00",
+      "venue": " C2C Daytime Sidestages",
+      "latitude": "52.50551",
+      "longitude": "13.44317",
+      "url": "https://www.ticketmaster.de/event/c2c-daytime-ticket-sidestages-sunday-tickets/107965512?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vP0Z_pA",
@@ -4490,6 +4670,16 @@
       "latitude": "52.53117",
       "longitude": "13.45067",
       "url": "https://www.ticketmaster.de/event/disney-on-ice-mickys-magische-momente-tickets/952026869?language=en-us"
+    },
+    {
+      "id": "LvZ18QRsNPPRVO5Bl_A_F",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-03-12",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16vFUO04Z",
@@ -4772,6 +4962,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/816221839?language=en-us"
     },
     {
+      "id": "LvZ18QRsNPPRVO5Bl_A_a",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-03-19",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16vkepdkb",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-03-19",
@@ -4960,6 +5160,16 @@
       "latitude": "52.46438",
       "longitude": "13.43338",
       "url": "https://www.ticketmaster.de/event/bella-poarch-picnic-at-the-cemetery-tour-tickets/1887934576?language=en-us"
+    },
+    {
+      "id": "LvZ18QRsNPPRVO5Bl_A_1",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-03-26",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1kAPa9ad",
@@ -5172,6 +5382,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/445121777?language=en-us"
     },
     {
+      "id": "LvZ18QRsNPPRVO5Bl_A_5",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-04-02",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16vOI7pev",
       "name": "Gregor Meyle & Band - Unplugged - Das Wohnzimmerkonzert",
       "date": "2027-04-02",
@@ -5302,6 +5522,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/966713114?language=en-us"
     },
     {
+      "id": "LvZ18QRc9lQdrMD0lX8Hc",
+      "name": "PUDELDAME - THERAPIESESSIONS TOUR",
+      "date": "2027-04-08",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.50833",
+      "longitude": "13.45493",
+      "url": "https://www.universe.com/events/pudeldame-therapiesessions-tour-tickets-1GZJVF?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16vZsqVf-",
       "name": "Ian Hooper - On Tour April 2027",
       "date": "2027-04-08",
@@ -5320,6 +5550,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1202299191?language=en-us"
+    },
+    {
+      "id": "LvZ18QRsNPPRVO5Bl_A_G",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-04-09",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1k4Y0oqM",
@@ -5510,6 +5750,16 @@
       "latitude": "52.50152",
       "longitude": "13.38175",
       "url": "https://www.ticketmaster.de/event/morgan-jay-la-dolce-vita-tour-tickets/70288773?language=en-us"
+    },
+    {
+      "id": "LvZ18QRsNPPRVO5Bl_A_u",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-04-16",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1kfwPFxk",
@@ -5712,6 +5962,16 @@
       "url": "https://www.universe.com/events/saying-the-wrong-thing-english-stand-up-comedy-in-berlin-tickets-Z3TKFP?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z1k4dG_o9",
+      "name": "Ninajirachi - I Love My Computer and It Loves Me Tour",
+      "date": "2027-04-21",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.48684",
+      "longitude": "13.42145",
+      "url": "https://www.ticketmaster.de/event/ninajirachi-i-love-my-computer-and-it-loves-me-tour-tickets/543319457?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kutjb0_",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-04-22",
@@ -5740,6 +6000,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/879755914?language=en-us"
+    },
+    {
+      "id": "LvZ18QRsNPPRVO5Bl_A_C",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-04-23",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1kP8ZaAN",
@@ -5912,6 +6182,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/864387581?language=en-us"
     },
     {
+      "id": "LvZ18QRsNPPRVO5Bl_A_2",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-04-30",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16vvok_Fx",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-04-30",
@@ -6080,6 +6360,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/roland-kaiser-arena-tour-2027-%7C-logen-seat-tickets/1539379279?language=en-us"
+    },
+    {
+      "id": "LvZ18QRsNPPRVO5Bl_A_8",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-05-07",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1kGAPIQA",
@@ -6292,6 +6582,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1612188460?language=en-us"
     },
     {
+      "id": "LvZ18QRsNPPRVO5Bl_A_o",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-05-14",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z1k0k37Gs",
       "name": "ABBAMANIA: 50 JAHRE THANK YOU FOR THE MUSIC| Box-Seat",
       "date": "2027-05-14",
@@ -6480,6 +6780,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/918931680?language=en-us"
+    },
+    {
+      "id": "LvZ18QRsNPPRVO5Bl_A_3",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-05-21",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16vee4PqJ",
@@ -6672,6 +6982,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1854093086?language=en-us"
     },
     {
+      "id": "LvZ18QRsNPPRVO5Bl_A_K",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-05-28",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16vpo-zF-",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-05-28",
@@ -6822,6 +7142,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/217670454?language=en-us"
     },
     {
+      "id": "LvZ18QRsNPPRVO5Bl_A_f",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-06-04",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16vfg8-rf",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-06-04",
@@ -6900,6 +7230,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1644185999?language=en-us"
+    },
+    {
+      "id": "LvZ18QRsNPPRVO5Bl_A_4",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-06-11",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1kOvoVuw",
@@ -7022,6 +7362,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1163200588?language=en-us"
     },
     {
+      "id": "LvZ18QRsNPPRVO5Bl_A_p",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-06-18",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16v397k47",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-06-18",
@@ -7140,6 +7490,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1818073078?language=en-us"
+    },
+    {
+      "id": "LvZ18QRsNPPRVO5Bl_A_9",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-06-25",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1kxd7a_J",
@@ -7262,6 +7622,16 @@
       "url": "https://www.ticketmaster.de/event/harry-styles-together-together-tickets/274494334?language=en-us"
     },
     {
+      "id": "LvZ18QRsNPPRVO5Bl_A_b",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-07-02",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16eZOFIqN",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-07-02",
@@ -7342,6 +7712,16 @@
       "url": "https://www.ticketmaster.de/event/harry-styles-together-together-tickets/960442259?language=en-us"
     },
     {
+      "id": "LvZ18QRsNPPRVO5Bl_A__",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-07-09",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16vA4OfxZ",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-07-09",
@@ -7410,6 +7790,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/43354090?language=en-us"
+    },
+    {
+      "id": "LvZ18QRsNPPRVO5Bl_A_Q",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-07-16",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16vOfCFAz",
@@ -7492,6 +7882,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1657368581?language=en-us"
     },
     {
+      "id": "LvZ18QRsNPPRVO5Bl_A_h",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-07-23",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z16v8k3pGf",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-07-23",
@@ -7550,6 +7950,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1423030001?language=en-us"
+    },
+    {
+      "id": "LvZ18QRsNPPRVO5Bl_A_j",
+      "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
+      "date": "2027-07-30",
+      "time": "20:00:00",
+      "venue": "Tor218 Artlab",
+      "latitude": "52.52754",
+      "longitude": "13.38943",
+      "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16vp6G97Z",
@@ -8172,6 +8582,16 @@
       "url": "https://www.ticketmaster.de/event/synthony-europe-tour-2026-%7C-box-seat-tickets/152684054?language=en-us"
     },
     {
+      "id": "LvZ18QcKGRZK5JR8C7H-H",
+      "name": "Yannick de la Pêche - Danke, Mama",
+      "date": "2027-10-14",
+      "time": "20:00:00",
+      "venue": "Downstairs Comedy Club",
+      "latitude": "52.52509",
+      "longitude": "13.39198",
+      "url": "https://www.universe.com/events/yannick-de-la-peche-danke-mama-tickets-RW3SBT?ref=ticketmaster"
+    },
+    {
       "id": "Z698xZC2Z1kPgog74",
       "name": "SASCHA GRAMMEL - WARUM DENN NICH? | Box seat",
       "date": "2027-10-14",
@@ -8260,6 +8680,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/die-prinzen-tschussi-machts-gut-%7C-box-seat-tickets/1818159029?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k_Y_sG0",
+      "name": "Powerwolf - Moral & Madness World Tour | Box seat",
+      "date": "2027-10-29",
+      "time": "17:30:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/powerwolf-moral--madness-world-tour-%7C-box-seat-tickets/670671324?language=en-us"
     },
     {
       "id": "LvZ18QQbn_rJJcOZ0NcUk",
@@ -8453,13 +8883,13 @@
     },
     {
       "id": "Z698xZC2Z16vO3Ae38",
-      "name": "Carolin Kebekus: Inferna",
+      "name": "Carolin Kebekus - Inferna - Live 2028",
       "date": "2028-02-18",
       "time": "20:00:00",
       "venue": "Uber Arena",
       "latitude": "52.50573",
       "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/carolin-kebekus-inferna-tickets/1812142490?language=en-us"
+      "url": "https://www.ticketmaster.de/event/carolin-kebekus-inferna-live-2028-tickets/1812142490?language=en-us"
     },
     {
       "id": "Z698xZC2Z16v4VvA0Z",
