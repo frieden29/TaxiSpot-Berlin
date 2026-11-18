@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-11-18T07:34:59.511228+00:00",
+  "updatedAt": "2026-11-18T20:36:43.127285+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z16vk9jp-3",
-      "name": "Muse: The Wow! Signal Europa Tour | Box seat in the Ticketmaster Suite",
-      "date": "2026-11-18",
-      "time": "19:30:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/muse-the-wow-signal-europa-tour-%7C-box-seat-in-the-ticketmaster-suite-tickets/1197716852?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vo-Gefk",
-      "name": "Muse - The Wow! Signal Europa Tour",
-      "date": "2026-11-18",
-      "time": "19:30:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/muse-the-wow-signal-europa-tour-tickets/1461302506?language=en-us"
-    },
     {
       "id": "LvZ18QxkY2DCiXZZvGjxx",
       "name": "Saying the Wrong Thing — English Stand-up Comedy in Berlin",
@@ -30,16 +10,6 @@
       "latitude": "52.51092",
       "longitude": "13.46134",
       "url": "https://www.universe.com/events/saying-the-wrong-thing-english-stand-up-comedy-in-berlin-tickets-Z3TKFP?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16vOw0OPx",
-      "name": "Mittermeiers LUCKY PUNCH COMEDY CLUB präsentiert Mixed Night im P!",
-      "date": "2026-11-18",
-      "time": "20:00:00",
-      "venue": "PUNCH L!NE Club Berlin",
-      "latitude": "52.50738",
-      "longitude": "13.37218",
-      "url": "https://www.ticketmaster.de/event/mittermeiers-lucky-punch-comedy-club-prasentiert-mixed-night-im-p-tickets/1832920962?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kPKZsGa",
@@ -3482,6 +3452,16 @@
       "url": "https://www.ticketmaster.de/event/og-lu-alle-chayas-alle-bitches-tour-2027-tickets/1035217700?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1kk4_Ab8",
+      "name": "Joey Avery Live!",
+      "date": "2027-02-05",
+      "time": "20:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/joey-avery-live-tickets/195645610?language=en-us"
+    },
+    {
       "id": "LvZ18QPITODlBe27RyIQd",
       "name": "The Epic Comedy Showcase — English Stand-up Comedy in Berlin",
       "date": "2027-02-05",
@@ -3990,6 +3970,16 @@
       "latitude": "52.53117",
       "longitude": "13.45067",
       "url": "https://www.ticketmaster.de/event/chase-and-status-live-world-tour-tickets/1020405428?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kqe_ZZf",
+      "name": "CALLING ALL CAPTAINS x CHIEF STATE - Europe/ UK Tour 2027",
+      "date": "2027-02-20",
+      "time": "20:00:00",
+      "venue": "Kulturhaus Insel Berlin",
+      "latitude": "52.48768",
+      "longitude": "13.48072",
+      "url": "https://www.ticketmaster.de/event/calling-all-captains-x-chief-state-europe-uk-tour-2027-tickets/742640014?language=en-us"
     },
     {
       "id": "LvZ18QmRUwU3mtxaaNqib",
@@ -8640,6 +8630,16 @@
       "latitude": "52.52076",
       "longitude": "13.38837",
       "url": "https://www.ticketmaster.de/event/brit-floyd-animals-50-tickets/1976432793?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k8PopAK",
+      "name": "GUTALAX - Gore Death Fekality Tour 2027",
+      "date": "2027-10-22",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.50814",
+      "longitude": "13.45181",
+      "url": "https://www.ticketmaster.de/event/gutalax-gore-death-fekality-tour-2027-tickets/425456153?language=en-us"
     },
     {
       "id": "Z698xZC2Z1ku-apb3",
