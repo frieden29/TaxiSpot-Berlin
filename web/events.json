@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-11-19T07:31:06.983248+00:00",
+  "updatedAt": "2026-11-19T20:41:33.463892+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z1kPKZsGa",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-11-19",
-      "time": "18:30:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/953031309?language=en-us"
-    },
     {
       "id": "LvZ18QOUK2wx69YZ0rNwB",
       "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
@@ -20,26 +10,6 @@
       "latitude": "52.53041",
       "longitude": "13.4102",
       "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-SJMR8X?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z1kpk-8aN",
-      "name": "Tagesspiegel Checkpoint: Die Berlin Revue",
-      "date": "2026-11-19",
-      "time": "19:00:00",
-      "venue": "PUNCH L!NE Club Berlin",
-      "latitude": "52.50738",
-      "longitude": "13.37218",
-      "url": "https://www.ticketmaster.de/event/tagesspiegel-checkpoint-die-berlin-revue-tickets/586850263?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1k83ZAF8",
-      "name": "Mollie Elizabeth - People Pleaser Live 2026",
-      "date": "2026-11-19",
-      "time": "19:30:00",
-      "venue": null,
-      "latitude": "52.53839",
-      "longitude": "13.41299",
-      "url": "https://www.ticketmaster.de/event/mollie-elizabeth-people-pleaser-live-2026-tickets/412005210?language=en-us"
     },
     {
       "id": "Z698xZC2Z16eZ7efGb",
@@ -60,36 +30,6 @@
       "latitude": "52.50512",
       "longitude": "13.44341",
       "url": "https://www.ticketmaster.de/event/freya-skye-stars-align-tour-%7C-gallery-seat-tickets/1326827276?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vZbqkG8",
-      "name": "Elder Island - 2026",
-      "date": "2026-11-19",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.47697",
-      "longitude": "13.43919",
-      "url": "https://www.ticketmaster.de/event/elder-island-2026-tickets/1018746310?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kOg8_3a",
-      "name": "DIGITAL STARS @MIKU EXPO EUROPE in Berlin",
-      "date": "2026-11-19",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.46438",
-      "longitude": "13.43338",
-      "url": "https://www.ticketmaster.de/event/digital-stars-miku-expo-europe-in-berlin-tickets/835419489?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kuIAYGI",
-      "name": "Freya Skye - Stars Align Tour",
-      "date": "2026-11-19",
-      "time": "20:00:00",
-      "venue": "Uber Eats Music Hall",
-      "latitude": "52.50512",
-      "longitude": "13.44341",
-      "url": "https://www.ticketmaster.de/event/freya-skye-stars-align-tour-tickets/368170328?language=en-us"
     },
     {
       "id": "LvZ18Q05tKAL2U97Z1pjt",
@@ -510,6 +450,16 @@
       "latitude": "52.50489",
       "longitude": "13.33628",
       "url": "https://www.universe.com/events/schenke-berlin-dein-licht-lampen-patenschaft-schenken-tickets-NVP2L3?ref=ticketmaster"
+    },
+    {
+      "id": "LvZ18Qcb3tBQMgQiDs0ab",
+      "name": "Schenke Berlin Dein Licht - Baum-Patenschaft schenken",
+      "date": "2026-11-26",
+      "time": "18:00:00",
+      "venue": "Breitscheidplatz Berlin",
+      "latitude": "52.50489",
+      "longitude": "13.33628",
+      "url": "https://www.universe.com/events/schenke-berlin-dein-licht-baum-patenschaft-schenken-tickets-F30LG9?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16vuJuYjV",
@@ -1352,16 +1302,6 @@
       "url": "https://www.universe.com/events/the-sinners-saloon-burlesque-cabaret-show-tickets-5FCHJR?ref=ticketmaster"
     },
     {
-      "id": "Z698xZC2Z16vkebokk",
-      "name": "Brad Williams: Tall Tales Tour",
-      "date": "2026-12-06",
-      "time": "19:30:00",
-      "venue": "PUNCH L!NE Club Berlin",
-      "latitude": "52.50738",
-      "longitude": "13.37218",
-      "url": "https://www.ticketmaster.de/event/brad-williams-tall-tales-tour-tickets/1182611186?language=en-us"
-    },
-    {
       "id": "Z698xZC2Z16vO9fwab",
       "name": "Artemas - LOVERCORE / GETTING UP TO NO GOOD Tour",
       "date": "2026-12-06",
@@ -1602,16 +1542,6 @@
       "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
     },
     {
-      "id": "Z698xZC2Z16vOw-I-K",
-      "name": "NIMO: Home Sweet Home Arena Tour 2026",
-      "date": "2026-12-11",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.53117",
-      "longitude": "13.45067",
-      "url": "https://www.ticketmaster.de/event/nimo-home-sweet-home-arena-tour-2026-tickets/1832868853?language=en-us"
-    },
-    {
       "id": "Z698xZC2Z16ve8-sJe",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2026-12-11",
@@ -1710,16 +1640,6 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1417373252?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vG-1oAM",
-      "name": "NIMO: Home Sweet Home Arena Tour 2026",
-      "date": "2026-12-12",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.53117",
-      "longitude": "13.45067",
-      "url": "https://www.ticketmaster.de/event/nimo-home-sweet-home-arena-tour-2026-tickets/1321291177?language=en-us"
     },
     {
       "id": "Z698xZC2Z16v0YJdAo",
@@ -2390,6 +2310,16 @@
       "latitude": "52.53054",
       "longitude": "13.42819",
       "url": "https://www.universe.com/events/the-art-of-nye-silvesterparty-an-der-greifswalder-strasse-tickets-2V6BGQ?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16vOw-I-K",
+      "name": "NIMO: Home Sweet Home Arena Tour 2026",
+      "date": "2026-12-31",
+      "time": null,
+      "venue": null,
+      "latitude": "52.53117",
+      "longitude": "13.45067",
+      "url": "https://www.ticketmaster.de/event/nimo-home-sweet-home-arena-tour-2026-tickets/1832868853?language=en-us"
     },
     {
       "id": "Z698xZC2Z1k-_bdFZ",
@@ -6142,6 +6072,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/935016506?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16v8Y4604",
+      "name": "Tagesspiegel Checkpoint: Die Berlin Revue",
+      "date": "2027-04-29",
+      "time": "19:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/tagesspiegel-checkpoint-die-berlin-revue-tickets/1430547915?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1k-0C6pv",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-04-30",
@@ -7852,6 +7792,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1657368581?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1kasJ7q_",
+      "name": "Early Bird – Young Euro Classic 2027 | 23.07.2027",
+      "date": "2027-07-23",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5127",
+      "longitude": "13.39209",
+      "url": "https://www.ticketmaster.de/event/early-bird--young-euro-classic-2027-%7C-23072027-tickets/271984759?language=en-us"
+    },
+    {
       "id": "LvZ18QRsNPPRVO5Bl_A_h",
       "name": "Comedy in an Art Gallery (Mitte) - Friday 8pm",
       "date": "2027-07-23",
@@ -7882,6 +7832,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/806583424?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16v3F0_P7",
+      "name": "Early Bird – Young Euro Classic 2027 | 24.07.2027",
+      "date": "2027-07-24",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5127",
+      "longitude": "13.39209",
+      "url": "https://www.ticketmaster.de/event/early-bird--young-euro-classic-2027-%7C-24072027-tickets/1488919944?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kGS-OuN",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-07-24",
@@ -7902,6 +7862,36 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/707199495?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vebo0JK",
+      "name": "Early Bird – Young Euro Classic 2027 | 25.07.2027",
+      "date": "2027-07-25",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5127",
+      "longitude": "13.39209",
+      "url": "https://www.ticketmaster.de/event/early-bird--young-euro-classic-2027-%7C-25072027-tickets/1098464993?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vZN4Pk9",
+      "name": "Early Bird – Young Euro Classic 2027 | 26.07.2027",
+      "date": "2027-07-26",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5127",
+      "longitude": "13.39209",
+      "url": "https://www.ticketmaster.de/event/early-bird--young-euro-classic-2027-%7C-26072027-tickets/1023565197?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vOO8svw",
+      "name": "Early Bird – Young Euro Classic 2027 | 27.07.2027",
+      "date": "2027-07-27",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5127",
+      "longitude": "13.39209",
+      "url": "https://www.ticketmaster.de/event/early-bird--young-euro-classic-2027-%7C-27072027-tickets/1820431072?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vQ_ZE7U",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-07-28",
@@ -7912,6 +7902,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1699027136?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vOSo_Ow",
+      "name": "Early Bird – Young Euro Classic 2027 | 28.07.2027",
+      "date": "2027-07-28",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5127",
+      "longitude": "13.39209",
+      "url": "https://www.ticketmaster.de/event/early-bird--young-euro-classic-2027-%7C-28072027-tickets/1833459832?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16v8NZYZv",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-07-29",
@@ -7920,6 +7920,26 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1423030001?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vbkZkZ8",
+      "name": "Early Bird – Young Euro Classic 2027 | 29.07.2027",
+      "date": "2027-07-29",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5127",
+      "longitude": "13.39209",
+      "url": "https://www.ticketmaster.de/event/early-bird--young-euro-classic-2027-%7C-29072027-tickets/1606006010?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k8t_8bp",
+      "name": "Early Bird – Young Euro Classic 2027 | 30.07.2027",
+      "date": "2027-07-30",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5127",
+      "longitude": "13.39209",
+      "url": "https://www.ticketmaster.de/event/early-bird--young-euro-classic-2027-%7C-30072027-tickets/429650616?language=en-us"
     },
     {
       "id": "LvZ18QRsNPPRVO5Bl_A_j",
@@ -7952,6 +7972,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2064350855?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vf0Fg79",
+      "name": "Early Bird – Young Euro Classic 2027 | 31.07.2027",
+      "date": "2027-07-31",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5127",
+      "longitude": "13.39209",
+      "url": "https://www.ticketmaster.de/event/early-bird--young-euro-classic-2027-%7C-31072027-tickets/1524235117?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vuPvy0y",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-07-31",
@@ -7972,6 +8002,26 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1474094793?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1AUFNr9",
+      "name": "Early Bird – Young Euro Classic 2027 | 01.08.2027",
+      "date": "2027-08-01",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5127",
+      "longitude": "13.39209",
+      "url": "https://www.ticketmaster.de/event/early-bird--young-euro-classic-2027-%7C-01082027-tickets/36223797?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v0Z8KjA",
+      "name": "Early Bird – Young Euro Classic 2027 | 03.08.2027",
+      "date": "2027-08-03",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5127",
+      "longitude": "13.39209",
+      "url": "https://www.ticketmaster.de/event/early-bird--young-euro-classic-2027-%7C-03082027-tickets/1900413705?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16eZpvI_x",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-08-04",
@@ -7982,6 +8032,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2016068662?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1kJ_C9kp",
+      "name": "Early Bird – Young Euro Classic 2027 | 04.08.2027",
+      "date": "2027-08-04",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5127",
+      "longitude": "13.39209",
+      "url": "https://www.ticketmaster.de/event/early-bird--young-euro-classic-2027-%7C-04082027-tickets/999397196?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vbKaKut",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-08-05",
@@ -7990,6 +8050,26 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1613253369?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vCoq70Y",
+      "name": "Early Bird – Young Euro Classic 2027 | 05.08.2027",
+      "date": "2027-08-05",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5127",
+      "longitude": "13.39209",
+      "url": "https://www.ticketmaster.de/event/early-bird--young-euro-classic-2027-%7C-05082027-tickets/1391744930?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v-OfS7P",
+      "name": "Early Bird – Young Euro Classic 2027 | 06.08.2027",
+      "date": "2027-08-06",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5127",
+      "longitude": "13.39209",
+      "url": "https://www.ticketmaster.de/event/early-bird--young-euro-classic-2027-%7C-06082027-tickets/1860533125?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vb9epbN",
@@ -8010,6 +8090,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1606004066?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k0t8Yxb",
+      "name": "Early Bird – Young Euro Classic 2027 | 07.08.2027",
+      "date": "2027-08-07",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5127",
+      "longitude": "13.39209",
+      "url": "https://www.ticketmaster.de/event/early-bird--young-euro-classic-2027-%7C-07082027-tickets/929430898?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vbPOb_Y",
@@ -8040,6 +8130,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1050875544?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vA-44kd",
+      "name": "Early Bird – Young Euro Classic 2027 | 08.08.2027",
+      "date": "2027-08-08",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.5127",
+      "longitude": "13.39209",
+      "url": "https://www.ticketmaster.de/event/early-bird--young-euro-classic-2027-%7C-08082027-tickets/1161555183?language=en-us"
     },
     {
       "id": "Z698xZC2Z16eZpvO00",
@@ -8320,6 +8420,26 @@
       "latitude": "52.52076",
       "longitude": "13.38837",
       "url": "https://www.ticketmaster.de/event/mamma-mia-das-original-musical-tickets/1744354477?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k_dZ3re",
+      "name": "KPOP DEMON HUNTERS - GOLDEN WORLD TOUR | Box seat",
+      "date": "2027-09-15",
+      "time": "19:30:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/kpop-demon-hunters-golden-world-tour-%7C-box-seat-tickets/643012782?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k7xFkff",
+      "name": "KPOP DEMON HUNTERS - GOLDEN WORLD TOUR | Box seat",
+      "date": "2027-09-16",
+      "time": "19:30:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/kpop-demon-hunters-golden-world-tour-%7C-box-seat-tickets/122206514?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kx704Gk",
@@ -8810,6 +8930,16 @@
       "latitude": "52.48684",
       "longitude": "13.42145",
       "url": "https://www.ticketmaster.de/event/genetikk-live-2027-%7C-premium-package-tickets/1993844048?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16vG-1oAM",
+      "name": "NIMO: Home Sweet Home Arena Tour 2026",
+      "date": "2027-12-31",
+      "time": null,
+      "venue": null,
+      "latitude": "52.53117",
+      "longitude": "13.45067",
+      "url": "https://www.ticketmaster.de/event/nimo-home-sweet-home-arena-tour-2026-tickets/1321291177?language=en-us"
     },
     {
       "id": "Z698xZC2Z16v_Sx8ua",
