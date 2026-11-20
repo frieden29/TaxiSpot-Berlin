@@ -1,26 +1,6 @@
 {
-  "updatedAt": "2026-11-20T07:22:01.520637+00:00",
+  "updatedAt": "2026-11-20T20:26:04.040608+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z1kOv3f4z",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-11-20",
-      "time": "16:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/801494578?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kQ6G97y",
-      "name": "Marco Gianni - Keine Ahnung was hier los ist, aber ich will dabei sein",
-      "date": "2026-11-20",
-      "time": "18:00:00",
-      "venue": "PUNCH L!NE Club Berlin",
-      "latitude": "52.50738",
-      "longitude": "13.37218",
-      "url": "https://www.ticketmaster.de/event/marco-gianni-keine-ahnung-was-hier-los-ist-aber-ich-will-dabei-sein-tickets/687317139?language=en-us"
-    },
     {
       "id": "LvZ18Q0KTMMpNbMbV1XaE",
       "name": "The Velvet Creepers present Maison Clit",
@@ -72,16 +52,6 @@
       "url": "https://www.ticketmaster.de/event/freya-skye-stars-align-tour-%7C-gallery-seat--drinks-tickets/1853027576?language=en-us"
     },
     {
-      "id": "Z698xZC2Z16v0JQAj6",
-      "name": "NEONI - HOW TO KILL A FAIRYTALE TOUR",
-      "date": "2026-11-20",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.46438",
-      "longitude": "13.43338",
-      "url": "https://www.ticketmaster.de/event/neoni-how-to-kill-a-fairytale-tour-tickets/1926685707?language=en-us"
-    },
-    {
       "id": "Z698xZC2Z16vGNAFZJ",
       "name": "Freya Skye - Stars Align Tour | Gallery Seat",
       "date": "2026-11-20",
@@ -90,26 +60,6 @@
       "latitude": "52.50512",
       "longitude": "13.44341",
       "url": "https://www.ticketmaster.de/event/freya-skye-stars-align-tour-%7C-gallery-seat-tickets/1323148026?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kFoqA86",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-11-20",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/211745407?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kGNv7OP",
-      "name": "Freya Skye - Stars Align Tour",
-      "date": "2026-11-20",
-      "time": "20:00:00",
-      "venue": "Uber Eats Music Hall",
-      "latitude": "52.50512",
-      "longitude": "13.44341",
-      "url": "https://www.ticketmaster.de/event/freya-skye-stars-align-tour-tickets/323044825?language=en-us"
     },
     {
       "id": "LvZ18Q0Gdsyb1YA2tTMu0",
@@ -1252,6 +1202,16 @@
       "url": "https://www.universe.com/events/the-sinners-saloon-burlesque-cabaret-show-tickets-5FCHJR?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z16vft0Pk7",
+      "name": "Brad Williams: Tall Tales Tour",
+      "date": "2026-12-06",
+      "time": "19:30:00",
+      "venue": "Anna Spree",
+      "latitude": "52.51986",
+      "longitude": "13.32693",
+      "url": "https://www.ticketmaster.de/event/brad-williams-tall-tales-tour-tickets/1529925184?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vO9fwab",
       "name": "Artemas - LOVERCORE / GETTING UP TO NO GOOD Tour",
       "date": "2026-12-06",
@@ -1300,6 +1260,16 @@
       "latitude": "52.51007",
       "longitude": "13.36896",
       "url": "https://www.ticketmaster.de/event/spectrum-concerts-berlin-tickets/936388427?language=en-us"
+    },
+    {
+      "id": "LvZ18QRHZLXCLzLIHjHqC",
+      "name": "Berlin Bowie Fest – The 80th Birthday Bash",
+      "date": "2026-12-08",
+      "time": "18:00:00",
+      "venue": null,
+      "latitude": "52.49955",
+      "longitude": "13.35052",
+      "url": "https://www.universe.com/events/berlin-bowie-fest-the-80th-birthday-bash-tickets-W986H3?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z1kfbCA-k",
@@ -3140,6 +3110,16 @@
       "latitude": "52.52754",
       "longitude": "13.38943",
       "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z1k_0Fkak",
+      "name": "COMIC STRIP - Show 2027",
+      "date": "2027-01-29",
+      "time": "20:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/comic-strip-show-2027-tickets/664206246?language=en-us"
     },
     {
       "id": "LvZ18QxkmlR0HqZZvegeD",
@@ -6742,6 +6722,16 @@
       "url": "https://www.universe.com/events/muddi-muss-mal-raus-mama-leisa-live-tour-2027-tickets-R3MW4Y?ref=ticketmaster"
     },
     {
+      "id": "Z698xZC2Z16v0KGP_v",
+      "name": "Bogdan Lisevsky | Berlin",
+      "date": "2027-05-22",
+      "time": "19:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/bogdan-lisevsky-%7C-berlin-tickets/1913325641?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16v7YovCk",
       "name": "NIGHT of the JUMPs - Freestyle MX World Championship",
       "date": "2027-05-22",
@@ -8620,6 +8610,16 @@
       "latitude": "52.49202",
       "longitude": "13.38853",
       "url": "https://www.universe.com/events/maximilian-lorenz-es-ist-kompliziert-tickets-J5NG49?ref=ticketmaster"
+    },
+    {
+      "id": "Z698xZC2Z16v-JbY-E",
+      "name": "SERDAR SOMUNCU - HASSIAS - Er ist wieder da!",
+      "date": "2027-10-09",
+      "time": "20:00:00",
+      "venue": "PUNCH L!NE Club Berlin",
+      "latitude": "52.50738",
+      "longitude": "13.37218",
+      "url": "https://www.ticketmaster.de/event/serdar-somuncu-hassias-er-ist-wieder-da-tickets/1866630867?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kA3Q7vf",
