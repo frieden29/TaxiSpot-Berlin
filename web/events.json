@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-11-21T07:15:15.522957+00:00",
+  "updatedAt": "2026-11-21T19:20:39.140519+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z16v-VFZP8",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-11-21",
-      "time": "16:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1874200950?language=en-us"
-    },
     {
       "id": "LvZ18QRp2Z8UPHn4Llhi-",
       "name": "Moritz Hohl - Musst du wissen",
@@ -42,16 +32,6 @@
       "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-9LJF8T?ref=ticketmaster"
     },
     {
-      "id": "Z698xZC2Z1kqkjaqw",
-      "name": "Gutalax – \"Shit on the Dancefloor Mini Tour 2026\"",
-      "date": "2026-11-21",
-      "time": "19:30:00",
-      "venue": null,
-      "latitude": "52.50102",
-      "longitude": "13.44136",
-      "url": "https://www.ticketmaster.de/event/gutalax--shit-on-the-dancefloor-mini-tour-2026-tickets/746709772?language=en-us"
-    },
-    {
       "id": "Z698xZC2Z16v4ZOMjJ",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2026-11-21",
@@ -60,16 +40,6 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1540837726?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kFIrd-f",
-      "name": "Mo Gilligan: The Mo You Know",
-      "date": "2026-11-21",
-      "time": "20:00:00",
-      "venue": "PUNCH L!NE Club Berlin",
-      "latitude": "52.50738",
-      "longitude": "13.37218",
-      "url": "https://www.ticketmaster.de/event/mo-gilligan-the-mo-you-know-tickets/228783854?language=en-us"
     },
     {
       "id": "LvZ18Q0C-qoB9vBfdlCck",
@@ -6720,6 +6690,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/144668138?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16v0--U1K",
+      "name": "Allie Sherlock - Now I've Said It Tour",
+      "date": "2027-05-24",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.46438",
+      "longitude": "13.43338",
+      "url": "https://www.ticketmaster.de/event/allie-sherlock-now-ive-said-it-tour-tickets/1921876293?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vje33_g",
