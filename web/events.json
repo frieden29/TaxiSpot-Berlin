@@ -1,66 +1,6 @@
 {
-  "updatedAt": "2026-11-21T19:20:39.140519+00:00",
+  "updatedAt": "2026-11-22T06:55:51.420234+00:00",
   "events": [
-    {
-      "id": "LvZ18QRp2Z8UPHn4Llhi-",
-      "name": "Moritz Hohl - Musst du wissen",
-      "date": "2026-11-21",
-      "time": "17:00:00",
-      "venue": "Tempodrom Kleine Arena",
-      "latitude": "52.50152",
-      "longitude": "13.38175",
-      "url": "https://www.universe.com/events/moritz-hohl-musst-du-wissen-tickets-248CKZ?ref=ticketmaster"
-    },
-    {
-      "id": "LvZ18Q0f7U9dfm_9akdCb",
-      "name": "The Velvet Creepers present Maison Clit",
-      "date": "2026-11-21",
-      "time": "19:00:00",
-      "venue": null,
-      "latitude": "52.53224",
-      "longitude": "13.38003",
-      "url": "https://www.universe.com/events/the-velvet-creepers-present-maison-clit-tickets-DX2CGS?ref=ticketmaster"
-    },
-    {
-      "id": "LvZ18QOs4wytfl8ZzIRQt",
-      "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
-      "date": "2026-11-21",
-      "time": "19:00:00",
-      "venue": "Cosmic Comedy Club",
-      "latitude": "52.53041",
-      "longitude": "13.4102",
-      "url": "https://www.universe.com/events/laughs-pizza-shots-english-comedy-night-in-the-heart-of-berlin-tickets-9LJF8T?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16v4ZOMjJ",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-11-21",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1540837726?language=en-us"
-    },
-    {
-      "id": "LvZ18Q0C-qoB9vBfdlCck",
-      "name": "rejazz-festival – DAY 3 – Julie Campiche // Aki Takase",
-      "date": "2026-11-21",
-      "time": "20:30:00",
-      "venue": "Jazzclub Kunstfabrik Schlot",
-      "latitude": "52.53032",
-      "longitude": "13.38533",
-      "url": "https://www.universe.com/events/rejazz-festival-day-3-julie-campiche-aki-takase-tickets-Q41N06?ref=ticketmaster"
-    },
-    {
-      "id": "LvZ18QmRUwU3mtxaaNqi5",
-      "name": "Darkest Thoughts — Improvised English Stand-Up Comedy Game-Show in Berlin",
-      "date": "2026-11-21",
-      "time": "20:30:00",
-      "venue": "Märchenhütte",
-      "latitude": "52.52291",
-      "longitude": "13.39468",
-      "url": "https://www.universe.com/events/darkest-thoughts-improvised-english-stand-up-comedy-game-show-in-berlin-tickets-R3YW86?ref=ticketmaster"
-    },
     {
       "id": "Z698xZC2Z1kf0vM-s",
       "name": "Cirque du Soleil ALIZÉ",
