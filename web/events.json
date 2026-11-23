@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T07:44:57.033709+00:00",
+  "updatedAt": "2026-11-23T23:57:10.980424+00:00",
   "events": [
     {
       "id": "LvZ18QJ7477jAokqtfSGp",
@@ -20,26 +20,6 @@
       "latitude": "52.49017",
       "longitude": "13.42611",
       "url": "https://www.universe.com/events/wir-arbeiten-dran-stand-up-comedy-berlin-tickets-LF359S?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z1k0s44vy",
-      "name": "Nokia Angel - NECROMANCE TOUR",
-      "date": "2026-11-23",
-      "time": "20:00:00",
-      "venue": "LARK",
-      "latitude": "52.51314",
-      "longitude": "13.4228",
-      "url": "https://www.ticketmaster.de/event/nokia-angel-necromance-tour-tickets/931555079?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1k7ap6po",
-      "name": "Tinie Tempah - THE NIGHT´S NOT DEAD TOUR",
-      "date": "2026-11-23",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.53818",
-      "longitude": "13.41259",
-      "url": "https://www.ticketmaster.de/event/tinie-tempah-the-nights-not-dead-tour-tickets/109587591?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kfUPSAo",
@@ -1950,16 +1930,6 @@
       "latitude": "52.49017",
       "longitude": "13.42611",
       "url": "https://www.universe.com/events/wir-arbeiten-dran-stand-up-comedy-berlin-tickets-LF359S?ref=ticketmaster"
-    },
-    {
-      "id": "LvZ18QpQL-NGquZZwiVIV",
-      "name": "Honey Slam Berlin – Poetryslam ohne traurige Texte!",
-      "date": "2026-12-28",
-      "time": "20:00:00",
-      "venue": "Tati Goes Underground",
-      "latitude": "52.53198",
-      "longitude": "13.41407",
-      "url": "https://www.universe.com/events/honey-slam-berlin-poetryslam-ohne-traurige-texte-tickets-M1PXKT?ref=ticketmaster"
     },
     {
       "id": "Z698xZC2Z16v438Ie3",
@@ -4712,6 +4682,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2095737188?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16v0z8yv3",
+      "name": "Collect 200",
+      "date": "2027-03-22",
+      "time": "20:00:00",
+      "venue": "Mikropol",
+      "latitude": "52.49948",
+      "longitude": "13.35416",
+      "url": "https://www.ticketmaster.de/event/collect-200-tickets/1938439052?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vOPPvq4",
       "name": "Nessa Barrett - The Tough Love Tour",
       "date": "2027-03-22",
@@ -7140,6 +7120,16 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1370796144?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1kvFj8-3",
+      "name": "Pierce The Veil - Europe 2027",
+      "date": "2027-06-23",
+      "time": "20:00:00",
+      "venue": "Tempodrom",
+      "latitude": "52.50152",
+      "longitude": "13.38175",
+      "url": "https://www.ticketmaster.de/event/pierce-the-veil-europe-2027-tickets/48710852?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kPp0zvk",
