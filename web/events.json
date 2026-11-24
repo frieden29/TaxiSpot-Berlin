@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-11-24T09:58:39.539545+00:00",
+  "updatedAt": "2026-11-24T22:29:50.731127+00:00",
   "events": [
-    {
-      "id": "LvZ18QJ7477jAokqtfSGp",
-      "name": "Tag der Verbände 2026",
-      "date": "2026-11-23",
-      "time": "09:00:00",
-      "venue": null,
-      "latitude": "52.53286",
-      "longitude": "13.34545",
-      "url": "https://www.universe.com/events/tag-der-verbande-2026-tickets-SFBKPV?ref=ticketmaster"
-    },
     {
       "id": "Z698xZC2Z1kfUPSAo",
       "name": "Eisbären Berlin - Löwen Frankfurt | Box-Seat",
@@ -30,36 +20,6 @@
       "latitude": "52.54291",
       "longitude": "13.42071",
       "url": "https://www.universe.com/events/lachkater-die-stand-up-comedy-show-tickets-0DY124?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16evyjdOA",
-      "name": "GURRIERS - Nobody's Coming To Save You Tour 2026",
-      "date": "2026-11-24",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.53818",
-      "longitude": "13.41259",
-      "url": "https://www.ticketmaster.de/event/gurriers-nobodys-coming-to-save-you-tour-2026-tickets/2079703805?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vFtZzaY",
-      "name": "Strangelove - The DEPECHE MODE Experience Black Celebration 2026",
-      "date": "2026-11-24",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.48684",
-      "longitude": "13.42145",
-      "url": "https://www.ticketmaster.de/event/strangelove-the-depeche-mode-experience-black-celebration-2026-tickets/1229038270?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1k1oaV0N",
-      "name": "glaive - God Save The Three Tour",
-      "date": "2026-11-24",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.49918",
-      "longitude": "13.44514",
-      "url": "https://www.ticketmaster.de/event/glaive-god-save-the-three-tour-tickets/291274923?language=en-us"
     },
     {
       "id": "Z698xZC2Z16v03adfA",
@@ -420,16 +380,6 @@
       "latitude": "52.5076",
       "longitude": "13.37386",
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1164884939?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16evVFOJA",
-      "name": "THE KEHLANI WORLD TOUR: EU & UK | VIP Upgrades (no ticket included)",
-      "date": "2026-11-29",
-      "time": "19:00:00",
-      "venue": null,
-      "latitude": "52.53117",
-      "longitude": "13.45067",
-      "url": "https://www.ticketmaster.de/event/the-kehlani-world-tour-eu--uk-%7C-vip-upgrades-no-ticket-included--tickets/2074220985?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kfs8v4Z",
@@ -3882,6 +3832,16 @@
       "url": "https://www.ticketmaster.de/event/soak-decembers-on-tour-tickets/1137578445?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vf38I-f",
+      "name": "Stand Atlantic",
+      "date": "2027-03-01",
+      "time": "20:00:00",
+      "venue": "Columbia Theater",
+      "latitude": "52.48461",
+      "longitude": "13.3915",
+      "url": "https://www.ticketmaster.de/event/stand-atlantic-tickets/1512428854?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16vfJoUpA",
       "name": "Eisbären Berlin - Löwen Frankfurt | Box-Seat",
       "date": "2027-03-02",
@@ -4320,6 +4280,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/xavier-naidoo-live-2027-%7C-box-seat-in-the-ticketmaster-suite-tickets/1714645076?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1k8zvkZN",
+      "name": "Xavier Naidoo - Live 2027 | Premium Packages",
+      "date": "2027-03-12",
+      "time": "20:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/xavier-naidoo-live-2027-%7C-premium-packages-tickets/438046023?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kvxAk03",
@@ -6960,6 +6930,16 @@
       "latitude": "52.50573",
       "longitude": "13.44314",
       "url": "https://www.ticketmaster.de/event/6k-united-wir-lassen-dich-nicht-allein-%7C-box-seat-tickets/917544063?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1A6oxuf",
+      "name": "Staind: Break The Cycle UK & Europe 25th Anniversary Tour",
+      "date": "2027-06-13",
+      "time": "20:00:00",
+      "venue": "Uber Eats Music Hall",
+      "latitude": "52.50512",
+      "longitude": "13.44341",
+      "url": "https://www.ticketmaster.de/event/staind-break-the-cycle-uk--europe-25th-anniversary-tour-tickets/7462354?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kbgQeA6",
