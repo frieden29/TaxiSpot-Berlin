@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-11-25T08:42:10.920101+00:00",
+  "updatedAt": "2026-11-25T21:45:15.789049+00:00",
   "events": [
-    {
-      "id": "Z698xZC2Z16v03adfA",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-11-25",
-      "time": "18:30:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1912243505?language=en-us"
-    },
     {
       "id": "LvZ18QxkY2DCiXZZvGjxN",
       "name": "Saying the Wrong Thing — English Stand-up Comedy in Berlin",
@@ -20,36 +10,6 @@
       "latitude": "52.51092",
       "longitude": "13.46134",
       "url": "https://www.universe.com/events/saying-the-wrong-thing-english-stand-up-comedy-in-berlin-tickets-Z3TKFP?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16veAC_0S",
-      "name": "horsegiirL - NATURE IS HEALING tour",
-      "date": "2026-11-25",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.48684",
-      "longitude": "13.42145",
-      "url": "https://www.ticketmaster.de/event/horsegiirl-nature-is-healing-tour-tickets/1085399933?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vuFfJJv",
-      "name": "KONSTANTINOS ARGIROS - Live with Band | Box seat",
-      "date": "2026-11-25",
-      "time": "20:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/konstantinos-argiros-live-with-band-%7C-box-seat-tickets/1348526981?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z1kCdANoV",
-      "name": "Bryson Tiller Presents: The Neo Trapsoul Tour",
-      "date": "2026-11-25",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.53117",
-      "longitude": "13.45067",
-      "url": "https://www.ticketmaster.de/event/bryson-tiller-presents-the-neo-trapsoul-tour-tickets/383163474?language=en-us"
     },
     {
       "id": "LvZ18Qc9XRMvjFWfNNQZZ",
@@ -530,6 +490,16 @@
       "latitude": "52.50833",
       "longitude": "13.45493",
       "url": "https://www.ticketmaster.de/event/ledbyher-midwinter-tour-tickets/1247848400?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1AJ4PkA",
+      "name": "PUR | Box-Seat in the Ticketmaster Suite",
+      "date": "2026-12-02",
+      "time": "20:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/pur-%7C-box-seat-in-the-ticketmaster-suite-tickets/26565185?language=en-us"
     },
     {
       "id": "Z698xZC2Z1kCZbw_a",
@@ -3062,6 +3032,16 @@
       "url": "https://www.ticketmaster.de/event/sophia-stel-tickets/1404665897?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16v_Sx8ua",
+      "name": "Deep Purple | Box seat in the Ticketmaster Suite",
+      "date": "2027-02-08",
+      "time": null,
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/deep-purple-%7C-box-seat-in-the-ticketmaster-suite-tickets/1673890349?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1kGpqUvV",
       "name": "One Vision of Queen feat. Marc Martel | Box seat",
       "date": "2027-02-09",
@@ -3840,6 +3820,16 @@
       "latitude": "52.48684",
       "longitude": "13.42145",
       "url": "https://www.ticketmaster.de/event/emeli-sande-celebrating-15-years-of-our-version-of-events-tickets/1276396443?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z1A38gjf",
+      "name": "WizTheMc - AROUND THE SUN TOUR",
+      "date": "2027-03-02",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.53818",
+      "longitude": "13.41259",
+      "url": "https://www.ticketmaster.de/event/wizthemc-around-the-sun-tour-tickets/12435714?language=en-us"
     },
     {
       "id": "LvZ18QPITyaos7lrlaLX4",
@@ -5552,6 +5542,16 @@
       "url": "https://www.ticketmaster.de/event/cave-tour-de-porz-tickets/2011173234?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16evtqeaP",
+      "name": "Chase Atlantic — DON’T LOOK DOWN TOUR",
+      "date": "2027-04-22",
+      "time": "20:00:00",
+      "venue": "Uber Arena",
+      "latitude": "52.50573",
+      "longitude": "13.44314",
+      "url": "https://www.ticketmaster.de/event/chase-atlantic--dont-look-down-tour-tickets/2069742265?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1k-yq40f",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-04-23",
@@ -7162,6 +7162,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2095303745?language=en-us"
     },
     {
+      "id": "Z698xZC2Z1kbg-ar9",
+      "name": "Paul Kalkbrenner",
+      "date": "2027-06-27",
+      "time": "19:00:00",
+      "venue": null,
+      "latitude": "52.46362",
+      "longitude": "13.53411",
+      "url": "https://www.ticketmaster.de/event/paul-kalkbrenner-tickets/635849797?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z16v4oGoCA",
       "name": "Don Omar - The Last King World To | Box seat in the Ticketmaster Suite",
       "date": "2027-06-28",
@@ -8650,16 +8660,6 @@
       "latitude": "52.53117",
       "longitude": "13.45067",
       "url": "https://www.ticketmaster.de/event/nimo-home-sweet-home-arena-tour-2026-tickets/1321291177?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16v_Sx8ua",
-      "name": "Deep Purple | Box seat in the Ticketmaster Suite",
-      "date": "2027-12-31",
-      "time": null,
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/deep-purple-%7C-box-seat-in-the-ticketmaster-suite-tickets/1673890349?language=en-us"
     },
     {
       "id": "Z698xZC2Z16vfI1kAa",
