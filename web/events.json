@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T08:40:48.934566+00:00",
+  "updatedAt": "2026-11-27T21:22:09.362093+00:00",
   "events": [
     {
       "id": "LvZ18Qc9XRMvjFWfNNQZZ",
@@ -22,26 +22,6 @@
       "url": "https://www.universe.com/events/schenke-berlin-dein-licht-baum-patenschaft-schenken-tickets-F30LG9?ref=ticketmaster"
     },
     {
-      "id": "Z698xZC2Z16vASb4-_",
-      "name": "Die Weihnachtsbäckerei",
-      "date": "2026-11-27",
-      "time": "15:30:00",
-      "venue": "PUNCH L!NE Club Berlin",
-      "latitude": "52.50738",
-      "longitude": "13.37218",
-      "url": "https://www.ticketmaster.de/event/die-weihnachtsbackerei-tickets/1173615859?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16evoQvfZ",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-11-27",
-      "time": "16:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/2051681500?language=en-us"
-    },
-    {
       "id": "LvZ18QOspTEXFgZvGehkJ",
       "name": "Laughs, Pizza & Shots – English Comedy Night in the Heart of Berlin!",
       "date": "2026-11-27",
@@ -60,36 +40,6 @@
       "latitude": "52.52754",
       "longitude": "13.38943",
       "url": "https://www.universe.com/events/comedy-in-an-art-gallery-mitte-friday-8pm-tickets-Q8YVX9?ref=ticketmaster"
-    },
-    {
-      "id": "Z698xZC2Z16v-gvSAY",
-      "name": "Felix Lobrecht | Logen-Seat",
-      "date": "2026-11-27",
-      "time": "20:00:00",
-      "venue": "Uber Arena",
-      "latitude": "52.50573",
-      "longitude": "13.44314",
-      "url": "https://www.ticketmaster.de/event/felix-lobrecht-%7C-logen-seat-tickets/1875073170?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vOSffjI",
-      "name": "Muna - Gets So Hot Tour",
-      "date": "2026-11-27",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.50814",
-      "longitude": "13.45181",
-      "url": "https://www.ticketmaster.de/event/muna-gets-so-hot-tour-tickets/1833514728?language=en-us"
-    },
-    {
-      "id": "Z698xZC2Z16vb0PpPv",
-      "name": "Cirque du Soleil ALIZÉ",
-      "date": "2026-11-27",
-      "time": "20:00:00",
-      "venue": null,
-      "latitude": "52.5076",
-      "longitude": "13.37386",
-      "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1624956941?language=en-us"
     },
     {
       "id": "LvZ18QxkmlR0HqZZvegew",
@@ -7312,6 +7262,16 @@
       "url": "https://www.ticketmaster.de/event/cirque-du-soleil-alize-tickets/1155814880?language=en-us"
     },
     {
+      "id": "Z698xZC2Z16vO94eZt",
+      "name": "Backstreet Boys: Into The Millennium - Homecoming",
+      "date": "2027-07-09",
+      "time": "20:00:00",
+      "venue": null,
+      "latitude": "52.51452",
+      "longitude": "13.24326",
+      "url": "https://www.ticketmaster.de/event/backstreet-boys-into-the-millennium-homecoming-tickets/1817542029?language=en-us"
+    },
+    {
       "id": "Z698xZC2Z1k7N_gjt",
       "name": "Cirque du Soleil ALIZÉ",
       "date": "2027-07-10",
@@ -8140,6 +8100,16 @@
       "latitude": "52.52076",
       "longitude": "13.38837",
       "url": "https://www.ticketmaster.de/event/mamma-mia-das-original-musical-tickets/971886041?language=en-us"
+    },
+    {
+      "id": "Z698xZC2Z16ve8pkb-",
+      "name": "Element of Crime - Sommer 2027",
+      "date": "2027-09-18",
+      "time": "18:30:00",
+      "venue": null,
+      "latitude": "52.46362",
+      "longitude": "13.53411",
+      "url": "https://www.ticketmaster.de/event/element-of-crime-sommer-2027-tickets/1090586621?language=en-us"
     },
     {
       "id": "Z698xZC2Z16evUGNxb",
